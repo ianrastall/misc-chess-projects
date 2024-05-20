@@ -1,0 +1,151 @@
+   pos Player_ID  Name                                  Title Fed  Rtng   +/-  gms   Birthday   Sex  Flag 
+     x            Gunawan, Ronny                              INA  2375                                
+     x            Chernin, Alexander                      m   URS  2375                                
+     x            Meetei, A. B.                               IND  2340                                
+     x            Vukovic, Ivo                                YUG  2340   -20                          
+     x            Kusnadi, Herman                             INA  2335                                
+     x            Damljanovic, Branko                         YUG  2335                                
+     x            Monnard, Laurent                            FRA  2330                                
+     x            Acosta, Alejandro                           COL  2325                                
+     x            Iskandar, Arif                              INA  2325                                
+     x            Greenfeld, Alon                             ISR  2315                                
+     x            Pilarte, Rene                               NCA  2310                                
+     x            Karolyi, Tibor jr                           HUN  2300                                
+     x            Veljkovic, Milic                            YUG  2300                                
+     x            Vallifuoco, Giovanni                        ITA  2295                                
+     x            De La Garza, Arturo                         MEX  2290                                
+     x            Pacis, Adrian                               PHI  2290                                
+     x            Wong, Meng-Kong                         m   SIN  2290                                
+     x            Cusi, Ronald                                PHI  2285                                
+     x            Bass, Leonid                                USA  2285                                
+     x            Choleva, Zdenek                             CSR  2280                                
+     x            Voboril, Pavel                              CSR  2280                                
+     x            Gransky, Michael                            ISR  2280                                
+     x            Rakowiecki, Tomasz                          POL  2280                                
+     x            Koh, Kum-Hong                               SIN  2280                                
+     x            Mirkovic, Slobodan                          YUG  2280                                
+     x            Janak, Jaroslav                             CSR  2275                                
+     x            Hegde, Ravi Gopal                           IND  2275                                
+     x            Bernal, Eduardo                             PHI  2275                                
+     x            Mateo, Ramon                                DOM  2270                                
+     x            De Boer, Gert-Jan                           NED  2270                                
+     x            Kiedrowicz, Jan                             POL  2270                                
+     x            Mendoza, Rafael                             COL  2265                                
+     x            Schellhorn, Wolfgang                        GER  2265                                
+     x            Cardon, Helmut                              NED  2265                                
+     x            De Lange, Job                               NED  2265                                
+     x            Douven, Rudy C.                             NED  2265                                
+     x            Lao, Elias                                  PHI  2265                                
+     x            Schiller, Eric                              USA  2265                                
+     x            Pergericht, Daniel                          BEL  2260                                
+     x            Votruba, Pavel                              CSR  2260                                
+     x            Kiss, Attila                                HUN  2260                                
+     x            Ondi, Gyula                                 HUN  2260                                
+     x            Kjelstrup-Olsen, Arthur                     NOR  2260                                
+     x            Krason, Jozef                               POL  2260                                
+     x            Dimovski, Nikola                            YUG  2260                                
+     x            Brito, Luizmar J.                           BRA  2255                                
+     x            Doery, Jeno                                 HUN  2255                                
+     x            Beitar, Hanni                               SYR  2255                                
+     x            Braun, Leslie                               USA  2255                                
+     x            Golubovic, Zoran                            YUG  2255                                
+     x            Finlayson, Shaun                            ENG  2250                                
+     x            Bordell Rosell, Roman                       ESP  2250                                
+     x            Mohanty, Pabitra M.                         IND  2250                                
+     x            Sinprayoon, Pricha                          THA  2250                                
+     x            Perkovic, Marinko                           YUG  2250                                
+     x            Barbeau, Sylvain                            CAN  2245                                
+     x            Loikkainen, Ilmari                          FIN  2245                                
+     x            Gauglitz, Gernot                            GDR  2245                                
+     x            Tokaji-Nagy, Gyorgy                         HUN  2245                                
+     x            Van der Linde, Meindert                     NED  2245                                
+     x            Ramayrat, Cris                              PHI  2245                                
+     x            Kubik, Jan                                  POL  2245                                
+     x            Marcinkowski, Kazimierz                     POL  2245                                
+     x            Sequeira, Joao F. A.                        POR  2245                                
+     x            Goh, Cheng-Hong                             SIN  2245                                
+     x            Vasovski, Nikolce                           YUG  2245                                
+     x            Georgiou, Iraklis                           GRE  2240                                
+     x            Skiadopoulos, Nikolaos                      GRE  2240                                
+     x            Perez, Andres                               MEX  2240                                
+     x            Lindblom, Steinar                           NOR  2240                                
+     x            Micayabas, Marlo                            PHI  2240                                
+     x            Litvinchuk, John                            USA  2240                                
+     x            Tempone, Marcelo                        f   ARG  2235                                
+     x            Boudre, Jean-Pierre                         FRA  2235                                
+     x            Fecht, Hans-Peter                           GER  2235                                
+     x            Kapu, Jeno                                  HUN  2235                                
+     x            Carlier, Bruno                              NED  2235                                
+     x            Motwani, Paul                           f   SCO  2235                                
+     x            Zachowski, Robert                           USA  2235                                
+     x            Sekelj, Geza                                YUG  2235                                
+     x            Ruiz, Alciguel                              COL  2230                                
+     x            Liao, Yuan Eu                               DOM  2230                                
+     x            Faulbaum, Gunter                            GER  2230                                
+     x            Zieher, Hartmut                             GER  2230                                
+     x            Jalal, A. Ali                               IRQ  2230                                
+     x            Laco, Giuseppe                              ITA  2230                                
+     x            Garma, Chito                                PHI  2230                                
+     x            Balicki, Cezary                             POL  2230                                
+     x            Gieruszynski, Jerzy                         POL  2230                                
+     x            Kapetanovic, Armin                          YUG  2230                                
+     x            Reznicek, Jan                               CSR  2225                                
+     x            Stamatopoulos, Ioannis                      GRE  2225                                
+     x            Untoro, Toha                                INA  2225                                
+     x            Lubienski, Tadeusz                          POL  2225                                
+     x            Ruefenacht, Matthias                        SUI  2225                                
+     x            Drasko, Milan                               YUG  2225                                
+     x            Kostic, Milutin B.                          YUG  2225                                
+     x            Hasan, Younus                               BAN  2220                                
+     x            Nielsen, Jorgen G.                          DEN  2220                                
+     x            Lorenz, Gerd                                GDR  2220                                
+     x            Tassi, Oliviero                             ITA  2220                                
+     x            Chia, Chee-Seng                             SIN  2220   +15                          
+     x            Zurowski, Henry                             CAN  2215                                
+     x            Gruenberg, Rainer                           GER  2215                                
+     x            Mahdi, S. Abdulrazak                        IRQ  2215                                
+     x            Jenssen, Reidar                             NOR  2215                                
+     x            Miladinov, Milan                            YUG  2215                                
+     x            Vukosavljevic, Ljubisa                      YUG  2215                                
+     x            Gutierrez, Ramon                            COL  2210                                
+     x            Cordes, Hans-Joerg                          GER  2210                                
+     x            Bonne, Eli                                  ISR  2210                                
+     x            Nunez Guzman, Jose Luis                     MEX  2210                                
+     x            Myreng, Svein G.                            NOR  2210                                
+     x            Janocha, Wieslaw                            POL  2210                                
+     x            Schroer, Jonathan                           USA  2210                                
+     x            Djurovic, Dj.                               YUG  2210                                
+     x            Ivic, Slobodan                              YUG  2210                                
+     x            Trkaljanov, Vladimir                        YUG  2210                                
+     x            Urbina, Jaime                               COL  2205                                
+     x            Hassan, Shamsul                             IND  2205                                
+     x            Sahu, Sekhar Chandra                        IND  2205                                
+     x            Sinha, A.                                   IND  2205                                
+     x            Hall, Earl C.                               USA  2205                                
+     x            Konc, Vili                                  YUG  2205                                
+     x            Medenica, Vojislav                          YUG  2205                                
+     x            Nadj, Vladimir                              YUG  2205   -10                          
+     x            Meskhi, Tumara                              URS  1940                          w     
+     x            Liu, Shilan                                 CHN  1930                          w     
+     x            Mutchnik, Larisa                            URS  1920                          w     
+     x            Polgar, Zsuzsa                              HUN  1900                          w     
+     x            Cuevas Rodriguez, Maria Luisa               ESP  1885                          w     
+     x            Kasinska, Zofia                             POL  1885                          w     
+     x            Ramon, Vivian                               CUB  1880                          w     
+     x            Fendel, Regina                              GER  1865                          w     
+     x            Petrova, Marlena                            BUL  1855                          w     
+     x            Nagrocka, Ewa                               POL  1855                          w     
+     x            Tsvetkova, Ruzka                            BUL  1845                          w     
+     x            Scott, H.                                   SCO  1840                          w     
+     x            Kierzek, Matthias                           GER  1835                          w     
+     x            Hund, Isabel                                GER  1825  -250                    w     
+     x            Fassler, J.                                 SUI  1820   -80                    w     
+     x            Gere, Valeria                               YUG  1815                          w     
+     x            Meyer, L.                                   SUI  1805                          w     
+     x            Nyberg, Christina                           SWE  1805                          w     
+
+
+
+
+
+

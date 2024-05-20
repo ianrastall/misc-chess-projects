@@ -1,0 +1,141 @@
+   pos Player_ID  Name                                  Title Fed  Rtng   +/-  gms   Birthday   Sex  Flag 
+     x            Tukmakov, Vladimir B.                   g   URS  2570     0                          
+     x            Gulko, Boris F.                         g   URS  2565     0                          
+     x            Kuzmin, Gennadi P.                      g   URS  2560     0                          
+     x            Valvo, Michael J.                           USA  2560     0                          
+     x            Vaganian, Rafael A.                     g   URS  2555     0                          
+     x            Kholmov, Ratmir D.                      g   URS  2550     0                          
+     x            Savon, Vladimir A.                      g   URS  2550     0                          
+     x            Tseshkovsky, Vitaly                     g   URS  2550     0                          
+     x            Gipslis, Aivars                         g   URS  2540     0                          
+     x            Giorgadze, Tamaz                        g   URS  2535     0                          
+     x            Beliavsky, Alexander G.                 g   URS  2530     0                          
+     x            Goichberg, William                          USA  2530     0                          
+     x            Grigorian, Karen A.                         URS  2520   +20                          
+     x            Alburt, Lev O.                          g   URS  2515     0                          
+     x            Bagirov, Vladimir                       m   URS  2505     0                          
+     x            Taimanov, Mark E.                       g   URS  2505     0                          
+     x            Gurgenidze, Bukhuti                     g   URS  2500     0                          
+     x            Rashkovsky, Nukhim N.                   m   URS  2500     0                          
+     x            Rodriguez, Amador                       g   CUB  2495     0                          
+     x            Zaichik, Gennadi                            URS  2485   +15                          
+     x            Plachetka, Jan                          m   CSR  2470     0                          
+     x            Razuvaev, Yuri S.                       g   URS  2465     0                          
+     x            Taylor, Timothy                             USA  2460     0                          
+     x            Seirawan, Yasser                            USA  2455     0                          
+     x            Vilela, Jose Luis                       m   CUB  2450     0                          
+     x            Zaltsman, Vitaly F.                         USA  2450   +10                          
+     x            Evans, Larry D.                             USA  2440     0                          
+     x            Swic, Waldemar                              POL  2430                                
+     x            Peresypkin, Vladimir Fedorovich             URS  2430     0                          
+     x            Ubilava, Elizbar                            URS  2430     0                          
+     x            Bohosjan, Sarkis                            BUL  2425     0                          
+     x            Donoso Velasco, Pedro H.                    CHI  2425     0                          
+     x            Bernstein, Yaacov                           ISR  2425   +20                          
+     x            Bonin, Jay R.                               USA  2425     0                          
+     x            Gruchacz, Robert                            USA  2425     0                          
+     x            Todorcevic, Miodrag                     m   YUG  2425     0                          
+     x            Peev, Peicho                            m   BUL  2420     0                          
+     x            Bellin, Robert                              ENG  2420     0                          
+     x            Gutman, Lev                                 URS  2420     0                          
+     x            Mnatsakanian, Eduard A.                     URS  2415     0                          
+     x            Kaiszauri, Konstanty                    m   SWE  2410     0                          
+     x            Spiridonov, Nikola                      m   BUL  2405     0                          
+     x            Silva Sanchez, Carlos                       CHI  2405     0                          
+     x            Qi, Jingxuan                                CHN  2405                                
+     x            De Firmian, Nick E.                         USA  2405     0                          
+     x            Joksic, Sinisa                              YUG  2405     0                          
+     x            Frias, Victor J.                            CHI  2400     0                          
+     x            Borkowski, Franciszek                       POL  2400     0                          
+     x            Baczynskyj, Boris                           USA  2400     0                          
+     x            Nicevski, Risto                         m   YUG  2400   -25                          
+     x            Radev, Nikolai                          m   BUL  2395     0                          
+     x            Kileng, Benny                               INA  2390                                
+     x            Trois, Francisco R. T.                      BRA  2385   -20                          
+     x            Gesos, Pavlos                               GRE  2385     0                          
+     x            Odendahl, Steven M.                         USA  2385                                
+     x            Wachtel, Robert                             USA  2385     0                          
+     x            Mihaljcisin, Mihajlo                    m   YUG  2385     0                          
+     x            Mrdja, Milan                                YUG  2385                                
+     x            Ivanov, Spiridon                            BUL  2380     0                          
+     x            Brasket, Curt J.                            USA  2375     0                          
+     x            Minev, Nikolay N.                       m   BUL  2370   -20                          
+     x            Pushkedra, Frank                            CAN  2370     0                          
+     x            Wedberg, Tom                                SWE  2370     0                          
+     x            Petrushin, Alexander I.                     URS  2370     0                          
+     x            Day, Lawrence A.                        m   CAN  2365     0                          
+     x            Brandts, Paul J.                            USA  2360                                
+     x            Semkov, Semko                               BUL  2355     0                          
+     x            Kluger, Gyula                           m   HUN  2355     0                          
+     x            Donchev, Dimitar I.                         BUL  2350     0                          
+     x            Kent, Jeffrey A.                            USA  2350     0                          
+     x            Shapiro, Daniel E.                          USA  2350     0                          
+     x            Jovanovic, Nenad                            YUG  2345     0                          
+     x            Atanasov, Gospodin                          BUL  2340     0                          
+     x            Franco Ocampos, Zenon                       PAR  2340     0                          
+     x            Grigorov, Jordan N.                         BUL  2335     0                          
+     x            Garcia, Horacio                             ARG  2330     0                          
+     x            Allan, Denis                                CAN  2330     0                          
+     x            Godoy Bugueno, David A.                     CHI  2330     0                          
+     x            Benjamin, Joel                              USA  2330     0                          
+     x            Blackstone, John                            USA  2330     0                          
+     x            Tamargo, Joseph S.                          USA  2330     0                          
+     x            Nickoloff, Bryon                            CAN  2325     0                          
+     x            Cifuentes Parada, Roberto                   CHI  2325     0                          
+     x            Ivell, Nicholas W.                          ENG  2325     0                          
+     x            Casper, Thomas                              GDR  2325     0                          
+     x            Schneider, Attila                           HUN  2325     0                          
+     x            Watson, John L.                             USA  2320                                
+     x            Gliksman, Darko                         m   YUG  2320     0                          
+     x            Casas, Fernando                             ARG  2315     0                          
+     x            Jasnikowski, Zbigniew                       POL  2315     0                          
+     x            Strauss, David J.                           USA  2315     0                          
+     x            Angelov, Angel                              BUL  2310                                
+     x            Berry, Jonathan                             CAN  2310     0                          
+     x            Bastian, Herbert                            GER  2310     0                          
+     x            Kuligowski, Adam                            POL  2310     0                          
+     x            Atanasov, Petko                             BUL  2305     0                          
+     x            Janakiev, Ivan                              BUL  2305     0                          
+     x            Loken, Knut-Ove                             NOR  2305     0                          
+     x            Remlinger, Larry                            USA  2305     0                          
+     x            Huerta, J. R.                               CUB  2300                                
+
+   pos Player_ID  Name                                  Title Fed  Rtng   +/-  gms   Birthday   Sex  Flag 
+     x            Sweep, J.                                   CUB  2300                                
+     x            Kerchev, Zlatozar                           BUL  2295     0                          
+     x            Green, Ewen M.                              NZL  2295   +30                          
+     x            Berry, David A.                             USA  2295   +15                          
+     x            Martin, Raymond                             USA  2295     0                          
+     x            Waterman, Deniss L.                         USA  2295     0                          
+     x            Chen, De                                    CHN  2285                                
+     x            Fernandez, Antonio                          VEN  2285                                
+     x            Belmonte, Juan S.                           CHI  2280     0                          
+     x            Silva Nazzari, Roberto                      URU  2270     0                          
+     x            Lev, Arieh                                  ISR  2260    +5                          
+     x            Pasman, Michael                             ISR  2260                                
+     x            Chavez, R.                                  BRA  2255                                
+     x            Hoffmann, Asa                               USA  2255   +30                          
+     x            Wilder, Michael                             USA  2255   +30                          
+     x            Araya Ibarra, Mario                         CHI  2250     0                          
+     x            Bademian, Jose                              URU  2250     0                          
+     x            Hidalgo Azanza, Jaime                       ECU  2240                                
+     x            Baccelliere Pena, Mario E.                  CHI  2235    +5                          
+     x            Chandler, Clifford R.                       ENG  2235     0                          
+     x            Morales, Humberto                           MEX  2235                                
+     x            Jimenez Rojas, Hector                       CHI  2230     0                          
+     x            Suarez, Jesus                               CUB  2230                                
+     x            Youngworth, Perry                           USA  2230     0                          
+     x            Campos Moreno, Javier B.                    CHI  2225     0                          
+     x            Vintimilla, P.                              ECU  2220     0                          
+     x            Dzieniszewski, Andrzej                      POL  2220     0                          
+     x            Lopez Jimenez, Armando                      CUB  2215                                
+     x            Henshaw                                     ENG  2215     0                          
+     x            Laird, Craig                                NZL  2215                                
+     x            Ricetto, Alvaro                             URU  2215     0                          
+     x            Salgado, Robert R.                          USA  2205                                
+
+
+
+
+
+

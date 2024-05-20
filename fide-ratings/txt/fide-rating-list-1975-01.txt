@@ -1,0 +1,1541 @@
+   pos Player_ID  Name                                  Title Fed  Rtng   +/-  gms   Birthday   Sex  Flag 
+     1            Fischer, Robert James                   g   USA  2780     0                          
+     2            Karpov, Anatoly                         g   URS  2705    +5                          
+     3            Korchnoi, Viktor                        g   URS  2665    -5                          
+     4            Petrosian, Tigran                       g   URS  2645    +5                          
+     4=           Polugaevsky, Lev                        g   URS  2645   +15                          
+     4=           Tal, Mikhail N.                         g   URS  2645   +10                          
+     7            Portisch, Lajos                         g   HUN  2635   -10                          
+     8            Larsen, Bent                            g   DEN  2625    -5                          
+     8=           Spassky, Boris V.                       g   URS  2625   -25                          
+    10            Huebner, Robert                         g   GER  2615     0                          
+    10=           Ljubojevic, Ljubomir                    g   YUG  2615   +10                          
+    12            Mecking, Henrique                       g   BRA  2610    -5                          
+    13            Smyslov, Vassily                        g   URS  2605    +5                          
+    14            Hort, Vlastimil                         g   CSR  2600     0                          
+    14=           Smejkal, Jan                            g   CSR  2600     0                          
+    14=           Geller, Efim P.                         g   URS  2600   -10                          
+    14=           Kuzmin, Gennadi P.                      g   URS  2600     0                          
+    14=           Byrne, Robert E.                        g   USA  2600    +5                          
+    19            Bronstein, David I.                     g   URS  2590    -5                          
+    20            Taimanov, Mark E.                       g   URS  2580     0                          
+    21            Savon, Vladimir A.                      g   URS  2575     0                          
+    21=           Gligoric, Svetozar                      g   YUG  2575   -10                          
+    23            Krogius, Nikolai V.                     g   URS  2570     0                          
+    23=           Tukmakov, Vladimir B.                   g   URS  2570     0                          
+    25            Andersson, Ulf                          g   SWE  2565   -15                          
+    25=           Keres, Paul                             g   URS  2565     0                          
+    27            Furman, Semyen A.                       g   URS  2560     0                          
+    27=           Vasiukov, Evgeni                        g   URS  2560     0                          
+    29            Tseshkovsky, Vitaly                     m   URS  2555   +35                          
+    29=           Kavalek, Lubomir                        g   USA  2555   -70                          
+    31            Browne, Walter S.                       g   USA  2550   -25                          
+    31=           Ivkov, Borislav                         g   YUG  2550   +20                          
+    33            Panno, Oscar                            g   ARG  2545    +5                          
+    33=           Szabo, Laszlo                           g   HUN  2545   -10                          
+    33=           Lutikov, Anatoly S.                     g   URS  2545     0                          
+    36            Jansa, Vlastimil                        g   CSR  2540    +5                          
+    36=           Pfleger, Helmut                         m   GER  2540    +5                          
+    36=           Schmid, Lothar                          g   GER  2540   -10                          
+    36=           Gheorghiu, Florin                       g   ROM  2540     0                          
+    36=           Balashov, Yuri S.                       g   URS  2540     0                          
+    36=           Kholmov, Ratmir D.                      g   URS  2540    -5                          
+    42            Uhlmann, Wolfgang                       g   GDR  2535   -15                          
+    42=           Unzicker, Wolfgang                      g   GER  2535     0                          
+    42=           Olafsson, Fridrik                       g   ISL  2535   -15                          
+    42=           Gufeld, Eduard                          g   URS  2535     0                          
+    42=           Lein, Anatoly                           g   URS  2535    -5                          
+    42=           Planinc, Albin                          g   YUG  2535   -10                          
+    48            Sanguinetti, Raul                       m   ARG  2530     0                          
+    48=           Csom, Istvan                            g   HUN  2530   -10                          
+    48=           Boleslavsky, Isaak                      g   URS  2530     0                          
+    48=           Gipslis, Aivars                         g   URS  2530     0                          
+    48=           Vaganian, Rafael A.                     g   URS  2530   -10                          
+    48=           Evans, Larry M.                         g   USA  2530    +5                          
+    48=           Reshevsky, Samuel H.                    g   USA  2530   -20                          
+    48=           Matulovic, Milan                        g   YUG  2530     0                          
+    56            Dzindzikhashvili, Roman                 m   URS  2525    +5                          
+    56=           Kurajica, Bojan                         g   YUG  2525   +15                          
+    56=           Velimirovic, Dragoljub                  g   YUG  2525    -5                          
+    59            Malich, Burkhard                        m   GDR  2520    +5                          
+    59=           Ribli, Zoltan                           g   HUN  2520    -5                          
+    59=           Grigorian, Karen A.                         URS  2520     0                          
+    59=           Suetin, Alexey S.                       g   URS  2520   +15                          
+    63            Diez Del Corral, Jesus                  g   ESP  2515     0                          
+    63=           Adorjan, Andras                         g   HUN  2515     0                          
+    63=           Torre, Eugenio                          g   PHI  2515   +65                          
+    63=           Averbakh, Yuri L.                       g   URS  2515   -10                          
+    63=           Rashkovsky, Nukhim N.                       URS  2515    +5                          
+    63=           Razuvaev, Yuri S.                       m   URS  2515    -5                          
+    63=           Benko, Pal C.                           g   USA  2515    +5                          
+    63=           Lombardy, William J.                    g   USA  2515    -5                          
+    71            Najdorf, Miguel                         g   ARG  2510   -10                          
+    71=           Radulov, Ivan                           g   BUL  2510   +20                          
+    71=           Knaak, Rainer                           m   GDR  2510    -5                          
+    71=           Pachman, Ludek                          g   GER  2510     0                          
+    71=           Sax, Gyula                              g   HUN  2510    +5                          
+    71=           Timman, Jan H.                          g   NED  2510   -30                          
+    71=           Parma, Bruno                            g   YUG  2510     0                          
+    78            Quinteros, Miguel A.                    g   ARG  2505   +10                          
+    78=           Keene, Raymond D.                       m   ENG  2505     0                          
+    78=           Shamkovich, Leonid                      g   ISR  2505    +3                          
+    81            Darga, Klaus                            g   GER  2500     0                          
+    81=           Beliavsky, Alexander G.                 m   URS  2500   +40                          
+    81=           Klovan, Janis                               URS  2500    +5                          
+    81=           Kotov, Alexander                        g   URS  2500     0                          
+    81=           Podgaets, Mikhail                       m   URS  2500   +15                          
+    86            Bilek, Istvan                           g   HUN  2495   +20                          
+    86=           Mariotti, Sergio                        g   ITA  2495   +30                          
+    86=           Antoshin, Vladimir S.                   g   URS  2495   -20                          
+    86=           Dvoretzky, Mark                             URS  2495     0                          
+    86=           Gurgenidze, Bukhuti                     g   URS  2495    -5                          
+    86=           Ney, Iivo                               m   URS  2495                                
+    92            Espig, Lutz                             m   GDR  2490     0                          
+    92=           Hecht, Hans-Joachim                     g   GER  2490   -25                          
+    92=           Forintos, Gyozo V.                      g   HUN  2490     0                          
+    92=           Bagirov, Vladimir                       m   URS  2490   -10                          
+    92=           Grigorian, Levon A.                         URS  2490   +30                          
+    92=           Karasev, Vladimir I.                        URS  2490   +30                          
+    92=           Kirpichnikov, Vladimir                      URS  2490                                
+    92=           Osnos, Viatcheslav                      m   URS  2490     0                          
+    92=           Tolonen, Leo Toivovich                      URS  2490                                
+    92=           Marovic, Drazen                         m   YUG  2490     0                          
+    92=           Matanovic, Aleksandar                   g   YUG  2490     0                          
+   103            Filip, Miroslav                         g   CSR  2485   -10                          
+   103=           Garcia Gonzales, Guillermo              m   CUB  2485   +35                          
+   103=           Hamann, Svend                           m   DEN  2485    -5                          
+   103=           Liberzon, Vladimir M.                   g   ISR  2485   -30                          
+   103=           Donner, Jan-Hein                        g   NED  2485   -10                          
+   103=           Romanishin, Oleg M.                     m   URS  2485   +15                          
+   103=           Zhidkov, Valery S.                          URS  2485     0                          
+   103=           Ostojic, Predrag                        m   YUG  2485     0                          
+   111            Padevsky, Nikola                        g   BUL  2480     0                          
+   111=           Averkin, Orest N.                           URS  2480     0                          
+   111=           Gulko, Boris F.                             URS  2480   +45                          
+   111=           Rusakov, Iakov D.                           URS  2480   +40                          
+   111=           Rytov, Boris                                URS  2480     0                          
+   111=           Sakharov, Yuri N.                       m   URS  2480     0                          
+   111=           Sveshnikov, Evgeny                          URS  2480     0                          
+   111=           Tseitlin, I.                                URS  2480     0                          
+   111=           Tarjan, James E.                        m   USA  2480    +5                          
+   120            Hartston, William R.                    m   ENG  2475    -5                          
+   120=           Westerinen, Heikki M. J.                m   FIN  2475   +10                          
+   120=           Sigurjonsson, Gudmundur                 m   ISL  2475    -5                          
+   120=           Dementiev, Oleg I.                          URS  2475     0                          
+   120=           Nikolaevsky, Yuri V.                        URS  2475     0                          
+   120=           Zhuravliov, Valerij                         URS  2475    +5                          
+   120=           Hulak, Krunoslav                        m   YUG  2475     0                          
+   120=           Minic, Dragoljub                        m   YUG  2475     0                          
+   128            Woodhams, Michael                           AUS  2470                                
+   128=           Tringov, Georgi P.                      g   BUL  2470    +5                          
+   128=           Hennings, Artur                         m   GDR  2470     0                          
+   128=           Mueller, Klaus-Uwe                          GDR  2470    +5                          
+   128=           Ree, Hans                               m   NED  2470   +45                          
+   128=           Sosonko, Gennadi                        m   NED  2470   +20                          
+   128=           Suba, Mihai                                 ROM  2470   +10                          
+   128=           Litvinov, Viktor                            URS  2470     0                          
+   128=           Palatnik, Semon                             URS  2470     0                          
+   128=           Tuzovsky, Aleksander I.                     URS  2470     0                          
+   128=           Zilberstein, Valery I.                      URS  2470    +5                          
+   128=           Grefe, John A.                              USA  2470     0                          
+   128=           Nikolac, Juraj                              YUG  2470     0                          
+   141            Schmidt, Wlodzimierz                    m   POL  2465   -35                          
+   141=           Anikaev, Yuri N.                            URS  2465   +10                          
+   141=           Kochyev, Alexander                          URS  2465   -25                          
+   141=           Mukhin, Mikhail A.                          URS  2465     0                          
+   141=           Weinstein, Norman                           USA  2465    -5                          
+   141=           Janosevic, Dragoljub                    g   YUG  2465     0                          
+   141=           Kovacevic, Vladimir                     m   YUG  2465     0                          
+   141=           Marangunic, Srdjan                      m   YUG  2465     0                          
+   141=           Maric, Rudolf                           m   YUG  2465   +10                          
+   150            Grinberg, Ricardo                           ARG  2460                                
+   150=           Popov, Luben                            m   BUL  2460     0                          
+   150=           Barcza, Gedeon                          g   HUN  2460     0                          
+   150=           Farago, Ivan                            m   HUN  2460   -15                          
+   150=           Honfi, Karoly                           m   HUN  2460   -10                          
+   150=           Vadasz, Laszlo                              HUN  2460     0                          
+   150=           Kraidman, Yair                          m   ISR  2460   -10                          
+   150=           Ogaard, Leif                            m   NOR  2460   +25                          
+   150=           Ciocaltea, Victor                       m   ROM  2460   -10                          
+   150=           Kapengut, Albert Z.                         URS  2460   -10                          
+   150=           Kupreichik, Viktor D.                       URS  2460     0                          
+   150=           Zhukhovitsky, Samuel                    m   URS  2460     0                          
+   150=           Ciric, Dragoljub M.                     g   YUG  2460     0                          
+   163            Garcia, Raimundo                        m   ARG  2455    -5                          
+   163=           Robatsch, Karl                          g   AUT  2455   +15                          
+   163=           Pribyl, Josef                           m   CSR  2455     0                          
+   163=           Paehtz, Thomas                              GDR  2455   -25                          
+   163=           Dueball, Juergen                        m   GER  2455     0                          
+   163=           Bleiman, Yaacov                         m   ISR  2455    +5                          
+   163=           Tatai, Stefano                          m   ITA  2455   +25                          
+   163=           Nezhmetdinov, Rashid                    m   URS  2455     0                          
+   163=           Platonov, Igor V.                           URS  2455     0                          
+   163=           Mednis, Edmar J.                        m   USA  2455     0                          
+   163=           Bukic, Enver                            m   YUG  2455    +5                          
+   163=           Damjanovic, Mato                        g   YUG  2455    -5                          
+   163=           Rukavina, Josip                         m   YUG  2455    +5                          
+   176            Horner, Jeff                                ENG  2450                                
+   176=           Pomar Salamanca, Arturo                 g   ESP  2450   +25                          
+   176=           Boehlig, Heinz                              GDR  2450     0                          
+   176=           Liebert, Heinz                          m   GDR  2450    +5                          
+   176=           Moehring, Guenther                          GDR  2450     0                          
+   176=           Vogt, Lothar                            m   GDR  2450   +20                          
+   176=           Chernikov, Oleg L.                          URS  2450     0                          
+   176=           Estrin, Yakov B.                            URS  2450     0                          
+   176=           Lukin, Andrei M.                            URS  2450   +10                          
+   176=           Timoshchenko, Gennadi A.                    URS  2450   +25                          
+   176=           Vladimirov, Boris T.                    m   URS  2450     0                          
+   176=           Zaitsev, Igor A.                        m   URS  2450   -10                          
+   176=           Bojkovic, Slobodan                          YUG  2450     0                          
+   176=           Sofrevski, Jovan                        m   YUG  2450     0                          
+   176=           Vukic, Milan                            m   YUG  2450   +25                          
+   191            O'Kelly de Galway, Alberic              g   BEL  2445     0                          
+   191=           Garcia Martinez, Silvino                m   CUB  2445   +45                          
+   191=           Barczay, Laszlo                         g   HUN  2445    +5                          
+   191=           Dely, Peter                             m   HUN  2445   -25                          
+   191=           Kuijpers, Frans A.                      m   NED  2445   +25                          
+   191=           Zuidema, Coen                           m   NED  2445     0                          
+   191=           Kozlov, Vladimir N.                         URS  2445   -15                          
+   191=           Murrey, Jacob                               URS  2445   -10                          
+   191=           Bisguier, Arthur B.                     g   USA  2445   +10                          
+   191=           Byrne, Donald                           m   USA  2445     0                          
+   191=           Kaplan, Julio P.                        m   USA  2445   -15                          
+   191=           Rogoff, Kenneth S.                      m   USA  2445     0                          
+   191=           Saidy, Anthony F.                       m   USA  2445   +15                          
+   191=           Karaklajic, Nikola                      m   YUG  2445     0                          
+   205            Muco, Fatos                                 ALB  2440     0                          
+   205=           Rubinetti, Jorge                        m   ARG  2440   +25                          
+   205=           Schweber, Samuel                        m   ARG  2440    -5                          
+   205=           Bobotsov, Milko G.                      g   BUL  2440     0                          
+   205=           Spiridonov, Nikola                      m   BUL  2440     0                          
+   205=           Suttles, Duncan                         g   CAN  2440    -5                          
+   205=           Nun, Josef                                  CSR  2440                                
+   205=           Toran Albero, Roman                     m   ESP  2440   +20                          
+   205=           Gerusel, Mathias                        m   GER  2440   +20                          
+   205=           Kunsztowicz, Uwe                            GER  2440     0                          
+   205=           Mohrlok, Dieter                         m   GER  2440     0                          
+   205=           Radashkovich, Itchak                        ISR  2440   +15                          
+   205=           Faibisovich, Vadim Z.                       URS  2440     0                          
+   205=           Gik, Evgeny                                 URS  2440     0                          
+   205=           Giorgadze, Tamaz                            URS  2440    +5                          
+   205=           Kutyanin, Yuri F.                           URS  2440     0                          
+   205=           Makarichev, Sergey                      m   URS  2440     0                          
+   205=           Sokolov, Sergey M.                          URS  2440                                
+   205=           Stoliar, Efim Samoilovich                   URS  2440     0                          
+   205=           Veresov, Gavril                         m   URS  2440   +20                          
+   205=           Zaltsman, Vitaly F.                         URS  2440   -20                          
+   205=           Antunac, Goran                              YUG  2440     0                          
+   205=           Raicevic, Momcilo                           YUG  2440                                
+   228            Pilnik, Herman                          g   ARG  2435     0                          
+   228=           Szmetan, Jorge                              ARG  2435   +30                          
+   228=           Kirov, Nino                             m   BUL  2435   -30                          
+   228=           Rodriguez, Amador                           CUB  2435   -15                          
+   228=           Jakobsen, Ole                           m   DEN  2435     0                          
+   228=           Miles, Anthony J.                       m   ENG  2435   +25                          
+   228=           Calvo Minguez, Ricardo                  m   ESP  2435   -25                          
+   228=           Schiffer, Karl-Josef                        GER  2435     0                          
+   228=           Teschner, Rudolf                        m   GER  2435     0                          
+   228=           Szilagyi, Peter                             HUN  2435   +15                          
+   228=           Balshan, Amikam                             ISR  2435     0                          
+   228=           Rodriguez, Orestes                      m   PER  2435   -10                          
+   228=           Ghitescu, Theodor                       m   ROM  2435    -5                          
+   228=           Korensky, Valeri S.                         URS  2435   -60                          
+   228=           Panchenko, Alexander N.                     URS  2435     0                          
+   228=           Zakharov, Alexander                         URS  2435   +10                          
+   228=           Zuckerman, Bernard                      m   USA  2435   +10                          
+   228=           Buljovcic, Ivan                         m   YUG  2435   -25                          
+   246            Hase, Juan C.                               ARG  2430    +5                          
+   246=           Rossetto, Hector                        g   ARG  2430   +10                          
+   246=           Dueckstein, Andreas                     m   AUT  2430   +20                          
+   246=           Boey, Josef                             m   BEL  2430    -5                          
+   246=           Ermenkov, Evgenij                       m   BUL  2430     0                          
+   246=           Minev, Nikolay N.                       m   BUL  2430   -25                          
+   246=           Spassov, Liuben                         m   BUL  2430     0                          
+   246=           Biyiasas, Peter                         m   CAN  2430   +10                          
+   246=           Vranesic, Zvonko                        m   CAN  2430     0                          
+   246=           Plachetka, Jan                          m   CSR  2430   +25                          
+   246=           Kestler, Hans-Guenther                      GER  2430   +20                          
+   246=           Haag, Ervin                             m   HUN  2430     0                          
+   246=           Cosulich, Roberto                           ITA  2430     0                          
+   246=           Zwaig, Arne                                 NOR  2430    +5                          
+   246=           Johansson, Martin                           SWE  2430     0                          
+   246=           Ornstein, Axel                              SWE  2430     0                          
+   246=           Borisenko, Georgy K.                        URS  2430   -10                          
+   246=           Kuindzhi, Alexander                         URS  2430     0                          
+   246=           Vitolinsh, Alvis                            URS  2430     0                          
+   246=           Zubarev                                     URS  2430     0                          
+   246=           Soltis, Andrew E.                       m   USA  2430    -5                          
+   246=           Bertok, Mario                           m   YUG  2430     0                          
+   246=           Bogdanovic, Rajko                       m   YUG  2430     0                          
+   246=           Messing, Hrvoje                         m   YUG  2430     0                          
+   246=           Musil, Vojko                            m   YUG  2430     0                          
+   246=           Nemet, Ivan                                 YUG  2430   +15                          
+   272            Peev, Peicho                            m   BUL  2425     0                          
+   272=           Schoeneberg, Manfred                        GDR  2425     0                          
+   272=           Capelan, Guenter                        m   GER  2425   +15                          
+   272=           Soos, Bela                              m   GER  2425    +5                          
+   272=           Bednarski, Jacek B.                     m   POL  2425   +10                          
+   272=           Niklasson, Christer                         SWE  2425                                
+   272=           Cherepkov, Alexander V.                     URS  2425   -50                          
+   272=           Doroshkievich, Vladimir K.                  URS  2425     0                          
+   272=           Kogan, Boris M.                             URS  2425     0                          
+   272=           Mikhalchishin, Adrian                       URS  2425     0                          
+   272=           Moiseev, Viktor                         m   URS  2425                                
+   272=           De Fotis, Gregory                           USA  2425     0                          
+   272=           Ghizdavu, Dumitru                       m   USA  2425    +5                          
+   272=           Knezevic, Milorad                       m   YUG  2425    +5                          
+   286            Bolbochan, Jacobo                       m   ARG  2420     0                          
+   286=           Jamieson, Robert M.                         AUS  2420                                
+   286=           Penrose, Jonathan                       m   ENG  2420   -30                          
+   286=           Hazai, Laszlo                               HUN  2420     0                          
+   286=           Nagy, Ervin                                 HUN  2420     0                          
+   286=           Portisch, Ferenc                            HUN  2420     0                          
+   286=           Kagan, Shimon                           m   ISR  2420   +35                          
+   286=           Bouwmeester, Hans                       m   NED  2420     0                          
+   286=           Pytel, Krzysztof                            POL  2420   +15                          
+   286=           Hug, Werner                             m   SUI  2420    -5                          
+   286=           Alburt, Lev O.                              URS  2420     0                          
+   286=           Bukhman, Eduard                             URS  2420     0                          
+   286=           Mikadze, Zurab                              URS  2420     0                          
+   286=           Obukhovski, Edward A.                       URS  2420     0                          
+   286=           Pelts, Roman                                URS  2420   +15                          
+   286=           Petkevich, Josef                            URS  2420     0                          
+   286=           Rosenberg, Sergei G.                        URS  2420   -25                          
+   286=           Shashin, Alexander A.                       URS  2420     0                          
+   286=           Vorotnikov, Vladislav V.                    URS  2420     0                          
+   286=           Yuferov, Sergey N.                          URS  2420     0                          
+   286=           Formanek, Edward W.                         USA  2420     0                          
+   286=           Ilijevski, Dimitar                          YUG  2420   -10                          
+   286=           Rajkovic, Dusan                         m   YUG  2420     0                          
+   309            Kolarov, Atanas S.                      m   BUL  2415     0                          
+   309=           Amos, Bruce M.                          m   CAN  2415     0                          
+   309=           Yanofsky, Daniel A.                     g   CAN  2415   -20       1925.03.26         
+   309=           Fernandez, Juan C.                          CUB  2415     0                          
+   309=           Bellon Lopez, Juan Manuel               m   ESP  2415   +10                          
+   309=           Eising, Johannes                            GER  2415   +10                          
+   309=           Liptay, Laszlo                              HUN  2415   +25                          
+   309=           Tompa, Janos                                HUN  2415    -5                          
+   309=           Varnusz, Egon                               HUN  2415   +10                          
+   309=           Adamski, Jan                                POL  2415   +10                          
+   309=           Ageichenko, Genadi A.                       URS  2415   -15                          
+   309=           Etruk, Rein T.                              URS  2415     0                          
+   309=           Ignatiev, Felix N.                          URS  2415     0                          
+   309=           Ostrovsky, Alexander                        URS  2415     0                          
+   309=           Shereshevski, Mikhail                       URS  2415     0                          
+   309=           Vooremaa, Andres                            URS  2415     0                          
+   309=           Zurakhov, Vladlen Y.                        URS  2415                                
+   309=           Commons, Kim S.                             USA  2415    -5                          
+   309=           Williams, Arthur H.                         WLS  2415   +10                          
+   309=           Basagic, Zlatko                             YUG  2415     0                          
+   309=           Bukal, Vladimir                             YUG  2415     0                          
+   330            Cuasnicu, Oscar                             ARG  2410     0                          
+   330=           Lechtynsky, Jiri                        m   CSR  2410   +20                          
+   330=           Iskov, Gert                                 DEN  2410   -10                          
+   330=           Rantanen, Yrjo A.                           FIN  2410     0                          
+   330=           Seret, Jean-Luc                             FRA  2410   +10                          
+   330=           Zinn, Lothar                            m   GDR  2410     0                          
+   330=           Lengyel, Levente                        g   HUN  2410   -10                          
+   330=           Pinter, Jozsef                              HUN  2410     0                          
+   330=           Sapi, Laszlo                                HUN  2410     0                          
+   330=           Thorsteinsson, Thorsteinn                   ISL  2410     0                          
+   330=           Enklaar, Bertus F.                      m   NED  2410   -15                          
+   330=           Langeweg, Kick                          m   NED  2410   +20                          
+   330=           Johannessen, Svein                      m   NOR  2410   +10                          
+   330=           Poulsson, Eivind                            NOR  2410   +20                          
+   330=           Cardoso, Radolfo Tan                    m   PHI  2410   +25                          
+   330=           Rodriguez, Ruben                            PHI  2410     0                          
+   330=           Partos, Carol                               ROM  2410     0                          
+   330=           Brostrom, Goran                             SWE  2410     0                          
+   330=           Chebanencko, Verislav A.                    URS  2410                                
+   330=           Gaprindashvili, Nona                   wm   URS  2410    +5                    w     
+   330=           Katalymov, Boris N.                         URS  2410     0                          
+   330=           Levin, Naum L.                              URS  2410     0                          
+   330=           Mikenas, Vladas                         m   URS  2410     0                          
+   330=           Mishuchkov, Nikolai M.                      URS  2410     0                          
+   330=           Mnatsakanian, Eduard A.                     URS  2410     0                          
+   330=           Reshko, Aron G.                             URS  2410     0                          
+   330=           Ruderfer, Mark B.                           URS  2410     0                          
+   330=           Tseitlin, Mark D.                           URS  2410     0                          
+   330=           Tseitlin, Mikhail S.                        URS  2410   -25                          
+   330=           Uusi, Gunnar                                URS  2410     0                          
+   330=           Nicevski, Risto                             YUG  2410   -20                          
+   330=           Sahovic, Dragutin                           YUG  2410   +40                          
+   362            Emma, Jaime                                 ARG  2405   +20                          
+   362=           Atanasov, Gospodin                          BUL  2405     0                          
+   362=           Bohosjan, Sarkis                            BUL  2405     0                          
+   362=           Cuartas, Carlos                             COL  2405   +10                          
+   362=           Hesse, Peter                                GDR  2405     0                          
+   362=           Pogats, Jozsef                              HUN  2405     0                          
+   362=           Rajna, Gyorgy                               HUN  2405     0                          
+   362=           Asmundsson, Ingvar                          ISL  2405   +10                          
+   362=           Cortlever, Nicolaas                     m   NED  2405     0                          
+   362=           Filipowicz, Andrzej                         POL  2405   -25                          
+   362=           Lombard, Andre                              SUI  2405    -5                          
+   362=           Gusev, Yuri S.                              URS  2405     0                          
+   362=           Iym, Tonu                                   URS  2405     0                          
+   362=           Muratov, Vladimir A.                        URS  2405   -30                          
+   362=           Pukshansky, Mikhail B.                      URS  2405     0                          
+   362=           Shestaperov, Alexei N.                      URS  2405    -5                          
+   362=           Popovych, Orest                             USA  2405     0                          
+   362=           Nikolic, Stanimir                       m   YUG  2405     0                          
+   362=           Simic, Radoslav                             YUG  2405    +5                          
+   362=           Vukovic, Ivo                                YUG  2405     0                          
+   382            Palermo, Vicente                            ARG  2400     0                          
+   382=           Fuller, Maxwell L.                          AUS  2400   +35                          
+   382=           Lipnowski, Irvin                            CAN  2400                                
+   382=           Paehtz, Thomas                              GDR  2400   -55                          
+   382=           Eperjesi, Laszlo                            HUN  2400     0                          
+   382=           Marosi, Gyorgy                              HUN  2400                                
+   382=           Navarovszky, Laszlo                     m   HUN  2400   -15                          
+   382=           Magnusson, Olafuv                           ISL  2400     0                          
+   382=           Kristiansen, Erling                         NOR  2400     0                          
+   382=           Luginbuhl, Erwin                            SUI  2400     0                          
+   382=           Roth, Rolf                                  SUI  2400     0                          
+   382=           Malmgren, Sven-Goran                        SWE  2400     0                          
+   382=           Alexeev, Anatoly V.                         URS  2400     0                          
+   382=           Baikov, Vladimir A.                         URS  2400     0                          
+   382=           Gusev, Vladimir A.                          URS  2400     0                          
+   382=           Kochner, A.                                 URS  2400     0                          
+   382=           Kotz, Yuri I.                               URS  2400     0                          
+   382=           Kremenietsky, Anatoly M.                    URS  2400   -10                          
+   382=           Krutyanski, Anatoli A.                      URS  2400     0                          
+   382=           Popov, Yuri N.                              URS  2400     0                          
+   382=           Shianovsky, Vladislav I.                    URS  2400     0                          
+   382=           Zilberman, Nathan R.                        URS  2400     0                          
+   382=           Zlotnik, Boris A.                           URS  2400     0                          
+   382=           Botterill, George S.                        WLS  2400   -10                          
+   382=           Krnic, Zdenko                               YUG  2400    +5                          
+   382=           Mejic, Petar                                YUG  2400                                
+   408            Prameshuber, Aleksander                     AUT  2395   -25                          
+   408=           Hernandez, Roman                            CUB  2395     0                          
+   408=           Bjerring, Kai                               DEN  2395   -10                          
+   408=           Pedersen, Karl                              DEN  2395   +20                          
+   408=           Basman, Michael J.                          ENG  2395    -5                          
+   408=           Poutiainen, Pertti                          FIN  2395                                
+   408=           Todorcevic, Miodrag                         FRA  2395   -30                          
+   408=           Baumbach, Friedrich                         GDR  2395     0                          
+   408=           Braun, Gottfried                            GDR  2395    -5                          
+   408=           Polgar, Istvan                              HUN  2395     0                          
+   408=           Johannsson, Ingi R.                     m   ISL  2395    -5                          
+   408=           Marcus, Joost                               NED  2395     0                          
+   408=           Grabczewski, Romuald                    m   POL  2395   -30                          
+   408=           Sydor, Andrzej                          m   POL  2395     0                          
+   408=           Donchenko, Anatoly G.                       URS  2395     0                          
+   408=           Dydyshko, Viacheslav                        URS  2395     0                          
+   408=           Kakageldyev, Amanmurad                      URS  2395     0                          
+   408=           Karner, Hillar                              URS  2395     0                          
+   408=           Shabanov, Yuri                              URS  2395   -30                          
+   408=           Shvedchikov, Anatoli I.                     URS  2395   +10                          
+   408=           Feuerstein, Arthur                          USA  2395     0                          
+   408=           Karklins, Andrew                            USA  2395    -5                          
+   408=           Joksic, Sinisa                              YUG  2395   +15                          
+   408=           Rakic, Tomislav                             YUG  2395     0                          
+   432            Fichtl, Jiri                            m   CSR  2390   +10                          
+   432=           Rodriguez Cordoba, Jesus R.             m   CUB  2390     0                          
+   432=           Brinck-Claussen, Bjorn                      DEN  2390     0                          
+   432=           Holm, Sejer                                 DEN  2390     0                          
+   432=           Markland, Peter R.                          ENG  2390     0                          
+   432=           Fraguela Gil, Jose M.                       ESP  2390                                
+   432=           Boehnisch, Manfred                          GDR  2390     0                          
+   432=           Petran, Pal                                 HUN  2390     0                          
+   432=           Czerniak, Moshe                         m   ISR  2390   -20                          
+   432=           Lederman, Leon                              ISR  2390                                
+   432=           Doda, Zbigniew                          m   POL  2390   -20                          
+   432=           Kostro, Jerzy                           m   POL  2390    +5                          
+   432=           Szymczak, Zbigniew                          POL  2390                                
+   432=           Mititelu, Gheorghe                          ROM  2390     0                          
+   432=           Neamtu, Serban                              ROM  2390     0                          
+   432=           Pritchett, Craig W.                         SCO  2390   +40                          
+   432=           Keller, Dieter                          m   SUI  2390     0                          
+   432=           Alterman, Vladimir I.                       URS  2390     0                          
+   432=           Bakulin, Nikolac I.                         URS  2390   -10                          
+   432=           Bykov, Valery                               URS  2390   +10                          
+   432=           Chechelian, Seiran                          URS  2390                                
+   432=           Donchenko, Oleg I.                          URS  2390     0                          
+   432=           Gutman, Lev                                 URS  2390    +5                          
+   432=           Khavsky, Sergey V.                          URS  2390    +5                          
+   432=           Kopylov, Igor                               URS  2390     0                          
+   432=           Kotkov, Yuri M.                             URS  2390     0                          
+   432=           Lazarev, Efim M.                            URS  2390     0                          
+   432=           Lerner, Konstantin Z.                       URS  2390     0                          
+   432=           Machulsky, Anatoly D.                       URS  2390     0                          
+   432=           Polikarpov, Arkady D.                       URS  2390     0                          
+   432=           Sorokin, Gerald K.                          URS  2390     0                          
+   432=           Ubilava, Elizbar                            URS  2390     0                          
+   432=           Vaiser, Anatoly V.                          URS  2390     0                          
+   432=           Christiansen, Larry M.                      USA  2390     0                          
+   432=           Kaufman, Larry C.                           USA  2390     0                          
+   432=           Rossolimo, Nicolas                      g   USA  2390     0                          
+   432=           Cetkovic, Miodrag                           YUG  2390                                
+   432=           Cvetkovic, Srdjan                           YUG  2390   -30                          
+   432=           Pavlovic, Dragoljub                         YUG  2390     0                          
+   432=           Sokolov, Vladimir                           YUG  2390     0                          
+   432=           Zivkovic, Ljubomir                          YUG  2390                                
+   473            Holaszek, Hans                              AUT  2385     0                          
+   473=           Roehrl, Karl                                AUT  2385   +20                          
+   473=           Segal, Alexandru Sorin                      BRA  2385   +35                          
+   473=           Webb, Roger                                 ENG  2385   +55                          
+   473=           Lehmann, Heinz                          m   GER  2385   -10                          
+   473=           Flesch, Janos                           m   HUN  2385    +5                          
+   473=           Kovacs, Laszlo M.                       m   HUN  2385    -5                          
+   473=           Lukacs, Peter                               HUN  2385   +40                          
+   473=           Friedman, Shmuel                            ISR  2385   -15                          
+   473=           Ujtumen, Tudev                          m   MGL  2385   -20                          
+   473=           Scholl, Eddie C.                            NED  2385     0                          
+   473=           Timman, Anton P.                            NED  2385     0                          
+   473=           Naranja, Renato                         m   PHI  2385   -10                          
+   473=           Ungureanu, Emil                             ROM  2385     0                          
+   473=           Vaisman, Volodia                            ROM  2385   +15                          
+   473=           Kinnmark, Ove                               SWE  2385   -15                          
+   473=           Arseniev, Vladimir V.                       URS  2385     0                          
+   473=           Beim, Valery                                URS  2385     0                          
+   473=           Butnorius, Algimantas                       URS  2385     0                          
+   473=           Chepukaitis, Genrikh                        URS  2385     0                          
+   473=           Godes, Dmitry R.                            URS  2385   -15                          
+   473=           Khasin, Abram                           m   URS  2385     0                          
+   473=           Khavsky, Sergey V.                          URS  2385    -5                          
+   473=           Roizman, Abram Y.                           URS  2385     0                          
+   473=           Soloviev, Vladimir A.                       URS  2385     0                          
+   473=           Martz, William Edward                       USA  2385   +10                          
+   473=           Matera, Salvatore J.                        USA  2385     0                          
+   473=           Sanchez, C.                                 VEN  2385                                
+   473=           Djukic, Zeljko                              YUG  2385     0                          
+   473=           Mestrovic, Zvonimir                     m   YUG  2385   -15                          
+   503            Debarnot, Roberto                           ARG  2380   -40                          
+   503=           Poch, Caesar G.                             ARG  2380   +15                          
+   503=           Kozarov, Petar                              BUL  2380     0                          
+   503=           Donoso Velasco, Pedro H.                    CHI  2380   -15                          
+   503=           Kozma, Julius                           m   CSR  2380     0                          
+   503=           Barreras, Alberto                           CUB  2380     0                          
+   503=           Andersen, Borge                         m   DEN  2380   -10                          
+   503=           Bjerre, Troels                              DEN  2380     0                          
+   503=           Sloth, Jorn                                 DEN  2380     0                          
+   503=           Whiteley, Andrew J.                         ENG  2380   +40                          
+   503=           Shui, Kan-Wai                               HKG  2380   +20                          
+   503=           Hassan, Mohamed                             IND  2380     0                          
+   503=           Bernard, Ryszard                            POL  2380     0                          
+   503=           Maciejewski, Andrzej                        POL  2380     0                          
+   503=           Drimer, Dolfi                           m   ROM  2380     0                          
+   503=           Kupper, Josef                           m   SUI  2380     0                          
+   503=           Jansson, Borje                              SWE  2380     0                          
+   503=           Schneider, Lars-Ake                         SWE  2380                                
+   503=           Dorfman, Josif D.                           URS  2380     0                          
+   503=           Grokhotov, Vladimir T.                      URS  2380     0                          
+   503=           Korelov, Alexander P.                       URS  2380     0                          
+   503=           Kudriashov, Anatoli                         URS  2380     0                          
+   503=           Pavlenko, Oleg                              URS  2380     0                          
+   503=           Chellstorp, Craig V.                        USA  2380     0                          
+   503=           Deze, Anton                                 YUG  2380    +5                          
+   503=           Gliksman, Darko                         m   YUG  2380     0                          
+   529            Jimenez, Eleazar                        m   CUB  2375   +35                          
+   529=           Valdes Castillo, Arnaldo                    CUB  2375     0                          
+   529=           Bellin, Robert                              ENG  2375   +20                          
+   529=           Nunn, John D. M.                            ENG  2375   -20                          
+   529=           Visier Segovia, Fernando                    ESP  2375   +30                          
+   529=           Szily, Jozsef                           m   HUN  2375     0                          
+   529=           Benedictsson, Benony                        ISL  2375   +75                          
+   529=           Toth, Bela                              m   ITA  2375   -10                          
+   529=           Tumurbator, Purev                           MGL  2375   +10                          
+   529=           Hartoch, Robert G.                      m   NED  2375    +5                          
+   529=           Vucenovic, Dragomir                         SUI  2375     0                          
+   529=           Ivarsson, Johnny                            SWE  2375                                
+   529=           Chaplinsky, Edgar                           URS  2375     0                          
+   529=           Gavrilov, Alexei                            URS  2375     0                          
+   529=           Heuer, Walter P.                            URS  2375     0                          
+   529=           Peresypkin, Vladimir Fedorovich             URS  2375   +10                          
+   529=           Tarve, Udo                                  URS  2375     0                          
+   546            Frayle, Jorge                               ARG  2370     0                          
+   546=           Garcia Palermo, Carlos                      ARG  2370                                
+   546=           Leskovar, Mario                             ARG  2370     0                          
+   546=           Shaw, Terrey I.                             AUS  2370   -10                          
+   546=           De Bruycker, Bernard                        BEL  2370                                
+   546=           Van Riemsdijk, Herman C.                    BRA  2370    +5                          
+   546=           Orev, Petar                                 BUL  2370    -5                          
+   546=           Velikov, Petar                              BUL  2370     0                          
+   546=           Augustin, Josef                             CSR  2370   +10                          
+   546=           Pechan, Zdenek                              CSR  2370                                
+   546=           Cobo Arteaga, Eldis                     m   CUB  2370     0                          
+   546=           Kristiansen, Jens                           DEN  2370     0                          
+   546=           Yepez, Olavo                            m   ECU  2370     0                          
+   546=           Eales, Richard G.                           ENG  2370   +80                          
+   546=           Speelman, Jonathan S.                       ENG  2370                                
+   546=           Stean, Michael F.                           ENG  2370   +25                          
+   546=           Hurme, Harri M.                             FIN  2370                                
+   546=           Neukirch, Detlef                            GDR  2370     0                          
+   546=           Behling, Robert                             GER  2370     0                          
+   546=           Clemens, Christian                          GER  2370     0                          
+   546=           Somogyi, Istvan                             HUN  2370   -25                          
+   546=           Szilagyi, Gyorgy                        m   HUN  2370   +10                          
+   546=           Suwuh, Sebastian                            INA  2370                                
+   546=           Solmundarsson, Magnus                       ISL  2370     0                          
+   546=           Thor, Jon Th                                ISL  2370                                
+   546=           Kaldor, Avraham                             ISR  2370   -25                          
+   546=           Peretz, Malkiel                             ISR  2370     0                          
+   546=           Richter, Yosef                              ISR  2370     0                          
+   546=           Hjertenes, Oystein                          NOR  2370                                
+   546=           Wibe, Terje                                 NOR  2370     0                          
+   546=           Botez, Constantin                           ROM  2370     0                          
+   546=           Szabo, Julius                               ROM  2370     0                          
+   546=           Kroon, Piet                                 RSA  2370                                
+   546=           Olsson, Ake                                 SWE  2370     0                          
+   546=           Cherenkov, A.                               URS  2370     0                          
+   546=           Fershter, Anatoly B.                        URS  2370     0                          
+   546=           Ustinov, Georgy I.                          URS  2370     0                          
+   546=           Smith, Kenneth R.                           USA  2370     0                          
+   546=           Cebalo, Miso                                YUG  2370     0                          
+   546=           Ivkovic, Dusan                              YUG  2370     0                          
+   546=           Jelen, Iztok                                YUG  2370                                
+   546=           Puc, Stojan                             m   YUG  2370     0                          
+   588            Strobel, Ferdinand                          AUT  2365     0                          
+   588=           Kuprejanov, George                      m   CAN  2365     0                          
+   588=           Moe, Mogens                                 DEN  2365   -10                          
+   588=           Holloway, Nigel J.                          ENG  2365                                
+   588=           Boensch, Uwe                                GDR  2365    +5                          
+   588=           Borngaesser, Rene                           GER  2365     0                          
+   588=           Gesos, Pavlos                               HUN  2365   -25                          
+   588=           Kushnir-Stein, Alla                    wm   ISR  2365   -15                    w     
+   588=           Ligterink, Gert                             NED  2365    +5                          
+   588=           Sande, Oystein                              NOR  2365                                
+   588=           Balcerowski, Witold                         POL  2365     0                          
+   588=           Dzhanoev, David                             URS  2365     0                          
+   588=           Ivanov, Igor V.                             URS  2365     0                          
+   588=           Kaminsky, Oleg M.                           URS  2365     0                          
+   588=           Kirilov, Valentins                          URS  2365     0                          
+   588=           Kopylov, Nikolai G.                         URS  2365     0                          
+   588=           Gasic, Bozidar                              YUG  2365     0                          
+   588=           Ivanovic, Srecko                            YUG  2365                                
+   588=           Kosanski, Stanko                            YUG  2365     0                          
+   588=           Masic, Ljubomir                         m   YUG  2365     0                          
+   608            Casas, Fernando                             ARG  2360     0                          
+   608=           De La Vega, Hector                          ARG  2360                                
+   608=           Garcia, Horacio                             ARG  2360    -5                          
+   608=           Pelikan, Jorge                          m   ARG  2360   -10                          
+   608=           Antonov, Liudmil                            BUL  2360     0                          
+   608=           Radev, Nikolai                              BUL  2360     0                          
+   608=           Spirov, Todor                               BUL  2360     0                          
+   608=           Piasetski, Leon                             CAN  2360   +65                          
+   608=           Castro, Oscar H.                            COL  2360   +30                          
+   608=           Cuellar Gacharna, Miguel                m   COL  2360     0                          
+   608=           Garcia, Luis E.                             COL  2360   +10                          
+   608=           Kupka, Slavoj                               CSR  2360     0                          
+   608=           Betancort Curbelo, Juan                     ESP  2360                                
+   608=           Menvielle Lacourrelle, Augusto              ESP  2360    -5                          
+   608=           Venalainen, Unto E.                         FIN  2360                                
+   608=           Macles, Jacques                             FRA  2360   +80                          
+   608=           Meleghegyi, Csaba                           HUN  2360     0                          
+   608=           Harandi, Khosro                             IRI  2360    +5                          
+   608=           Tan, Lian-Ann                           m   SIN  2360     0                          
+   608=           Glauser, Hansruedi                          SUI  2360     0                          
+   608=           Huss, Andreas                               SUI  2360     0                          
+   608=           Lundin, Erik                            m   SWE  2360     0                          
+   608=           Hermlin, Aarne                              URS  2360     0                          
+   608=           Petrov, Sergei                              URS  2360     0                          
+   608=           Shestakov, Sergei S.                        URS  2360   -15                          
+   608=           Shteinberg, Boris                           URS  2360     0                          
+   608=           Dake, Arthur William                    m   USA  2360     0                          
+   608=           Gilden, Lawrence C.                         USA  2360   -15                          
+   608=           Despotovic, Momcilo                         YUG  2360                                
+   608=           Jovic, Ljubomir                             YUG  2360   +55                          
+   638            Bronstein, Luis                             ARG  2355   -20                          
+   638=           Janetschek, Karl                            AUT  2355   +20                          
+   638=           Daskalov, Georgi                            BUL  2355    +5                          
+   638=           Allan, Denis                                CAN  2355     0                          
+   638=           Jauregui, Carlos                            CHI  2355     0                          
+   638=           Silva Sanchez, Carlos                       CHI  2355   -40                          
+   638=           Banas, Jan                                  CSR  2355   +30                          
+   638=           Hlousek, Zdenek                             CSR  2355     0                          
+   638=           Mista, Ladislav                         m   CSR  2355     0                          
+   638=           Prandstetter, Eduard                        CSR  2355     0                          
+   638=           Boudy, Julio                                CUB  2355     0                          
+   638=           Lebredo, Gerardo                            CUB  2355     0                          
+   638=           Thal, Olaf                                  GDR  2355     0                          
+   638=           Tabor, Jozsef                               HUN  2355     0                          
+   638=           Balinas, Rosendo C.                         PHI  2355    +5                          
+   638=           Pavlov, Mircea                              ROM  2355     0                          
+   638=           Reicher, Emanoil                            ROM  2355     0                          
+   638=           Wahlbom, Magnus                             SWE  2355   +55                          
+   638=           Jovanovic, Nenad                            YUG  2355                                
+   638=           Martinovic, Slobodan                        YUG  2355   +15                          
+   658            Foguelman, Alberto                      m   ARG  2350     0                          
+   658=           Hay, Trevor                                 AUS  2350     0                          
+   658=           Babev, Aleksandar                           BUL  2350   -10                          
+   658=           Dobrev, Dimitar                             BUL  2350     0                          
+   658=           Pelitov, Dimitar                            BUL  2350     0                          
+   658=           Letelier, Rene                          m   CHI  2350   -25                          
+   658=           Stekel-Grunberg, Moises                     CHI  2350   -20                          
+   658=           Velasquez, Cesar                            CHI  2350    -5                          
+   658=           Gonsior, Evzen                              CSR  2350                                
+   658=           Gross, Stefan                               CSR  2350     0                          
+   658=           Ost-Hansen, Jacob                           DEN  2350     0                          
+   658=           Rath, Ulrik                                 DEN  2350                                
+   658=           Clarke, Peter H.                            ENG  2350    -5                          
+   658=           Saren, Ilkka J.                             FIN  2350     0                          
+   658=           Scheipl, Ralf                               GER  2350   +30                          
+   658=           Schifferdecker, Wilhelm                     GER  2350     0                          
+   658=           Kristinsson, Jon                            ISL  2350    -5                          
+   658=           Van Geet, Dirk Daniel                   m   NED  2350     0                          
+   658=           Harestad, Thor Geir                         NOR  2350                                
+   658=           Hoen, Ragnar                                NOR  2350   -30                          
+   658=           Ulrichsen, Jarl H.                          NOR  2350   +20                          
+   658=           Wade, Robert G.                         m   NZL  2350     0                          
+   658=           Farooqui, Zahiruddin                        PAK  2350                                
+   658=           Estimo, Samuel                              PHI  2350     0                          
+   658=           Marszalek, Rafal                            POL  2350     0                          
+   658=           Schinzel, Wladyslaw                         POL  2350     0                          
+   658=           Durao, Joaquim                          m   POR  2350   -10                          
+   658=           Fredriksson, Leif                           SWE  2350                                
+   658=           Belkadi, Ridha                          m   TUN  2350   +10                          
+   658=           Bouaziz, Slim                               TUN  2350   -15                          
+   658=           Movsisian                                   URS  2350     0                          
+   658=           Slutzky, Leonid M.                          URS  2350     0                          
+   658=           Zhelnin, Vladimir V.                        URS  2350                                
+   691            Karapchanski, Dimitar                       BUL  2345     0                          
+   691=           Godoy Bugueno, David A.                     CHI  2345   -15                          
+   691=           De Greif, Boris                         m   COL  2345   +20                          
+   691=           Novak, Ivan                                 CSR  2345   -10                          
+   691=           Siroky, Mojmir                              CSR  2345   -45                          
+   691=           Diaz, Joaquin C.                            CUB  2345     0                          
+   691=           Rosenlund, Thorbjorn                        DEN  2345     0                          
+   691=           Medina Garcia, Antonio                  m   ESP  2345    -5                          
+   691=           Suess, Alois                                GER  2345     0                          
+   691=           Siaperas, Triantafyllos                 m   GRE  2345     0                          
+   691=           Sharif, Mershad                             IRI  2345   +45                          
+   691=           Josteinsson, Leifur                         ISL  2345     0                          
+   691=           Sigurjonsson, Bjorn                         ISL  2345     0                          
+   691=           Porat, Yosef                            m   ISR  2345     0                          
+   691=           Heim, Sverre                                NOR  2345                                
+   691=           Witkowski, Stefan                           POL  2345   +10                          
+   691=           Zoltek, Tadeusz                             POL  2345     0                          
+   691=           Blackstock, Lesly S. F.                     SCO  2345                                
+   691=           Persitz, Raaphi                             SUI  2345     0                          
+   691=           Ek, Hans                                    SWE  2345   -10                          
+   691=           Eslon, Jaan                                 SWE  2345   +10                          
+   691=           Kaiszauri, Konstanty                        SWE  2345    -5                          
+   691=           Lekander, Rolf                              SWE  2345     0                          
+   691=           Ilijic, Milan                               YUG  2345   -30                          
+   715            Martinez, Carlos Alejandro                  ARG  2340                                
+   715=           Camara, Helder                          m   BRA  2340   -25                          
+   715=           German, Eugenio                         m   BRA  2340     0                          
+   715=           Nobrega, Adaucto da                         BRA  2340     0                          
+   715=           Jankov, Todor                               BUL  2340    -5                          
+   715=           Jacobsen, Bo                                DEN  2340   +10                          
+   715=           Eley, Brian                                 ENG  2340   -10                          
+   715=           Littlewood, John E.                         ENG  2340     0                          
+   715=           Postler, Reinhard                           GDR  2340     0                          
+   715=           Sandor, Bela                            m   HUN  2340     0                          
+   715=           Sinulingga, Monang                          INA  2340                                
+   715=           Thorvaldsson, Jonas                         ISL  2340     0                          
+   715=           Campos Lopez, Mario                         MEX  2340   -10                          
+   715=           Myagmarsuren, Lhamsuren                 m   MGL  2340   -35                          
+   715=           Van Dop, Arend J.                           NED  2340     0                          
+   715=           Kuligowski, Adam                            POL  2340     0                          
+   715=           Onat, Ilhan                                 TUR  2340    +5                          
+   715=           Gorshkov, Alexander A.                      URS  2340     0                          
+   715=           Kimelfeld, Rudolf L.                        URS  2340                                
+   715=           Kuzmichev, N.                               URS  2340     0                          
+   715=           Peshina, Gintautas                          URS  2340     0                          
+   715=           Petrushin, Alexander I.                     URS  2340     0                          
+   715=           Meyer, Eugene B.                            USA  2340     0                          
+   715=           Sibarevic, Milenko                          YUG  2340     0                          
+   739            Adhami, Vangiel                             ALB  2335     0                          
+   739=           Stoppel, Franz                              AUT  2335   +15                          
+   739=           Inkiov, Ventzislav                          BUL  2335     0                          
+   739=           Day, Lawrence A.                        m   CAN  2335    +5                          
+   739=           Jankovec, Ivan                              CSR  2335   +20                          
+   739=           Kubicek, Antonin                            CSR  2335   +15                          
+   739=           Pithart, Frantisek                          CSR  2335     0                          
+   739=           Vilela, Jose Luis                           CUB  2335     0                          
+   739=           Cafferty, Bernard                           ENG  2335     0                          
+   739=           Haygarth, Michael J.                        ENG  2335                                
+   739=           Virag, Ferenc                               HUN  2335     0                          
+   739=           Domnitz, Zadok                              ISR  2335     0                          
+   739=           Micheli, Carlo                              ITA  2335   +15                          
+   739=           Boersma, Paulus A.                          NED  2335     0                          
+   739=           Van Reek, Jan                               NED  2335     0                          
+   739=           Vogel, Jaap                                 NED  2335   -15                          
+   739=           Vinje-Gulbrandsen, Arne                     NOR  2335     0                          
+   739=           Lontoc, Ramon                               PHI  2335                                
+   739=           Mc Kay, Roderick M.                         SCO  2335    +5                          
+   739=           Hohler, Peter                               SUI  2335     0                          
+   739=           Schaufelberger, Heinz                       SUI  2335   -10                          
+   739=           Alexandria, Nana                       wm   URS  2335     0                    w     
+   739=           Bukhtin, Vladimir S.                        URS  2335     0                          
+   739=           Goldin, Alexander                           URS  2335     0                          
+   739=           Petukhov, Valery                            URS  2335     0                          
+   739=           Pokhla, Garry A.                            URS  2335     0                          
+   739=           Peters, John A.                             USA  2335     0                          
+   766            Garcia, Gildardo                            COL  2330    -5                          
+   766=           Beil, Zdenek                                CSR  2330   +20                          
+   766=           Pacl, Vaclav                                CSR  2330   +55                          
+   766=           Estevez, Guillermo                      m   CUB  2330     0                          
+   766=           Ortega, Rogelio                             CUB  2330     0                          
+   766=           Kolbaek, Jens                               DEN  2330    +5                          
+   766=           Petersen, Finn                              DEN  2330     0                          
+   766=           Palacios De La Prida, Ernesto               ESP  2330     0                          
+   766=           Borik, Otto                                 GER  2330                                
+   766=           Kiffmeyer, Constanz                         GER  2330     0                          
+   766=           Makropoulos, Georgios                       GRE  2330    +5                          
+   766=           Ortel, Endre                                HUN  2330     0                          
+   766=           Ozsvath, Andras                             HUN  2330     0                          
+   766=           Ardiansyah, Haji                        m   INA  2330   +15                          
+   766=           Henry, Paul                                 IRL  2330                                
+   766=           Zichichi, Alvise                            ITA  2330   -25                          
+   766=           Kramer, Haije J.                        m   NED  2330     0                          
+   766=           Pesantes, Carlos                            PER  2330     0                          
+   766=           Dobrzynski, Wojciech                        POL  2330     0                          
+   766=           Pinkas, Karol                               POL  2330     0                          
+   766=           Sznapik, Aleksander                         POL  2330    +5                          
+   766=           Grunberg, Sergiu Henric                     ROM  2330     0                          
+   766=           Wirthensohn, Heinz                          SUI  2330   -10                          
+   766=           Buturin, Vladimir                           URS  2330     0                          
+   766=           Isvoschikov                                 URS  2330   -60                          
+   766=           Legky, Nikolay A.                           URS  2330     0                          
+   766=           Levitina, Irina S.                     wm   URS  2330    +5                    w     
+   766=           Sternberg, Pavel                            URS  2330     0                          
+   766=           Voronov, Vladimir                           URS  2330     0                          
+   766=           Kane, George Francis                        USA  2330     0                          
+   766=           Levy, Louis                                 USA  2330     0                          
+   766=           Thornally, Frank                            USA  2330     0                          
+   766=           Hutchings, Stuart J.                        WLS  2330   +20                          
+   766=           Barle, Janez                                YUG  2330     0                          
+   766=           Savic, Dragoljub                            YUG  2330     0                          
+   766=           Vulevic, Vjekoslav                          YUG  2330     0                          
+   802            Mazzoleni, Julio                            ARG  2325     0                          
+   802=           Reinhardt, Enrique                          ARG  2325     0                          
+   802=           Angelov, Kosta                              BUL  2325   +10                          
+   802=           Petrov, Petar S.                            BUL  2325     0                          
+   802=           Witt, Laszlo                            m   CAN  2325     0                          
+   802=           Blatny, Frantisek                           CSR  2325   -20                          
+   802=           Cibulka, Vladimir                           CSR  2325   -10                          
+   802=           Trapl, Jindrich                             CSR  2325     0                          
+   802=           Franklin, Michael J.                        ENG  2325   -10                          
+   802=           Ojanen, Kaarle S.                       m   FIN  2325     0                          
+   802=           Sawadkuhi, Massoud-Amir                     IRI  2325   -15                          
+   802=           Gelfer, Israel                              ISR  2325     0                          
+   802=           Lhagva, Jambaldoo                           MGL  2325   +15                          
+   802=           Barendregt, Johan                       m   NED  2325     0                          
+   802=           Van Scheltinga, Theo D.                 m   NED  2325     0                          
+   802=           Kaimo, Roberto E.                           PHI  2325                                
+   802=           Lobigas, Julian                             PHI  2325   -20                          
+   802=           Silva, Fernando                             POR  2325   +35                          
+   802=           Levy, David N. L.                       m   SCO  2325    +5                          
+   802=           Gereben, Erno                           m   SUI  2325    +5                          
+   802=           Liljedahl, Lennart                          SWE  2325    -5                          
+   802=           Gergel, Vladimir P.                         URS  2325     0                          
+   802=           Novikov, Igor A.                            URS  2325   -10                          
+   802=           Wagman, Stuart                              USA  2325     0                          
+   802=           Fucak, Emilijo                              YUG  2325     0                          
+   827            Aparicio, Anibal                            ARG  2320   +90                          
+   827=           Juarez, Carlos Eleodoro                     ARG  2320     0                          
+   827=           Ajanski, Jordan S.                          BUL  2320     0                          
+   827=           Cordova Valle, Sergio                       CHI  2320     0                          
+   827=           Orpinas, Claudio                            CHI  2320     0                          
+   827=           Alzate, Javier                              COL  2320                                
+   827=           Brondum, Eric                               DEN  2320     0                          
+   827=           Knox, Victor W.                             ENG  2320   +10                          
+   827=           Martin Gonzalez, Angel                      ESP  2320     0                          
+   827=           Sanz Alonso, Francisco J.                   ESP  2320     0                          
+   827=           Kluger, Gyula                           m   HUN  2320   -50                          
+   827=           Suradiradja, Herman                         INA  2320     0                          
+   827=           Thorbergsson, Freysteinn                    ISL  2320     0                          
+   827=           Torfason, Jon                               ISL  2320     0                          
+   827=           Van Baarle, C. John                         NED  2320   -30                          
+   827=           Van der Vliet, Fred                         NED  2320     0                          
+   827=           Sarapu, Ortvin                          m   NZL  2320   -10                          
+   827=           Quinones, Oscar C.                      m   PER  2320     0                          
+   827=           De la Vega, Roger                           PHI  2320                                
+   827=           Drozd, Ryszard                              POL  2320     0                          
+   827=           Troianescu, Octavio                     m   ROM  2320     0                          
+   827=           Nykopp, Jan-Michael F.                      SWE  2320     0                          
+   827=           Kliukin, Boris P.                           URS  2320     0                          
+   827=           Petrosian, Arshak B.                        URS  2320     0                          
+   827=           Mihaljcisin, Mihajlo                    m   YUG  2320     0                          
+   852            Sumiacher, Carlos                           ARG  2315     0                          
+   852=           Rocha, Antonio                              BRA  2315     0                          
+   852=           Prodanov, Dimitar                           BUL  2315   -25                          
+   852=           Gutierrez, Jose A.                      m   COL  2315     0                          
+   852=           Pinal, Nelson B.                            CUB  2315     0                          
+   852=           Fedder, Steen                               DEN  2315     0                          
+   852=           Moler, Lari                                 DEN  2315     0                          
+   852=           Corden, Martyn J.                           ENG  2315     0                          
+   852=           Gruenberg, Hans-Ulrich                      GDR  2315     0                          
+   852=           Cox, David                                  IRL  2315   -10                          
+   852=           Pokojowczyk, Jerzy                          POL  2315    +5                          
+   852=           Bhend, Edwin                            m   SUI  2315     0                          
+   852=           Akvist, Hakan                               SWE  2315   -10                          
+   852=           Skold, Kristian                             SWE  2315     0                          
+   852=           Chidishko, Alexander A.                     URS  2315     0                          
+   852=           Kozlovskaya, Valentina                 wm   URS  2315   +40                    w     
+   852=           Listergarten, Leonid B.                     URS  2315     0                          
+   852=           Veksler, Aleksander L.                      URS  2315     0                          
+   852=           Kelecevic, Nedeljko                         YUG  2315     0                          
+   852=           Marjanovic, Slavoljub                       YUG  2315    +5                          
+   872            Brond, Victor                               ARG  2310    -5                          
+   872=           Watzka, Horst                               AUT  2310     0                          
+   872=           Cornelis, Frans B.                          BEL  2310     0                          
+   872=           Trois, Francisco R. T.                      BRA  2310     0                          
+   872=           Ivanov, Spiridon                            BUL  2310                                
+   872=           Mandrow, Dimitar                            BUL  2310     0                          
+   872=           Pantaleev, Dimitar                          BUL  2310     0                          
+   872=           Melhuish, Jose                              CHI  2310     0                          
+   872=           Hernandez, Jose J.                          CUB  2310     0                          
+   872=           Serrano, Waldo                              CUB  2310     0                          
+   872=           Triana, Justo                               CUB  2310     0                          
+   872=           Norby, Peter H.                             DEN  2310     0                          
+   872=           Friedgood, David                            ENG  2310     0                          
+   872=           Sorri, Kari Juhani                          FIN  2310     0                          
+   872=           Brueggemann, Joachim                        GDR  2310     0                          
+   872=           Espig, Thomas                               GDR  2310     0                          
+   872=           Walter, Guenter                             GDR  2310     0                          
+   872=           Ivanka, Maria                          wm   HUN  2310   +30                    w     
+   872=           Damanik, Pokan                              INA  2310                                
+   872=           Turalakey, M.                               INA  2310     0                          
+   872=           Gunnarsson, Gunnar K.                       ISL  2310   +10                          
+   872=           Geller, Uzi                                 ISR  2310     0                          
+   872=           Cappello, Renato                            ITA  2310     0                          
+   872=           Schneider, Raymond                          LUX  2310                                
+   872=           Niamdorzi, Cagaan                           MGL  2310     0                          
+   872=           Manasterski, Lutoslaw                       POL  2310   -10                          
+   872=           Potedtiniec                                 POL  2310                                
+   872=           De Villiers, Charles                        RSA  2310                                
+   872=           Nordstrom, Felix                            SWE  2310   -15                          
+   872=           Kusnic                                      URS  2310                                
+   872=           Denker, Arnold S.                       m   USA  2310   +40                          
+   872=           Cooper, John G.                             WLS  2310   +95                          
+   872=           Papler, Anton                               YUG  2310                                
+   905            Ocampo, Raul                                ARG  2305     0                          
+   905=           Steinbaum, Fernando                         ARG  2305     0                          
+   905=           Szlos, Leonardo                             ARG  2305     0                          
+   905=           Seifert, Milan                              CSR  2305                                
+   905=           Ujtelky, Maximilian                     m   CSR  2305   +10                          
+   905=           Bachtiar, Arovah                            INA  2305     0                          
+   905=           Romm, Meir                                  ISR  2305     0                          
+   905=           Dieks, Roy G.                               NED  2305                                
+   905=           Jongsma, Alexander                          NED  2305     0                          
+   905=           Nicolau-Van Der Mije, Alexandra        wm   NED  2305   -15                    w     
+   905=           Abella, Roger                               PHI  2305                                
+   905=           Mascarinas, Rico                            PHI  2305                                
+   905=           Wedberg, Tom                                SWE  2305                                
+   905=           Ranniku, Maaja                         wm   URS  2305    -5                    w     
+   905=           Shteiner, Z.                                URS  2305     0                          
+   905=           Baretic, Dragoljub                          YUG  2305    -5                          
+   905=           Notaros, Krasoje                            YUG  2305   +15                          
+   922            Pustina, Ylvi                               ALB  2300     0                          
+   922=           Vila, Florian                               ALB  2300     0                          
+   922=           Giardelli, Sergio C.                        ARG  2300                                
+   922=           Hase, Ricardo                               ARG  2300     0                          
+   922=           Morgado, Juan J.                            ARG  2300     0                          
+   922=           Toth, Peter                                 BRA  2300   -20                          
+   922=           Pipkov, Liuben                              BUL  2300     0                          
+   922=           Belmonte, Juan S.                           CHI  2300     0                          
+   922=           Agudelo, Antonio                            COL  2300     0                          
+   922=           Minaya, Juan                                COL  2300     0                          
+   922=           Blucha, Dalibor                             CSR  2300     0                          
+   922=           Hausner, Ivan                               CSR  2300     0                          
+   922=           Sikora-Lerch, Jan                           CSR  2300   -90                          
+   922=           Garcia, Wilfredo                            CUB  2300     0                          
+   922=           Jensen, Allan                               DEN  2300     0                          
+   922=           Sorensen, Bent                              DEN  2300     0                          
+   922=           Perkins, Alan H.                            ENG  2300   -60                          
+   922=           Fernandez Fernandez, Angel                  ESP  2300                                
+   922=           Puhm, Alar                                  FRA  2300     0                          
+   922=           Pfeil, Hartmut                              GDR  2300     0                          
+   922=           Starck, Bodo                                GDR  2300     0                          
+   922=           Christoph, Manfred                          GER  2300     0                          
+   922=           Hollig, Klaus                               GER  2300     0                          
+   922=           Servaty, Rudolf                             GER  2300                                
+   922=           Gavrilakis, Nikolaos                        GRE  2300                                
+   922=           Hradeczky, Tamas                            HUN  2300     0                          
+   922=           Kristjansson, Bragi                         ISL  2300     0                          
+   922=           Magnusson, Gylfi                            ISL  2300     0                          
+   922=           Bohm, Hans                                  NED  2300   +15                          
+   922=           De Lange, Daan                              NOR  2300   -20                          
+   922=           Bordonada, Glenn                            PHI  2300                                
+   922=           Pietrusiak, Bogdan                          POL  2300     0                          
+   922=           Ghinda, Mihail-Viorel                       ROM  2300     0                          
+   922=           Stoica, Valentin                            ROM  2300     0                          
+   922=           Jamieson, Peter M.                          SCO  2300   +30                          
+   922=           Bilunova, Rimma I.                     wm   URS  2300    -5                    w     
+   922=           Maslov, Leonid P.                           URS  2300     0                          
+   922=           Shishkov, Viktor                            URS  2300     0                          
+   922=           Djuric, Stefan                              YUG  2300                                
+   922=           Osterman, Rudolf                            YUG  2300     0                          
+   922=           Popov, Stevan                               YUG  2300     0                          
+   963            Van Seters, Frits                           BEL  2295   -30                          
+   963=           Coudari, Camille                            CAN  2295     0                          
+   963=           Rovira Mas, Jorge                           CRC  2295     0                          
+   963=           Zinser, Sylvain                             FRA  2295     0                          
+   963=           Gasztonyi, Endre                            HUN  2295     0                          
+   963=           Wotulo, Max Arie                        m   INA  2295   -35                          
+   963=           Moles, John                                 IRL  2295     0                          
+   963=           Brodeur, Gilles                             MNC  2295                                
+   963=           Badilles, Glicerio                          PHI  2295    +5                          
+   963=           Stanciu, Traian                             ROM  2295     0                          
+   963=           Diesen, Mark C.                             USA  2295     0                          
+   963=           Cabrilo, Goran                              YUG  2295                                
+   975            Bazan, Osvaldo                              ARG  2290     0                          
+   975=           Franzen, Jozef                              CSR  2290   -25                          
+   975=           Krnavek, Lubomir                            CSR  2290                                
+   975=           Fernandez, Ciro A.                          CUB  2290     0                          
+   975=           Junco, Carlos                               CUB  2290     0                          
+   975=           Mestel, A. Jonathan                         ENG  2290   +20                          
+   975=           Packroff, Hermann                           GDR  2290     0                          
+   975=           Rossmann, Helmut                            GDR  2290     0                          
+   975=           Buchal, Stephan                             GER  2290     0                          
+   975=           Veroci, Zsuzsa                         wm   HUN  2290   +45                    w     
+   975=           Sampouw, Jacobus S.                         INA  2290   +10                          
+   975=           Fridjonsson, Julius                         ISL  2290   -20                          
+   975=           Halldorsson, Bragi                          ISL  2290    -5                          
+   975=           Krabbe, Tim                                 NED  2290     0                          
+   975=           Van den Berg, G. A.                         NED  2290     0                          
+   975=           Van der Weide, Piet                         NED  2290     0                          
+   975=           Sutton, Richard J.                          NZL  2290     0                          
+   975=           Grossmann, Ryszard                          POL  2290                                
+   975=           Colon, Arturo                               PUR  2290                                
+   975=           Buza, Adrian                                ROM  2290     0                          
+   975=           Hansson, Dan                                SWE  2290   -30                          
+   975=           Epstein, Esther                        wm   URS  2290     0                    w     
+   975=           Shul, Marta I.                         wm   URS  2290   +20                    w     
+   975=           Timofeev, Vladimir F.                       URS  2290     0                          
+   975=           Danov, Kiril                                YUG  2290     0                          
+  1000            Hamilton, Douglas G.                        AUS  2285     0                          
+  1000=           Carvallo Avario, Mauricio                   CHI  2285     0                          
+  1000=           Zuniga Rivera, Edmundo                      CHI  2285     0                          
+  1000=           Kriz, Miroslav                              CSR  2285     0                          
+  1000=           Meduna, Eduard                              CSR  2285     0                          
+  1000=           Travnicek, Peter                            CSR  2285   -20                          
+  1000=           Mederos, Armando                            CUB  2285     0                          
+  1000=           Soler, Alberto                              CUB  2285     0                          
+  1000=           Crouch, Colin S.                            ENG  2285                                
+  1000=           Griffiths, Peter C.                         ENG  2285     0                          
+  1000=           Pijuan, Manuel                              ESP  2285     0                          
+  1000=           Hans, Peter                                 GER  2285     0                          
+  1000=           Mc Grillen, Hugh                            IRL  2285   +25                          
+  1000=           Jonsson, Johannes G.                        ISL  2285   -25                          
+  1000=           Viglundsson, Bjorgvin                       ISL  2285                                
+  1000=           Cappello, Guido                             ITA  2285   +15                          
+  1000=           Porreca, Giorgio                        m   ITA  2285     0                          
+  1000=           Jigjidsuren, Purev                          MGL  2285     0                          
+  1000=           De Castro, Edgar                            PHI  2285    -5                          
+  1000=           Konopleva, Natalia                     wm   URS  2285    +5                    w     
+  1000=           Pavlyuttin, J.                              URS  2285     0                          
+  1000=           Winston, Peter J.                           USA  2285                                
+  1000=           Djaja, Dragutin                             YUG  2285     0                          
+  1023            Rebizzo, Cayetano                           ARG  2280     0                          
+  1023=           Flatow, Alfred                              AUS  2280     0                          
+  1023=           Beyen, Roland                               BEL  2280   +15                          
+  1023=           Araujo, Rodolfo                             BRA  2280                                
+  1023=           Fiori de Azevedo, Pio                       BRA  2280     0                          
+  1023=           Arnaudov, Petar                             BUL  2280   -15                          
+  1023=           Srebrov, Hristo                             BUL  2280                                
+  1023=           Macskasy, Elod                              CAN  2280     0                          
+  1023=           Larrain Cadaiz, Eugenio                     CHI  2280     0                          
+  1023=           Munoz, Francisco                            COL  2280     0                          
+  1023=           Ramos, Juan                                 CUB  2280     0                          
+  1023=           Juliao, C.                                  DOM  2280                                
+  1023=           Saverymuttu, Seth                           ENG  2280   +30                          
+  1023=           Bartrina, Modesto                           ESP  2280     0                          
+  1023=           Bessenay, Maurice                           FRA  2280  -120                          
+  1023=           Haik, Aldo                                  FRA  2280     0                          
+  1023=           Raizman, Maurice                            FRA  2280     0                          
+  1023=           Dietze, Wolfgang                            GDR  2280     0                          
+  1023=           Jahr, Ulrich                                GER  2280     0                          
+  1023=           Klein, Manfred                              GER  2280     0                          
+  1023=           Vizantiadis, Lazaros                    m   GRE  2280   +20                          
+  1023=           Horvath, Gyula                              HUN  2280     0                          
+  1023=           Frey, Kenneth                               MEX  2280    +5                          
+  1023=           Knol, Dirk L.                               NED  2280     0                          
+  1023=           Pioch, Zygmunt                              POL  2280     0                          
+  1023=           Cordovil, Joao                              POR  2280    -5                          
+  1023=           Leow, Leslie M.                             SIN  2280   +50                          
+  1023=           Stenborg, Ake                               SWE  2280     0                          
+  1023=           Uddenfeldt, Dan                             SWE  2280    +5                          
+  1023=           Itkis, Boris                                URS  2280                                
+  1023=           Saunina, Ludmila                       wm   URS  2280     0                    w     
+  1023=           Titenko, Vladimir F.                        URS  2280                                
+  1023=           Velickovic, Sasa                            YUG  2280     0                          
+  1056            Sabao, Raimundo                             ARG  2275                                
+  1056=           Merdinjan, Agop                             BUL  2275     0                          
+  1056=           Selick, Paul                                CAN  2275     0                          
+  1056=           Shirazi, Kamran                             IRI  2275   -10                          
+  1056=           Littleton, Michael F.                       IRL  2275   -20                          
+  1056=           Primavera, Roberto                          ITA  2275    -5                          
+  1056=           Hatlebakk, Einar                            NOR  2275     0                          
+  1056=           Butt, Dastgir                               PAK  2275                                
+  1056=           Nowak, Ignacy                               POL  2275     0                          
+  1056=           Bonner, Gerald                              SCO  2275     0                          
+  1056=           Cabarkapa, Milenko                          YUG  2275     0                          
+  1067            Carvalho, Herbert Abreu                     BRA  2270     0                          
+  1067=           Stankov, Georgi                             BUL  2270   +15                          
+  1067=           Ader, Walter                                CHI  2270     0                          
+  1067=           Henao, Raul Fernando                        COL  2270   -20                          
+  1067=           Alster, Ladislav                            CSR  2270     0                          
+  1067=           De Veauce, Louis                            ENG  2270     0                          
+  1067=           Benoit, Michel                              FRA  2270   -10                          
+  1067=           Brameyer, Hermann                           GDR  2270     0                          
+  1067=           Mack, Peter                                 GER  2270   +35                          
+  1067=           Schrancz, Istvan                            HUN  2270                                
+  1067=           Paoli, Enrico                           m   ITA  2270   -10                          
+  1067=           Zorigt, Damdzinhav                          MGL  2270     0                          
+  1067=           Folling, Magne                              NOR  2270     0                          
+  1067=           Kruszynski, Wlodzimierz                     POL  2270     0                          
+  1067=           Santos, Luis                                POR  2270     0                          
+  1067=           Ekenberg, Bengt                             SWE  2270   -10                          
+  1067=           Fridh, Anton                                SWE  2270   +15                          
+  1067=           Tbourbi, Khaled                             TUN  2270                                
+  1067=           Kalatozishvili, Guram                       URS  2270     0                          
+  1067=           Strelnikova, Elena                          URS  2270                          w     
+  1067=           Diaz, Salvador                              VEN  2270     0                          
+  1088            Pinto Paiva, Jose                           BRA  2265   -15                          
+  1088=           Antonov, Vladimir                           BUL  2265     0                          
+  1088=           Sidyakov, Borislav                          BUL  2265     0                          
+  1088=           Dominguez Sanz, Juan P.                     ESP  2265     0                          
+  1088=           Preissmann, Emmanuel                        FRA  2265   -15                          
+  1088=           Heinen                                      GDR  2265                                
+  1088=           Heinig, Wolfram                             GDR  2265     0                          
+  1088=           Rellstab, Ludwig sr                     m   GER  2265     0                          
+  1088=           Prins, Lodewijk                         m   NED  2265     0                          
+  1088=           Green, Ewen M.                              NZL  2265                                
+  1088=           Vasquez, Julio E.                           PER  2265     0                          
+  1088=           Mashian, Houschang                          SUI  2265     0                          
+  1088=           Krantz, Kjell                               SWE  2265                                
+  1088=           Suer, Nevzat                                TUR  2265   +30                          
+  1088=           Medyanikova, Nina                      wm   URS  2265                          w     
+  1088=           Kizov, Risto                                YUG  2265                                
+  1088=           Petrovic, Slavko                            YUG  2265                                
+  1105            Marcussi, Bartolome                         ARG  2260     0                          
+  1105=           Zuk, Robert D.                              CAN  2260     0                          
+  1105=           Sanchez, Luis A.                        m   COL  2260     0                          
+  1105=           Garcia, Gilberto                            CUB  2260     0                          
+  1105=           Ruiz Gutierrez, Manuel                      ESP  2260     0                          
+  1105=           Sallay, Roland                              HUN  2260     0                          
+  1105=           Mart, Avner                                 ISR  2260     0                          
+  1105=           Contedini, Ennio                            ITA  2260   -10                          
+  1105=           Stull, Norbert                              LUX  2260     0                          
+  1105=           Lara, Jorge                                 MEX  2260                                
+  1105=           Witt, Rob                                   NED  2260     0                          
+  1105=           Gundersen, Helge                            NOR  2260     0                          
+  1105=           Villasante, Audres                          PER  2260     0                          
+  1105=           Jamroz, Zbigniew                            POL  2260     0                          
+  1105=           Luczynowicz, Waclaw                         POL  2260                                
+  1105=           Polihroniade, Elisabeta                wm   ROM  2260   +30                    w     
+  1105=           Bloch, Nigel                                RSA  2260   +30                          
+  1105=           Josefsson, Kenneth                          SWE  2260     0                          
+  1105=           Bilyap, Siracettin                          TUR  2260   -30                          
+  1105=           Marantz, Mikhail                            URS  2260                                
+  1105=           Komljenovic, Davor                          YUG  2260     0                          
+  1105=           Marjan, Dusan                               YUG  2260   +10                          
+  1127            Bonne, Mark                                 BEL  2255                                
+  1127=           Nowak, Ervin                                CSR  2255     0                          
+  1127=           Trujillo, Omar                              CUB  2255     0                          
+  1127=           Merino Mejuto, Domingo                      ESP  2255     0                          
+  1127=           Perenyi, Bela                               HUN  2255     0                          
+  1127=           Maninang, Rafaelito                         PHI  2255                                
+  1127=           Torre, Vic                                  PHI  2255                                
+  1127=           Ribeiro, Joao-Mario                         POR  2255   -35                          
+  1127=           Fedorov, Vladislav                          URS  2255                                
+  1127=           Maiztequi, M.                               URU  2255                                
+  1137            Wostin, Rik H.                              BEL  2250   -15                          
+  1137=           Konstantinov, Valentin                      BUL  2250     0                          
+  1137=           Slavov, Dimcho                              BUL  2250     0                          
+  1137=           Lopez, Fernando                             COL  2250     0                          
+  1137=           Havlicek, Dalibor                           CSR  2250                                
+  1137=           Delgado, Alberto                            DOM  2250                                
+  1137=           Verduga, Denis                              ECU  2250     0                          
+  1137=           Carleton, John J.                           ENG  2250     0                          
+  1137=           Hartston, Jana                         wm   ENG  2250                          w     
+  1137=           Skalkotas, Nikolaos                         GRE  2250     0                          
+  1137=           Balogh, Bela                                HUN  2250     0                          
+  1137=           Szeles, Karoly                              HUN  2250     0                          
+  1137=           Cassidy, Paul                               IRL  2250                                
+  1137=           Beggi, Pierluigi                            ITA  2250                                
+  1137=           Trincardi, Tullio                           ITA  2250     0                          
+  1137=           Miyasaki, Yukio                             JPN  2250     0                          
+  1137=           Ahmad, Iftikke                              PAK  2250                                
+  1137=           Torres, Luis J.                             PUR  2250                                
+  1137=           Suta, Mihai                                 ROM  2250     0                          
+  1137=           Urzica, Aurel                               ROM  2250     0                          
+  1137=           Ammann, Philipp (2)                         SUI  2250     0                          
+  1137=           Ljungquist, Lennart                         SWE  2250     0                          
+  1137=           Rubtsova, Elena                        wm   URS  2250     0                    w     
+  1137=           Volovich, Anatoly A.                        URS  2250  -190                          
+  1137=           Basta, Dane                                 YUG  2250                                
+  1162            Hvenekilde, Jorgen                          DEN  2245     0                          
+  1162=           Friehoff, Heinz                             GER  2245     0                          
+  1162=           Balaskas, Panayotis                         GRE  2245     0                          
+  1162=           Fappas, Georgios                            GRE  2245     0                          
+  1162=           Ocampo, Raul (2)                            MEX  2245                                
+  1162=           Carpinter, Anthony L.                       NZL  2245     0                          
+  1162=           Pilot, Jerzy                                POL  2245     0                          
+  1162=           Walter, Guenter (3)                         SUI  2245     0                          
+  1162=           Helmertz, Per-Inge                          SWE  2245   +10                          
+  1162=           Ludolph, Jaan                               URS  2245     0                          
+  1162=           Semenova, Lidia K.                          URS  2245   -25                    w     
+  1162=           Zolotonos, Leonid                           URS  2245     0                          
+  1162=           Zvorykina, Kira                             URS  2245                          w     
+  1175            Dunkelblum, Arthur                      m   BEL  2240     0                          
+  1175=           Bonchev, Stoiko                             BUL  2240     0                          
+  1175=           Lemachko, Tatiana                      wm   BUL  2240   +40                    w     
+  1175=           Berry, Jonathan                             CAN  2240     0                          
+  1175=           Nurmi, Peter                                CAN  2240                                
+  1175=           Privara, Igor                               CSR  2240     0                          
+  1175=           Letzelter, Jean-Claude                      FRA  2240     0                          
+  1175=           Litkiewicz, Kurt                            GDR  2240     0                          
+  1175=           Busch, Raimund                              GER  2240                                
+  1175=           Huettemann, Karl-Heinz                      GER  2240                                
+  1175=           Cuibus, Janos                               HUN  2240     0                          
+  1175=           Aaron, Manuel                           m   IND  2240     0                          
+  1175=           Primavera, Giuseppe                         ITA  2240   -10                          
+  1175=           Barda, Yngvar                               NOR  2240     0                          
+  1175=           Saracelo, Felix                             PUR  2240     0                          
+  1190            Amado, Claudio                              ARG  2235     0                          
+  1190=           Kerchev, Zlatozar                           BUL  2235   -15                          
+  1190=           Belliard, Julio                             DOM  2235     0                          
+  1190=           Camaton Borbor, Carlos                      ECU  2235                                
+  1190=           Huguet, Bernard                             FRA  2235     0                          
+  1190=           Bjarnason, Saevar                           ISL  2235     0                          
+  1190=           Escondrillas, Carlos                        MEX  2235                                
+  1190=           Helmers, Knut J.                            NOR  2235                                
+  1190=           Aguilar, Susano                             PHI  2235                                
+  1190=           Freyre Forest, Jorge                        PUR  2235                                
+  1190=           Korostensky, Frank                          RSA  2235                                
+  1190=           Uzman, Cavit                                TUR  2235     0                          
+  1190=           Caro, Alberto N.                            VEN  2235   +25                          
+  1190=           Guerra, Jose L.                             VEN  2235                                
+  1190=           Tot, Bora                                   YUG  2235     0                          
+  1190=           Vujacic, Borivoje                           YUG  2235     0                          
+  1206            Bulcourf, Carlos                            ARG  2230     0                          
+  1206=           Milev, Zdravko                          m   BUL  2230     0                          
+  1206=           Tomov, Georgi                               BUL  2230     0                          
+  1206=           Pelaez, Armando                             CUB  2230     0                          
+  1206=           Kanko, Ilkka                                FIN  2230     0                          
+  1206=           Syre, Christian                             GDR  2230     0                          
+  1206=           Muller, Laszlo                              HUN  2230     0                          
+  1206=           Shahsavar, K.                               IRI  2230                                
+  1206=           Heidenfeld, Wolfgang                        IRL  2230    +5                          
+  1206=           Halldorsson, Bjorn                          ISL  2230                                
+  1206=           Thorleifsson, Karl                          ISL  2230     0                          
+  1206=           Loheac-Amoun, Frank                         LIB  2230    +5                          
+  1206=           Sursock, Sameer                             LIB  2230                                
+  1206=           Ofstad, Per                                 NOR  2230                                
+  1206=           Pojedziniec, Wladyslaw                      POL  2230     0                          
+  1206=           Holt, Eric                                  SCO  2230     0                          
+  1206=           Lim, Kok-Ann                                SIN  2230     0                          
+  1206=           Goldberger, Ernst                           SUI  2230     0                          
+  1206=           Rifai, S.                                   SYR  2230                                
+  1206=           Borisenko, Valentina                   wm   URS  2230   -45                    w     
+  1206=           Kislova, Alexandra V.                  wm   URS  2230   +15                    w     
+  1227            Dumont, Sadi Glasser                        BRA  2225     0                          
+  1227=           Spacek, Petr                                CSR  2225     0                          
+  1227=           Auchenberg, Per                             DEN  2225     0                          
+  1227=           Csulits, Anton                              GDR  2225     0                          
+  1227=           Dresen, Ulrich                              GER  2225     0                          
+  1227=           Gudmundsson, Elvar                          ISL  2225                                
+  1227=           Ott, Roland                                 SUI  2225                                
+  1227=           Vasiliev, Rustam N.                         URS  2225   -60                          
+  1235            Carbone, Jose                               ARG  2220     0                          
+  1235=           Chemin, Vitorio                             BRA  2220     0                          
+  1235=           Malis, Jiri                                 CSR  2220     0                          
+  1235=           Schoupal, Eduard                            CSR  2220                                
+  1235=           Garces, Napoleon                            ECU  2220     0                          
+  1235=           Meinsohn, Francis                           FRA  2220                                
+  1235=           Jaeger, Hans-Juergen                        GER  2220                                
+  1235=           Georgsson, Harvey                           ISL  2220     0                          
+  1235=           Nestler, Vincenzo                           ITA  2220     0                          
+  1235=           Ahmad, Nazir                                PAK  2220                                
+  1235=           Caturla, Cesar                              PHI  2220                                
+  1235=           Puscasiu, Octavian                          ROM  2220     0                          
+  1235=           Pang, Kwok-Leong                            SIN  2220                                
+  1235=           Belova, Tamara                              URS  2220   -45                    w     
+  1235=           Chiburdanidze, Maia                    wm   URS  2220                          w     
+  1235=           Skegina, Klaara                        wm   URS  2220     0                    w     
+  1235=           Ushakova, Irina                             URS  2220     0                    w     
+  1235=           Zatulovskaya, Tatiana                  wm   URS  2220   -50                    w     
+  1235=           Gamboa, Anibal                              VEN  2220                                
+  1235=           Mujagic, Ramo                               YUG  2220     0                          
+  1255            Omari, Fatos                                ALB  2215     0                          
+  1255=           Anelli, Antonio                             ARG  2215     0                          
+  1255=           Castillo, Carlos                            ARG  2215     0                          
+  1255=           Mayer, Stepanka                        wm   CSR  2215   +15                    w     
+  1255=           Hernandez-Padron Cortes, Sergio             CUB  2215     0                          
+  1255=           Buch, Ole                                   DEN  2215     0                          
+  1255=           Yepez, Trotzky                              ECU  2215                                
+  1255=           Pujol Sans, Manuel                          ESP  2215     0                          
+  1255=           Trikaliotis, Georgios                       GRE  2215     0                          
+  1255=           Valenti, Giuseppe                           ITA  2215                                
+  1255=           Nijdam, Wim                                 NED  2215   -15                          
+  1255=           Dahlin, Gunnar                              SWE  2215                                
+  1255=           Ljungdahl, John                             SWE  2215    +5                          
+  1255=           Drira, Ahmed                                TUN  2215     0                          
+  1255=           Idelchik, Liubov M.                         URS  2215     0                    w     
+  1255=           Mkrychian, Alla                             URS  2215     0                    w     
+  1255=           Sammula, Mari                               URS  2215     0                    w     
+  1255=           Radojevic, Zoran                            YUG  2215   +10                          
+  1255=           Stadler, Tereza                        wm   YUG  2215   +75                    w     
+  1274            Kirchmayr, Emilio                           ARG  2210     0                          
+  1274=           Beni, Alfred                            m   AUT  2210     0                          
+  1274=           Dorn, Max                                   AUT  2210     0                          
+  1274=           Zoebisch, Herbert                           AUT  2210     0                          
+  1274=           Baccelliere Pena, Mario E.                  CHI  2210     0                          
+  1274=           Petrik, Karol                               CSR  2210     0                          
+  1274=           Engert, Immo                                GER  2210    +5                          
+  1274=           Krstic, Slobodan                            HKG  2210     0                          
+  1274=           Thomas, David                               LIB  2210                                
+  1274=           Camilleri, Henry                            MLT  2210   -15                          
+  1274=           Baljon, Christofoor                         NED  2210     0                          
+  1274=           Moen, Ole-Christian                         NOR  2210                                
+  1274=           Giam, Choo-Kwee                             SIN  2210     0                          
+  1274=           Malmdin, Nils-Ake                           SWE  2210     0                          
+  1274=           Erozbek, Akdogan                            TUR  2210                                
+  1274=           Grinfeld, Alla B.                           URS  2210                          w     
+  1274=           Orlov, Vsevolod                             URS  2210     0                          
+  1274=           Jones, Iolo C.                              WLS  2210     0                          
+  1292            Aliaga, Juan Carrajal                       BOL  2205     0                          
+  1292=           Sunye Neto, Jaime                           BRA  2205                                
+  1292=           Gonzales, Eliseo                            DOM  2205                                
+  1292=           Midjord, Joan Paetur                        FAI  2205                                
+  1292=           Capece, Adolivio                            ITA  2205    -5                          
+  1292=           Feller, Joseph                              LUX  2205     0                          
+  1292=           Fairhurst, William                      m   NZL  2205   -95                          
+  1292=           Fabrega, B.                                 PAN  2205                                
+  1292=           Moraza, Manuel                              PUR  2205    -5                          
+  1292=           Baumstark, Gertrude                    wm   ROM  2205   +15                    w     
+  1292=           Denman, Brian                               SCO  2205     0                          
+  1292=           Chia, Chee-Seng                             SIN  2205                                
+  1292=           Choong, Liong-On                            SIN  2205   -10                          
+  1292=           Karlsson, Peter                             SWE  2205                                
+  1292=           Lagha, Khelil                               TUN  2205     0                          
+  1292=           Olgac, Kahraman                             TUR  2205                                
+  1292=           Bademian, Jose                              URU  2205                                
+  1292=           Ricetto, Alvaro                             URU  2205                                
+  1292=           Trevelyan, John                             WLS  2205                                
+  1292=           Jovanovic, Katarina                    wm   YUG  2205                          w     
+  1292=           Sandor, Atila                               YUG  2205    -5                          
+  1313            Raaste, Eero J.                             FIN  2200                                
+  1313=           Makai, Zsuzsa                          wm   ROM  2200   +40                    w     
+  1313=           Andreieva, Olga A.                     wm   URS  2200     0                    w     
+  1313=           Morozova, Tatiana V.                        URS  2200                          w     
+  1313=           Tsifanskaya, Ludmila A.                     URS  2200                          w     
+  1313=           Kalchbrenner, Vlasta                   wm   YUG  2200  +115                    w     
+  1319            Keller-Hermann, Edith                  wm   GDR  2190     0                    w     
+  1319=           Mulenko, Lydia N.                           URS  2190                          w     
+  1319=           Pedko, Olga S.                              URS  2190   -40                    w     
+  1319=           Krzisnik-Bukic, Vera                        YUG  2190                          w     
+  1319=           Lazarevic, Milunka                     wm   YUG  2190  -100                    w     
+  1324            Kakabadze, Eliso                            URS  2185     0                    w     
+  1325            Teodorescu, Margareta                  wm   ROM  2180   +20                    w     
+  1325=           Konarkowska-Sokolov, Henrijeta         wm   YUG  2180   +20                    w     
+  1327            Eretova, Kveta                         wm   CSR  2175   -10                    w     
+  1327=           Michel, Annett                              GDR  2175                          w     
+  1327=           Perevoznic, Margareta                  wm   ROM  2175   +35                    w     
+  1330            Georgieva, Antonina                    wm   BUL  2170   +30                    w     
+  1330=           Lyubarskaya, Ludmila A.                     URS  2170   +30                    w     
+  1330=           Sternina, Vera E.                           URS  2170                          w     
+  1333            Karakas, Eva                           wm   HUN  2165                          w     
+  1333=           Porubszky-Angyalosine, Maria A.        wm   HUN  2165    -5                    w     
+  1333=           Juncu, Margareta                            ROM  2165   +55                    w     
+  1333=           Shjerbina, S.                               URS  2165    +5                    w     
+  1337            Bojadjieva, Rumiana B.                      BUL  2160  +335                    w     
+  1337=           Kratochvilova, Jana                         CSR  2160                          w     
+  1337=           Podrazhanskaya, Olga                        ISR  2160                          w     
+  1337=           Vreeken, Corry                         wm   NED  2160   +10                    w     
+  1337=           Radzikowska, Krystyna                  wm   POL  2160     0                    w     
+  1337=           Belavenets, Liudmila                        URS  2160   +15                    w     
+  1343            Asenova, Venka                         wm   BUL  2155   +25                    w     
+  1343=           Laakmann, Anni                              GER  2155   -15                    w     
+  1343=           Erenska-Radzewska, Hanna               wm   POL  2155    +5                    w     
+  1346            Chalupova, Helena                           CSR  2150     0                    w     
+  1346=           Davidova                                    CSR  2150     0                    w     
+  1346=           Just, Gabriele                              GDR  2150     0                    w     
+  1346=           Krizsan, Gyulane                       wm   HUN  2150   -10                    w     
+  1346=           Kesegi, Edita                               YUG  2150                          w     
+  1346=           Markovic-Jovanovic, Gordana                 YUG  2150                          w     
+  1352            Fomina, Tatyana                             URS  2145   +45                    w     
+  1353            Hoelzlein, Christina                        GDR  2140    +5                    w     
+  1354            Titorenko, Natalia I.                       URS  2135     0                    w     
+  1355            Hojdarova, Eva                              CSR  2130     0                    w     
+  1355=           Belamaric, Tanja                       wm   YUG  2130   -10                    w     
+  1357            Kobaidze, Tsiuri                            URS  2125     0                    w     
+  1357=           Perkovic, Gordana                           YUG  2125   +20                    w     
+  1359            Garcia Padron, Mary Pino                    ESP  2120                          w     
+  1359=           Szota, Jolanta                              POL  2120     0                    w     
+  1359=           Milosavljevic, Rade                         YUG  2120                          w     
+  1362            Vujosevic, Smilja                           CAN  2115                          w     
+  1362=           Nowarra, Waltraud                      wm   GDR  2115     0                    w     
+  1362=           Litmanowicz, Miroslawa                 wm   POL  2115    +5                    w     
+  1362=           Albulet, Maria                         wm   ROM  2115    -5                    w     
+  1362=           Bashina                                     URS  2115                          w     
+  1362=           Zivkovic, Ljubica                      wm   YUG  2115   +20                    w     
+  1368            Karner, Irmgard                             GER  2110                          w     
+  1368=           Nagy, Ervinne                               HUN  2110                          w     
+  1368=           Reicher, Rodica                        wm   ROM  2110   -50                    w     
+  1371            Jovanovic, Ruzica                           YUG  2105   -15                    w     
+  1371=           Pihajlic, Amalija                           YUG  2105   -10                    w     
+  1373            Worch, Marion                               GDR  2100                          w     
+  1374            Jurczynska, Anna                            POL  2090   +10                    w     
+  1374=           Olteanu, Gabriela                           ROM  2090                          w     
+  1374=           Balashova, Elena                            URS  2090     0                    w     
+  1377            Borisova-Ornstein, Borislava           wm   BUL  2085   +40                    w     
+  1377=           Hofmann, B. (2)                             GDR  2085                          w     
+  1377=           Hulgana, Ganginchugin                       MGL  2085     0                    w     
+  1377=           Salkina, Aleksandra S.                      URS  2085                          w     
+  1381            Haahr, Merete                               DEN  2080     0                    w     
+  1381=           Braunlin, Margrit                           GER  2080                          w     
+  1381=           Honfi, Karolyne                        wm   HUN  2080   +20                    w     
+  1381=           Handsuren, Sandagdorj                  wm   MGL  2080     0                    w     
+  1381=           Alekhina, Natalia V.                   wm   URS  2080   +60                    w     
+  1386            Sunnucks, Patricia Anne                wm   ENG  2075                          w     
+  1386=           Ferrer-Lucas, Pepita                   wm   ESP  2075   +55                    w     
+  1388            Krumova, Velichka                           BUL  2070   +25                    w     
+  1388=           Dobson-Wright, Josie H.                     ENG  2070                          w     
+  1388=           Csapo, Anika                                HUN  2070    +5                    w     
+  1388=           Kas, Rita                                   HUN  2070                          w     
+  1388=           Van der Giessen, Ada Leona                  NED  2070   +50                    w     
+  1388=           Gogalea, Eleonora                           ROM  2070   -20                    w     
+  1388=           Kakhabrishvili, Tsitsino                    URS  2070     0                    w     
+  1388=           Serianc, Brtigita                           YUG  2070                          w     
+  1396            Pytel, Bozena                          wm   POL  2065   +55                    w     
+  1396=           Gresser, Gisela Kahn                   wm   USA  2065     0                    w     
+  1398            Trojanska, Evelina                     wm   BUL  2060   -75                    w     
+  1398=           Pritchard, Elaine                           ENG  2060                          w     
+  1398=           Finta, Erzsebet                             HUN  2060   +10                    w     
+  1398=           Karolyi, Lajosne                            HUN  2060     0                    w     
+  1398=           Karff, Mona May                        wm   USA  2060    -5                    w     
+  1398=           Milivojevic, Slobodanka                     YUG  2060   +10                    w     
+  1404            Feustel, Petra                              GDR  2055                          w     
+  1404=           Weichert, Hannelore                         GER  2055     0                    w     
+  1404=           Janssen, Ingrid                             NED  2055     0                    w     
+  1404=           Dima-Chis, Emilia                           ROM  2055   +10                    w     
+  1408            Draganova, Petranka                         BUL  2050                          w     
+  1408=           Caldwell, Susan L.                          ENG  2050                          w     
+  1408=           Chataway, Olive                             ENG  2050                          w     
+  1408=           Wasnetsky, Ursula                           GER  2050    +5                    w     
+  1408=           Sinka, Brigitta                             HUN  2050   -50                    w     
+  1408=           Nudelman, Lea                               ISR  2050                          w     
+  1408=           Timmer, Rie                                 NED  2050    +5                    w     
+  1408=           Gurfinkel, Josefa                      wm   URS  2050     0                    w     
+  1408=           Boskovic, Malina                            YUG  2050   -50                    w     
+  1408=           Timofejeva, Lidya                           YUG  2050                          w     
+  1418            Kasprzyk, Irena                             POL  2045   -75                    w     
+  1418=           Ridjicki, Nada                              YUG  2045                          w     
+  1420            Shikova, Vesmina V.                    wm   BUL  2040   -30                    w     
+  1420=           Todorova, Paunka                            BUL  2040     0                    w     
+  1420=           Cohn, Irina                                 GER  2040     0                    w     
+  1420=           Gal, Lidia                                  ISR  2040                          w     
+  1420=           Szota, Jolanta                              SWE  2040   -80                    w     
+  1420=           Matveeva, Svetlana                          URS  2040                          w     
+  1420=           Shadura, Liudov P.                          URS  2040     0                    w     
+  1420=           Svarcer, Herma                              YUG  2040     0                    w     
+  1420=           Vujanovic, Tatjana                          YUG  2040   -10                    w     
+  1429            Herstein, Ruth                              USA  2035                          w     
+  1430            Petrova-Nestorova, Lozanka                  BUL  2030     0                    w     
+  1430=           Jackson, Sheila                             ENG  2030                          w     
+  1430=           Szaday, Laszlone                            HUN  2030   +35                    w     
+  1433            Heemskerk, Fenny                       wm   NED  2025   -15                    w     
+  1434            Merlini, Milinka                            FRA  2020     0                    w     
+  1434=           De Graaf-Vogel, Ellis                       NED  2020   +50                    w     
+  1434=           Tuk                                         NED  2020                          w     
+  1434=           Karibian, Zari                              ROM  2020     0                    w     
+  1438            Cardoso, Ruth                          wm   BRA  2015   -35                    w     
+  1438=           Csonkics, Tunde                             HUN  2015                          w     
+  1438=           Van der Griendt-Bruinenberg, Carla          NED  2015   -35                    w     
+  1438=           Simu, Veturia                               ROM  2015     0                    w     
+  1442            Mc Grath, Marion                            AUS  2010                          w     
+  1442=           Svensson, Ingrid                            SWE  2010                          w     
+  1442=           Misic, Gordana                              YUG  2010     0                    w     
+  1442=           Rasajaski, Nada                             YUG  2010     0                    w     
+  1446            Boettcher, Ilse                             GDR  2005                          w     
+  1446=           Winter, Irene                               GDR  2005                          w     
+  1446=           Langos, Jozsa                          wm   HUN  2005     0                    w     
+  1446=           Rybarska, Janina                            POL  2005     0                    w     
+  1446=           Zsigmond, Vera                              ROM  2005     0                    w     
+  1451            Moyses, Ivone                               BRA  2000                          w     
+  1451=           Tashcian, Angela                            BUL  2000     0                    w     
+  1451=           Boskova, Merta                              CSR  2000     0                    w     
+  1451=           Kowalska-Klaput-Lipska, Elzbieta            POL  2000     0                    w     
+  1451=           Vujnovic, Anka                              YUG  2000   +15                    w     
+  1456            Napfer, Anna                                SUI  1995     0                    w     
+  1457            Hartlapp, Jutta                             GDR  1985                          w     
+  1457=           Baloianu                                    ROM  1985                          w     
+  1457=           Farkas, Rene                                ROM  1985   -35                    w     
+  1457=           Bykova, Elisaveta I.                   wm   URS  1985     0                    w     
+  1457=           Aronson, Eva                           wm   USA  1985                          w     
+  1462            Hausner, Alfreda                            AUT  1980    +5                    w     
+  1462=           Dimova, Desislava                           BUL  1980                          w     
+  1462=           Gautzsch, Christina                         GDR  1980                          w     
+  1462=           Csatlos, Palne                              HUN  1980                          w     
+  1462=           Grosch, Maria                               HUN  1980   -45                    w     
+  1462=           Hellwig, Anna                               POL  1980     0                    w     
+  1462=           Kelemen-Radojevic, Marija                   YUG  1980                          w     
+  1462=           Kosir, Pavla                                YUG  1980                          w     
+  1462=           Stekar, Beti                                YUG  1980                          w     
+  1471            Scholl, Maria                               POL  1975                          w     
+  1472            Brichikova, Aliana                          BUL  1970   -15                    w     
+  1472=           Mimailova, Neli                             BUL  1970   -30                    w     
+  1472=           Nestorova, Lozanka                          BUL  1970                          w     
+  1472=           Clarke-Wood, Margaret E. E.                 ENG  1970                          w     
+  1472=           Dombovari, Anges                            HUN  1970   +20                    w     
+  1477            Bogdan, Lia                                 ROM  1965   +35                    w     
+  1477=           Rubtsova, Olga                         wm   URS  1965     0                    w     
+  1479            Tokaji-Nagy, Gyorgyne                       HUN  1960    -5                    w     
+  1479=           Vericheva                                   URS  1960                          w     
+  1479=           Cejic, Dusica                               YUG  1960                          w     
+  1479=           Marianova, Maria                            YUG  1960                          w     
+  1483            Vuorenpaa, Sirkka                           FIN  1955                          w     
+  1484            Samt, Wilma                                 AUT  1950                          w     
+  1484=           Demers, Claire                              CAN  1950                          w     
+  1484=           Karmachu                                    ROM  1950                          w     
+  1484=           Mureskau                                    ROM  1950                          w     
+  1488            Sobierajewicz, Kamila                       POL  1945   -70                    w     
+  1489            Snitkowsky, Norma                           BRA  1940                          w     
+  1489=           Halupova                                    CSR  1940                          w     
+  1489=           Carmaciu, Luminita                          ROM  1940                          w     
+  1489=           Agic, Andja                                 YUG  1940     0                    w     
+  1489=           Srebic, Mara                                YUG  1940   -20                    w     
+  1494            Madden-Pope, Lynda                          AUS  1935                          w     
+  1494=           Belle, Erika                                NED  1935  +110                    w     
+  1494=           Mulder, Jeanette                            NED  1935   -15                    w     
+  1497            Kellner, Narelle                            AUS  1930                          w     
+  1497=           Cynolter, Erzsebet                          HUN  1930                          w     
+  1497=           Matijasevic                                 NOR  1930                          w     
+  1500            Kantor, J.                                  ROM  1925                          w     
+  1500=           Stadler, Brigita                            YUG  1925                          w     
+  1502            De Caro, Ilse D.                            COL  1920                          w     
+  1502=           Kubis, Ferencne                             HUN  1920                          w     
+  1502=           Gesticone, Adela                            ROM  1920     0                    w     
+  1505            Radacina, Elena                             ROM  1905     0                    w     
+  1505=           Tolgyi, Viorica                             ROM  1905                          w     
+  1507            Kaleva, Elena                               BUL  1900     0                    w     
+  1507=           Gheorghe, Maria                             ROM  1900                          w     
+  1507=           Apostolska, Ljiljana                        YUG  1900                          w     
+  1510            Kattinger, Ingeborg                         AUT  1895    -5                    w     
+  1510=           Jaszay, Gabriella                           HUN  1895   +25                    w     
+  1512            Molnar                                      HUN  1890                          w     
+  1513            Haraldsson-Illugadottir, Solveig            SWE  1885   -20                    w     
+  1514            Haak                                        NED  1870     0                    w     
+  1515            Rogers, Jean P. M.                          ENG  1865                          w     
+  1516            Dimitrova, Leila                            BUL  1860                          w     
+  1517            O'Siochru, Dorren                           IRL  1850   +40                    w     
+  1517=           Watai, Miyoko                               JPN  1850                          w     
+  1519            Donnelly, Ruth A.                           USA  1845                          w     
+  1520            Kalainova                                   BUL  1840     0                    w     
+  1520=           Kroggel, Rita                               GDR  1840                          w     
+  1522            Ilie, Viorica                               ROM  1835                          w     
+  1523            Rabinovich                                  ISR  1830                          w     
+  1523=           Castellon, S.                               PUR  1830                          w     
+  1523=           Miroslav, Ioana                             ROM  1830     0                    w     
+  1523=           Wettstein, Carla                            SUI  1830     0                    w     
+  1527            Nedelcheva, A.                              BUL  1820                          w     
+  1527=           Cellario                                    MNC  1820                          w     
+  1527=           Luessy, Elsa                                SUI  1820                          w     
+  1530            Noonan, Ailean                              IRL  1810                          w     
+  1530=           Camps De Ocampo, Aida                       MEX  1810                          w     
+  1532            Chapunkova, Violeta                         BUL  1805     0                    w     
+  1532=           Tuomainen, Johanna                          FIN  1805                          w     
+  1534            Galtsmith-Clarke, R. E.                     ENG  1800                          w     
+
+
+
+
+
+

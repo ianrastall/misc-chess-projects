@@ -1,0 +1,80 @@
+   pos Player_ID  Name                                  Title Fed  Rtng   +/-  gms   Birthday   Sex  Flag 
+     1            Fischer, Robert James                       USA  2710                                
+     2            Botvinnik, Mikhail                          URS  2690                                
+     3            Korchnoi, Viktor                            URS  2660                                
+     3=           Spassky, Boris V.                           URS  2660                                
+     5            Larsen, Bent                                DEN  2650                                
+     5=           Petrosian, Tigran                           URS  2650                                
+     5=           Tal, Mikhail N.                             URS  2650                                
+     8            Geller, Efim P.                             URS  2630                                
+     8=           Smyslov, Vassily                            URS  2630                                
+    10            Unzicker, Wolfgang                          GER  2610                                
+    10=           Portisch, Lajos                             HUN  2610                                
+    10=           Polugaevsky, Lev                            URS  2610                                
+    10=           Stein, Leonid                               URS  2610                                
+    14            Keres, Paul                                 URS  2600                                
+    14=           Kholmov, Ratmir D.                          URS  2600                                
+    14=           Lutikov, Anatoly S.                         URS  2600                                
+    17            Najdorf, Miguel                             ARG  2590                                
+    17=           Olafsson, Fridrik                           ISL  2590                                
+    17=           Boleslavsky, Isaak                          URS  2590                                
+    17=           Gligoric, Svetozar                          YUG  2590                                
+    21            Gipslis, Aivars                             URS  2580                                
+    21=           Krogius, Nikolai V.                         URS  2580                                
+    21=           Taimanov, Mark E.                           URS  2580                                
+    21=           Benko, Pal C.                               USA  2580                                
+    21=           Reshevsky, Samuel H.                        USA  2580                                
+    26            Hort, Vlastimil                             CSR  2570                                
+    26=           Darga, Klaus                                GER  2570                                
+    26=           Furman, Semyen A.                           URS  2570                                
+    26=           Lein, Anatoly                               URS  2570                                
+    30            Antoshin, Vladimir S.                       URS  2560                                
+    30=           Gufeld, Eduard                              URS  2560                                
+    30=           Zaitsev, Alexander                          URS  2560                                
+    30=           Evans, Larry M.                             USA  2560                                
+    30=           Ivkov, Borislav                             YUG  2560                                
+    30=           Matulovic, Milan                            YUG  2560                                
+    36            Mecking, Henrique                           BRA  2550                                
+    36=           Osnos, Viatcheslav                          URS  2550                                
+    36=           Savon, Vladimir A.                          URS  2550                                
+    36=           Vasiukov, Evgeni                            URS  2550                                
+    36=           Matanovic, Aleksandar                       YUG  2550                                
+    41            Panno, Oscar                                ARG  2540                                
+    41=           Bobotsov, Milko G.                          BUL  2540                                
+    41=           Averbakh, Yuri L.                           URS  2540                                
+    41=           Shamkovich, Leonid                          URS  2540                                
+    41=           Parma, Bruno                                YUG  2540                                
+    46            Uhlmann, Wolfgang                           GDR  2530                                
+    46=           Bilek, Istvan                               HUN  2530                                
+    46=           Donner, Jan-Hein                            NED  2530                                
+    46=           Gheorghiu, Florin                           ROM  2530                                
+    46=           Suetin, Alexey S.                           URS  2530                                
+    46=           Ciric, Dragoljub M.                         YUG  2530                                
+    52            Kavalek, Lubomir                            CSR  2520                                
+    52=           Pomar Salamanca, Arturo                     ESP  2520                                
+    52=           Szabo, Laszlo                               HUN  2520                                
+    52=           Byrne, Robert E.                            USA  2520                                
+    56            Pilnik, Herman                              ARG  2510                                
+    56=           Filip, Miroslav                             CSR  2510                                
+    56=           Schmid, Lothar                              GER  2510                                
+    56=           Kotov, Alexander                            URS  2510                                
+    56=           Liberzon, Vladimir M.                       URS  2510                                
+    56=           Simagin, Vladimir                           URS  2510                                
+    62            Eliskases, Erich                            ARG  2500                                
+    62=           Barcza, Gedeon                              HUN  2500                                
+    62=           Trifunovic, Petar                           YUG  2500                                
+    65            Janosevic, Dragoljub                        YUG  2490                                
+    66            Padevsky, Nikola                            BUL  2480                                
+    66=           Tringov, Georgi P.                          BUL  2480                                
+    66=           Barczay, Laszlo                             HUN  2480                                
+    69            Yanofsky, Daniel A.                         CAN  2470                                
+    69=           Lengyel, Levente                            HUN  2470                                
+    71            O'Kelly de Galway, Alberic                  BEL  2430                                
+    72            Pietzsch, Wolfgang                          GDR  2420                                
+    72=           Damjanovic, Mato                            YUG  2420                                
+
+
+
+
+
+

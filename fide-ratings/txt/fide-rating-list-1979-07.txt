@@ -1,0 +1,186 @@
+   pos Player_ID  Name                                  Title Fed  Rtng   +/-  gms   Birthday   Sex  Flag 
+     x            Kasparov, Garry                             URS  2545                                
+     x            Kharitonov, Andrei V.                       URS  2460     0                          
+     x            Renman, Nils-Gustaf                         SWE  2425   +25                          
+     x            Toshkov, Tihomir                            BUL  2375                                
+     x            Van der Wiel, John T. H.                    NED  2375                                
+     x            Salonen, Jyrki                              FIN  2365                                
+     x            Modr, Bretislav                             CSR  2350                                
+     x            Peshina, Gintautas                          URS  2350   +10                          
+     x            Pablo Marin, Alejandro                      ESP  2345  -105                          
+     x            Afek, Yochanan                              ISR  2340  +110                          
+     x            Sprecic, Mustafa                            YUG  2340                                
+     x            Vokac, Marek                                CSR  2330                                
+     x            Arkhipkin, Yury                             URS  2330                                
+     x            Nikolic, Predrag                            YUG  2330                                
+     x            Hradeczky, Tamas                            HUN  2325   +25                          
+     x            Comai, Ofer                                 ISR  2325                                
+     x            Ambroz, Jan                                 CSR  2320                                
+     x            Szabo, Zoltan                               HUN  2315                                
+     x            Lieb, Harald                                GER  2310   -20                          
+     x            Nikolic, Zivoslav                           YUG  2310                                
+     x            Tichy, Vladimir                             CSR  2305                                
+     x            Pountzas, Hrisanthos                        GRE  2305                                
+     x            Filipovic, Branko                           YUG  2305                                
+     x            Sines, Josip                                YUG  2305                                
+     x            Sobek, Jaroslav                             CSR  2300                                
+     x            Clark, Gary M.                              ENG  2300                                
+     x            Garriga Nualart, Josep                      ESP  2300  -100                          
+     x            Angelov, Rumen                              BUL  2295                                
+     x            Treybal, Dusan                              CSR  2295                                
+     x            Barwinski, Dionizy                          POL  2290                                
+     x            Bugajski, Robert                            POL  2290                                
+     x            Konikowski, Jerzy                           POL  2290                                
+     x            Pavlovich, S.                               USA  2290                                
+     x            Danailov, Silvio                            BUL  2285                                
+     x            Popov, Vladimir                             BUL  2285                                
+     x            Rikkonen, Juhani                            FIN  2285                                
+     x            Agur, Elieser                               ISR  2285     0                          
+     x            Rajic, Dobrivoje                            YUG  2285                                
+     x            Arrata, P.                                  MEX  2280                                
+     x            Maya, Hermes                                MEX  2280                                
+     x            Adam, W. J.                                 USA  2280                                
+     x            Zabystrzan, Pavel                           CSR  2275                                
+     x            Steczkowski, Kazimierz                      FRA  2275                                
+     x            Przybylski, Piotr                           POL  2275                                
+     x            Fernandes, Antonio M.                       POR  2275                                
+     x            Hartman, Christer                           SWE  2275                                
+     x            Bradford, Joseph M.                         USA  2275                                
+     x            Fudez, Daniel                               VEN  2275                                
+     x            Miranda, Marcio M. C.                       BRA  2270                                
+     x            Berg, Klaus                                 DEN  2270                                
+     x            Berg, Svein                                 NOR  2270                                
+     x            Flis, Jacek                                 POL  2270                                
+     x            Bjork, Carl-Magnus                          SWE  2270                                
+     x            Oney, Feridun                               TUR  2270                                
+     x            Williams, Alan P.                           USA  2270                                
+     x            Petryk, Henryk                              POL  2265                                
+     x            Abarca Aguirre, Manuel                      CHI  2260                                
+     x            Nonnenmacher, Eberhard                      GER  2260  -100                          
+     x            Pereira, Renato                             POR  2260   -10                          
+     x            Root, Douglas                               USA  2260                                
+     x            Davcevski, Dusan                            YUG  2260                                
+     x            Stone, Raymond                              CAN  2255                                
+     x            Pederzoli, Sergio                           ITA  2255     0                          
+     x            Stempin, Pawel                              POL  2255                                
+     x            Steiner, Darko                              YUG  2255                                
+     x            Paolozzi, Marcos                            BRA  2250                                
+     x            Taylor, Gordon                              CAN  2250                                
+     x            Rovira Mas, Jorge                           CRC  2250   -40                          
+     x            Barry, Colm                                 IRL  2250                                
+     x            Ballon, Guenther Jan                        NED  2250                                
+     x            Doyle, Anthony                              IRL  2245                                
+     x            Szalajdewicz, Janusz                        POL  2245                                
+     x            Lakic, Milan N.                             YUG  2245                                
+     x            Petrovic, Slavko                            YUG  2245     0                          
+     x            Kiviaho, Allan                              FIN  2240                                
+     x            Dimitriadis, Konstantinos                   GRE  2240                                
+     x            Twardon, Marian                             POL  2240                                
+     x            Santos, Jose P.                             POR  2240                                
+     x            Yilmaz, Turham                              TUR  2240                                
+     x            Marinovic, Bozidar                          YUG  2240                                
+     x            Milovanovic, Ninoslav                       YUG  2240                                
+     x            Kostadinov, Atanas                          BUL  2235                                
+     x            Buchholz, Martin                            CAN  2235                                
+     x            Brito, F.                                   ECU  2235                                
+     x            Anguera Maestro, Jaime                      ESP  2230                                
+     x            Leskela, Paavo                              FIN  2230                                
+     x            Bassler, Markus                             GER  2230                                
+     x            Kovacevic, Veljko                           YUG  2230                                
+     x            Mitov, Borislav                             BUL  2225                                
+     x            Larsen, Ernst                               DEN  2225                                
+     x            Sinuraya                                    INA  2225     0                          
+     x            Ferreira, Antonio                           POR  2225                                
+     x            Lopes, Martinho                             POR  2225                                
+     x            Koskinen, Heikki                            FIN  2220  -110                          
+     x            Pirisi, Gabor                               HUN  2220                                
+     x            Haskins, Marco                              PAN  2220                                
+     x            Morrison, Graham                            SCO  2220                                
+     x            Vrabec, Milos                               CSR  2215                                
+     x            Mooney, David P.                            ENG  2215    -5                          
+     x            Lang, Jens                                  GDR  2215                                
+     x            Eiken, Hakan                                NOR  2215                                
+     x            Galic, Vukasin                              YUG  2215                                
+     x            Orel, Oskar                                 YUG  2215                                
+     x            Polajzer, Danilo                            YUG  2215                                
+     x            Baragar, Fletcher                           CAN  2210                                
+     x            Drvota, Antonin                             CSR  2210                                
+     x            Amendola, Konstantinos                      GRE  2210                                
+     x            Monroy, Enrique                             MEX  2210                                
+     x            Grahn, Lars                                 SWE  2210                                
+     x            Fardell, D.                                 AUS  2205     0                          
+     x            Toloza Caldera, Gaston I.                   CHI  2205                                
+     x            Fuglsang, Flemming                          DEN  2205                                
+     x            Maki, Veijo                                 FIN  2205                                
+     x            Partanen, Juha                              FIN  2205                                
+     x            Liersch, Andreas                            GER  2205   -45                          
+     x            Curtin, Eugene                              IRL  2205                                
+     x            Delaney, John                               IRL  2205                                
+     x            Guevara, Mario                              MEX  2205                                
+     x            Praszak, Michal                             POL  2205                                
+     x            Rivera, Daniel                              URU  2205                                
+     x            Brajovic, Radovan                           YUG  2205                                
+     x            Voronova, Tatiana                           URS  2190                          w     
+     x            Eruslanova, Irina                           URS  2175                          w     
+     x            Sternina, Vera E.                           URS  2150   -20                    w     
+     x            Polnarieva, Larisa                          URS  2115                          w     
+     x            Stupina, Elena                              URS  2090                          w     
+     x            Grinberg, Luba                              ISR  2075     0                    w     
+     x            De Oliveira, Maria Cristina                 BRA  2040     0                    w     
+     x            Gasser, Katherine                           USA  2040                          w     
+     x            Walther, Diana                              GDR  2025                          w     
+     x            Voiska, Margarita                           BUL  2020                          w     
+     x            Broeder, Iris                               GDR  2010                          w     
+     x            Lipska, Elzbieta                            POL  2005                          w     
+     x            Hobusch, Cornelia                           GDR  2000                          w     
+     x            Zsolnay, Katalin                            HUN  1995                          w     
+     x            Pranner, Marion                             GDR  1990     0                    w     
+     x            Jonjic, J.                                  YUG  1985                          w     
+     x            Pavlova, Marina                             BUL  1970                          w     
+     x            Lisenko, Lubov                              URS  1970                          w     
+     x            Legendre, Josiane                           FRA  1960                          w     
+     x            Starck, Ines                                GDR  1960                          w     
+     x            Mekis, Eva                                  HUN  1950     0                    w     
+     x            La Rosa, G.                                 VEN  1935                          w     
+     x            Jahn, Constanze                             GDR  1930                          w     
+     x            Eimert, Gaby                                GER  1930     0                    w     
+     x            Haagsma, Jeannette                          NED  1925     0                    w     
+     x            Hoffmann, Helga                             GER  1920   -85                    w     
+     x            Genes, E.                                   HUN  1915                          w     
+     x            Jahn, Gudula                                GDR  1910                          w     
+     x            Merciai, Anna                               ITA  1905     0                    w     
+     x            Sterngold, Susan                            USA  1905                          w     
+     x            Kube, Hannelore                             GDR  1900                          w     
+     x            Misic, Gordana                              YUG  1900  -110                    w     
+     x            Patino, Adilia                              COL  1895                          w     
+     x            Grabczynska, H.                             POL  1895                          w     
+     x            Craven, Valerie                             ENG  1890     0                    w     
+     x            Kereszturi, Sara                            HUN  1890     0                    w     
+     x            Stada, Marian                               NED  1890     0                    w     
+     x            Zahorovska, Libuse                          CSR  1885                          w     
+     x            Datkova, A.                                 BUL  1880                          w     
+     x            Grujic, Milana                              YUG  1880     0                    w     
+     x            Ford, Pamela C.                             USA  1870                          w     
+     x            Thomson, M.                                 AUS  1860                          w     
+     x            Evtimova, A.                                BUL  1855     0                    w     
+     x            Deghenghi, A. M.                            ITA  1855                          w     
+     x            Yilmaz, Gulsevil                            TUR  1855                          w     
+     x            Fedina                                      CSR  1845                          w     
+     x            Egerland, Edit                              HUN  1845                          w     
+     x            Pluymert, C.                                NED  1845                          w     
+     x            Conlon, M.                                  USA  1845                          w     
+     x            Veljic, Vesna                               YUG  1845                          w     
+     x            Kalainova                                   BUL  1840     0                    w     
+     x            Zakaria, Ada                                ISR  1835     0                    w     
+     x            Kranitz, J.                                 HUN  1830   -10                    w     
+     x            Ivanic-Matic, G.                            YUG  1830  -110                    w     
+     x            Varga, K.                                   HUN  1825                          w     
+     x            Arbil, Joan E.                              TUR  1820                          w     
+     x            Warkentin, Sabine                           FRA  1810                          w     
+     x            Riecks, A.                                  GDR  1805                          w     
+
+
+
+
+
+

@@ -1,0 +1,436 @@
+   pos Player_ID  Name                                  Title Fed  Rtng   +/-  gms   Birthday   Sex  Flag 
+     1            Fischer, Robert James                   g   USA  2720                                
+     2            Korchnoi, Viktor                        g   URS  2670                                
+     2=           Spassky, Boris V.                       g   URS  2670                                
+     4            Geller, Efim P.                         g   URS  2660                                
+     5            Larsen, Bent                            g   DEN  2650                                
+     5=           Petrosian, Tigran                       g   URS  2650                                
+     7            Botvinnik, Mikhail                      g   URS  2640                                
+     7=           Polugaevsky, Lev                        g   URS  2640                                
+     9            Portisch, Lajos                         g   HUN  2630                                
+    10            Smyslov, Vassily                        g   URS  2620                                
+    10=           Stein, Leonid                           g   URS  2620                                
+    12            Hort, Vlastimil                         g   CSR  2610                                
+    13            Keres, Paul                             g   URS  2600                                
+    13=           Taimanov, Mark E.                       g   URS  2600                                
+    15            Krogius, Nikolai V.                     g   URS  2590                                
+    15=           Tal, Mikhail N.                         g   URS  2590                                
+    15=           Reshevsky, Samuel H.                    g   USA  2590                                
+    18            Gipslis, Aivars                         g   URS  2580                                
+    18=           Gligoric, Svetozar                      g   YUG  2580                                
+    20            Najdorf, Miguel                         g   ARG  2570                                
+    20=           Uhlmann, Wolfgang                       g   GDR  2570                                
+    20=           Bronstein, David I.                     g   URS  2570                                
+    20=           Furman, Semyen A.                       g   URS  2570                                
+    20=           Ivkov, Borislav                         g   YUG  2570                                
+    25            Olafsson, Fridrik                       g   ISL  2560                                
+    25=           Kholmov, Ratmir D.                      g   URS  2560                                
+    25=           Savon, Vladimir A.                      m   URS  2560                                
+    25=           Evans, Larry M.                         g   USA  2560                                
+    25=           Matulovic, Milan                        g   YUG  2560                                
+    30            Darga, Klaus                            g   GER  2550                                
+    30=           Unzicker, Wolfgang                      g   GER  2550                                
+    30=           Antoshin, Vladimir S.                   g   URS  2550                                
+    30=           Averbakh, Yuri L.                       g   URS  2550                                
+    30=           Vasiukov, Evgeni                        g   URS  2550                                
+    30=           Zaitsev, Alexander                      g   URS  2550                                
+    36            Mecking, Henrique                       m   BRA  2540                                
+    36=           Schmid, Lothar                          g   GER  2540                                
+    36=           Balashov, Yuri S.                           URS  2540                                
+    36=           Liberzon, Vladimir M.                   g   URS  2540                                
+    36=           Osnos, Viatcheslav                      m   URS  2540                                
+    36=           Shamkovich, Leonid                      g   URS  2540                                
+    36=           Benko, Pal C.                           g   USA  2540                                
+    43            Panno, Oscar                            g   ARG  2530                                
+    43=           Averkin, Orest N.                           URS  2530                                
+    43=           Gurgenidze, Bukhuti                     m   URS  2530                                
+    43=           Kuzmin, Gennadi P.                          URS  2530                                
+    43=           Lutikov, Anatoly S.                     m   URS  2530                                
+    43=           Parma, Bruno                            g   YUG  2530                                
+    49            Sanguinetti, Raul                       m   ARG  2520                                
+    49=           Filip, Miroslav                         g   CSR  2520                                
+    49=           Gheorghiu, Florin                       g   ROM  2520                                
+    49=           Gufeld, Eduard                          g   URS  2520                                
+    49=           Khasin, Abram                           m   URS  2520                                
+    49=           Nikolaevsky, Yuri V.                        URS  2520                                
+    49=           Lombardy, William J.                    g   USA  2520                                
+    49=           Ciric, Dragoljub M.                     g   YUG  2520                                
+    49=           Matanovic, Aleksandar                   g   YUG  2520                                
+    58            Bolbochan, Julio                        m   ARG  2510                                
+    58=           Kavalek, Lubomir                        g   CSR  2510                                
+    58=           Pachman, Ludek                          g   CSR  2510                                
+    58=           Huebner, Robert                         m   GER  2510                                
+    58=           Kotov, Alexander                        g   URS  2510                                
+    58=           Lein, Anatoly                           g   URS  2510                                
+    58=           Nei, Iivo                               m   URS  2510                                
+    58=           Platonov, Igor V.                           URS  2510                                
+    58=           Sakharov, Yuri N.                           URS  2510                                
+    58=           Sergeevsky                              m   URS  2510                                
+    58=           Zhukhovitsky, Samuel                    m   URS  2510                                
+    58=           Byrne, Robert E.                        g   USA  2510                                
+    70            Tringov, Georgi P.                      g   BUL  2500                                
+    70=           Hamann, Svend                           m   DEN  2500                                
+    70=           Pomar Salamanca, Arturo                 g   ESP  2500                                
+    70=           Pfleger, Helmut                         m   GER  2500                                
+    70=           Klovan, Janis                               URS  2500                                
+    70=           Vladimirov, Boris T.                    m   URS  2500                                
+    70=           Zaitsev, Igor A.                            URS  2500                                
+    70=           Karaklajic, Nikola                      m   YUG  2500                                
+    78            Radulov, Ivan                           m   BUL  2490                                
+    78=           Penrose, Jonathan                       m   ENG  2490                                
+    78=           Dely, Peter                             m   HUN  2490                                
+    78=           Lengyel, Levente                        g   HUN  2490                                
+    78=           Ciocaltea, Victor                       m   ROM  2490                                
+    78=           Bagirov, Vladimir                       m   URS  2490                                
+    78=           Kapengut, Albert Z.                         URS  2490                                
+    78=           Kupreichik, Viktor D.                       URS  2490                                
+    78=           Razuvaev, Yuri S.                           URS  2490                                
+    78=           Tukmakov, Vladimir B.                       URS  2490                                
+    78=           Yudovich, Mikhail M.                    m   URS  2490                                
+    78=           Zheliandinov, Viktor                        URS  2490                                
+    78=           Addison, Wiliam G.                      m   USA  2490                                
+    91            Browne, Walter S.                       m   AUS  2480                                
+    91=           Bobotsov, Milko G.                      g   BUL  2480                                
+    91=           Spiridonov, Nikola                          BUL  2480                                
+    91=           Teschner, Rudolf                        m   GER  2480                                
+    91=           Bilek, Istvan                           g   HUN  2480                                
+    91=           Forintos, Gyozo V.                      m   HUN  2480                                
+    91=           Ribli, Zoltan                               HUN  2480                                
+    91=           Mariotti, Sergio                            ITA  2480                                
+    91=           Donner, Jan-Hein                        g   NED  2480                                
+    91=           Andersson, Ulf                          m   SWE  2480                                
+    91=           Flohr, Salomon                          g   URS  2480                                
+    91=           Tseshkovsky, Vitaly                         URS  2480                                
+    91=           Zuckerman, Bernard                          USA  2480                                
+    91=           Bukic, Enver                            m   YUG  2480                                
+    91=           Cvetkovic, Srdjan                           YUG  2480                                
+    91=           Kurajica, Bojan                         m   YUG  2480                                
+    91=           Marangunic, Srdjan                          YUG  2480                                
+    91=           Trifunovic, Petar                       g   YUG  2480                                
+    91=           Velimirovic, Dragoljub                      YUG  2480                                
+   110            Smejkal, Jan                            m   CSR  2470                                
+   110=           Keene, Raymond D.                           ENG  2470                                
+   110=           Barcza, Gedeon                          g   HUN  2470                                
+   110=           Barczay, Laszlo                         g   HUN  2470                                
+   110=           Szabo, Laszlo                           g   HUN  2470                                
+   110=           Sigurjonsson, Gudmundur                 m   ISL  2470                                
+   110=           Anikaev, Yuri N.                            URS  2470                                
+   110=           Chernikov, Oleg L.                          URS  2470                                
+   110=           Dzindzikhashvili, Roman                     URS  2470                                
+   110=           Ignatiev, Felix N.                          URS  2470                                
+   110=           Byrne, Donald                           m   USA  2470                                
+   110=           Damjanovic, Mato                        g   YUG  2470                                
+   110=           Minic, Dragoljub                        m   YUG  2470                                
+   110=           Udovcic, Mijo                           g   YUG  2470                                
+   124            Rossetto, Hector                        g   ARG  2460                                
+   124=           Robatsch, Karl                          g   AUT  2460                                
+   124=           Padevsky, Nikola                        g   BUL  2460                                
+   124=           Suttles, Duncan                         m   CAN  2460                                
+   124=           Yanofsky, Daniel A.                     g   CAN  2460                                
+   124=           Jansa, Vlastimil                        m   CSR  2460                                
+   124=           Diez Del Corral, Jesus                  m   ESP  2460                                
+   124=           Rossolimo, Nicolas                      g   FRA  2460                                
+   124=           Todorcevic, Miodrag                         FRA  2460                                
+   124=           Besser, Hans                                GDR  2460                                
+   124=           Hecht, Hans-Joachim                     m   GER  2460                                
+   124=           Csom, Istvan                            m   HUN  2460                                
+   124=           Honfi, Karoly                           m   HUN  2460                                
+   124=           Tatai, Stefano                          m   ITA  2460                                
+   124=           Johansson, Martin                           SWE  2460                                
+   124=           Etruk, Rein T.                              URS  2460                                
+   124=           Gulko, Boris F.                             URS  2460                                
+   124=           Lilienthal, Andor                       g   URS  2460                                
+   124=           Podgaets, Mikhail                           URS  2460                                
+   124=           Bisguier, Arthur B.                     g   USA  2460                                
+   124=           Buljovcic, Ivan                             YUG  2460                                
+   145            Baumbach, Friedrich                         GDR  2450                                
+   145=           Espig, Lutz                                 GDR  2450                                
+   145=           Malich, Burkhard                        m   GER  2450                                
+   145=           Ghitescu, Theodor                       m   ROM  2450                                
+   145=           Soos, Bela                              m   ROM  2450                                
+   145=           Giorgadze, Tamaz                            URS  2450                                
+   145=           Nezhmetdinov, Rashid                    m   URS  2450                                
+   145=           Janosevic, Dragoljub                    g   YUG  2450                                
+   145=           Planinc, Albin                          m   YUG  2450                                
+   145=           Sokolov, Vladimir                           YUG  2450                                
+   155            Garcia, Raimundo                        m   ARG  2440                                
+   155=           Amos, Bruce M.                              CAN  2440                                
+   155=           Yepez, Olavo                            m   ECU  2440                                
+   155=           Fuchs, Reinhard                         m   GDR  2440                                
+   155=           Haag, Ervin                             m   HUN  2440                                
+   155=           Szilagyi, Peter                             HUN  2440                                
+   155=           Tompa, Janos                                HUN  2440                                
+   155=           Zwaig, Arne                                 NOR  2440                                
+   155=           Doda, Zbigniew                          m   POL  2440                                
+   155=           Kaplan, Julio P.                        m   PUR  2440                                
+   155=           Drimer, Dolfi                           m   ROM  2440                                
+   155=           Bykhovsky, Anatoly A.                       URS  2440                                
+   155=           Doroshkievich, Vladimir K.                  URS  2440                                
+   155=           Moiseev, Oleg L.                            URS  2440                                
+   155=           Maric, Rudolf                           m   YUG  2440                                
+   155=           Rakic, Tomislav                             YUG  2440                                
+   155=           Smederevac, Petar                       m   YUG  2440                                
+   172            Eliskases, Erich                        g   ARG  2430                                
+   172=           Rubinetti, Jorge                        m   ARG  2430                                
+   172=           O'Kelly de Galway, Alberic              g   BEL  2430                                
+   172=           Kolarov, Atanas S.                      m   BUL  2430                                
+   172=           Minev, Nikolay N.                       m   BUL  2430                                
+   172=           Hindle, Owen M.                             ENG  2430                                
+   172=           Liebert, Heinz                          m   GDR  2430                                
+   172=           Lehmann, Heinz                          m   GER  2430                                
+   172=           Adorjan, Andras                             HUN  2430                                
+   172=           Flesch, Janos                           m   HUN  2430                                
+   172=           Kraidman, Yair                          m   ISR  2430                                
+   172=           Ree, Hans                               m   NED  2430                                
+   172=           Filipowicz, Andrzej                         POL  2430                                
+   172=           Ageichenko, Genadi A.                       URS  2430                                
+   172=           Faibisovich, Vadim Z.                       URS  2430                                
+   172=           Bertok, Mario                           m   YUG  2430                                
+   172=           Marovic, Drazen                         m   YUG  2430                                
+   172=           Masic, Ljubomir                             YUG  2430                                
+   172=           Nicevski, Risto                             YUG  2430                                
+   172=           Ostojic, Predrag                        m   YUG  2430                                
+   172=           Vukic, Milan                            m   YUG  2430                                
+   193            Guimard, Carlos E.                      g   ARG  2420                                
+   193=           Schweber, Samuel                        m   ARG  2420                                
+   193=           Popov, Luben                            m   BUL  2420                                
+   193=           Jimenez, Eleazar                        m   CUB  2420                                
+   193=           Pietzsch, Wolfgang                      g   GDR  2420                                
+   193=           Dueball, Juergen                            GER  2420                                
+   193=           Gerusel, Mathias                        m   GER  2420                                
+   193=           Mohrlok, Dieter                         m   GER  2420                                
+   193=           Thorsteinsson, Thorsteinn                   ISL  2420                                
+   193=           Bouwmeester, Hans                       m   NED  2420                                
+   193=           Langeweg, Kick                          m   NED  2420                                
+   193=           Kostro, Jerzy                           m   POL  2420                                
+   193=           Mititelu, Gheorghe                          ROM  2420                                
+   193=           Partos, Carol                               ROM  2420                                
+   193=           Grigorian, Karen A.                         URS  2420                                
+   193=           Saidy, Anthony F.                       m   USA  2420                                
+   193=           Bogdanovic, Rajko                       m   YUG  2420                                
+   193=           Knezevic, Milorad                           YUG  2420                                
+   211            Palermo, Vicente                            ARG  2410                                
+   211=           Holaszek, Hans                              AUT  2410                                
+   211=           Prameshuber, Aleksander                     AUT  2410                                
+   211=           Mista, Ladislav                             CSR  2410                                
+   211=           Pribyl, Josef                               CSR  2410                                
+   211=           Cobo Arteaga, Eldis                     m   CUB  2410                                
+   211=           Basman, Michael J.                          ENG  2410                                
+   211=           Medina Garcia, Antonio                  m   ESP  2410                                
+   211=           Golz, Werner                                GDR  2410                                
+   211=           Hennings, Artur                         m   GDR  2410                                
+   211=           Zinn, Lothar                            m   GDR  2410                                
+   211=           Bokor, Istvan                               HUN  2410                                
+   211=           Kovacs, Laszlo M.                       m   HUN  2410                                
+   211=           Kuijpers, Frans A.                      m   NED  2410                                
+   211=           Rodriguez, Orestes                          PER  2410                                
+   211=           Bednarski, Jacek B.                     m   POL  2410                                
+   211=           Schmidt, Wlodzimierz                        POL  2410                                
+   211=           Cherepkov, Alexander V.                     URS  2410                                
+   211=           Gaprindashvili, Nona                   wm   URS  2410                          w     
+   211=           Musil, Vojko                            m   YUG  2410                                
+   211=           Rajkovic, Dusan                             YUG  2410                                
+   232            Emma, Jaime                                 ARG  2400                                
+   232=           Van Seters, Frits                           BEL  2400                                
+   232=           Janata, Michael                             CSR  2400                                
+   232=           Toran Albero, Roman                     m   ESP  2400                                
+   232=           Westerinen, Heikki M. J.                m   FIN  2400                                
+   232=           Kestler, Hans-Guenther                      GDR  2400                                
+   232=           Farago, Ivan                                HUN  2400                                
+   232=           Liptay, Laszlo                              HUN  2400                                
+   232=           Szily, Jozsef                           m   HUN  2400                                
+   232=           Johannsson, Ingi R.                     m   ISL  2400                                
+   232=           Ujtumen, Tudev                          m   MGL  2400                                
+   232=           Timman, Jan H.                              NED  2400                                
+   232=           Van Geet, Dirk Daniel                   m   NED  2400                                
+   232=           Adamski, Jan                            m   POL  2400                                
+   232=           Radovici, Corvin                        m   ROM  2400                                
+   232=           Keller, Dieter                          m   SUI  2400                                
+   232=           Jansson, Borje                              SWE  2400                                
+   232=           Konstantinopolsky, Alexander            m   URS  2400                                
+   232=           Nikitin, Aleksander S.                      URS  2400                                
+   232=           Sherwin, James T.                       m   USA  2400                                
+   232=           Bradvarevic, Aleksander                     YUG  2400                                
+   232=           Deze, Anton                                 YUG  2400                                
+   232=           Sofrevski, Jovan                            YUG  2400                                
+   255            Quinteros, Miguel A.                        ARG  2390                                
+   255=           Dueckstein, Andreas                     m   AUT  2390                                
+   255=           Camara, Helder                              BRA  2390                                
+   255=           Neikirch, Oleg                          m   BUL  2390                                
+   255=           Orev, Petar                                 BUL  2390                                
+   255=           Peev, Peicho                                BUL  2390                                
+   255=           Holm, Sejer                                 DEN  2390                                
+   255=           Hartston, William R.                        ENG  2390                                
+   255=           Navarovszky, Laszlo                     m   HUN  2390                                
+   255=           Pogats, Jozsef                              HUN  2390                                
+   255=           Toth, Bela                                  HUN  2390                                
+   255=           Varnusz, Egon                               HUN  2390                                
+   255=           Zuidema, Coen                           m   NED  2390                                
+   255=           Grabczewski, Romuald                        POL  2390                                
+   255=           Ungureanu, Emil                             ROM  2390                                
+   255=           Kinnmark, Ove                               SWE  2390                                
+   255=           Gliksman, Darko                             YUG  2390                                
+   255=           Kovacevic, Vladimir                         YUG  2390                                
+   255=           Sahovic, Dragutin                           YUG  2390                                
+   274            Pilnik, Herman                          g   ARG  2380                                
+   274=           Kinzel, Anton                               AUT  2380                                
+   274=           Plachetka, Jan                              CSR  2380                                
+   274=           Lee, Peter N.                               ENG  2380                                
+   274=           Moehring, Guenther                          GDR  2380                                
+   274=           Schoeneberg, Manfred                        GDR  2380                                
+   274=           Polgar, Istvan                              HUN  2380                                
+   274=           Czerniak, Moshe                         m   ISR  2380                                
+   274=           Myagmarsuren, Lhamsuren                 m   MGL  2380                                
+   274=           Levy, David N. L.                           SCO  2380                                
+   274=           Gereben, Erno                           m   SUI  2380                                
+   274=           Ilvitsky, Grigory                       m   URS  2380                                
+   274=           Messing, Hrvoje                             YUG  2380                                
+   287            Kozma, Julius                           m   CSR  2370                                
+   287=           Kupka, Slavoj                               CSR  2370                                
+   287=           Rodriguez Cordoba, Jesus R.                 CUB  2370                                
+   287=           Clarke, Peter H.                            ENG  2370                                
+   287=           Kottnauer, Cenek                        m   ENG  2370                                
+   287=           Visier Segovia, Fernando                    ESP  2370                                
+   287=           Kluger, Gyula                           m   HUN  2370                                
+   287=           Ozsvath, Andras                             HUN  2370                                
+   287=           Vadasz, Laszlo                              HUN  2370                                
+   287=           Van Scheltinga, Theo D.                 m   NED  2370                                
+   287=           Sliwa, Bogdan                               POL  2370                                
+   287=           Suetin, Alexey S.                       g   URS  2370                                
+   287=           Volovich, Anatoly A.                        URS  2370                                
+   287=           Kozomara, Vladimir                      m   YUG  2370                                
+   287=           Rabar, Braslav                          m   YUG  2370                                
+   302            Pelikan, Jorge                          m   ARG  2360                                
+   302=           Ader, Walter                                CHI  2360                                
+   302=           Augustin, Josef                             CSR  2360                                
+   302=           Siaperas, Triantafyllos                 m   GRE  2360                                
+   302=           Kristinsson, Jon                            ISL  2360                                
+   302=           Kagan, Shimon                               ISR  2360                                
+   302=           Sydor, Andrzej                              POL  2360                                
+   302=           Timoshchenko, Gennadi A.                    URS  2360                                
+   302=           Mihaljcisin, Mihajlo                    m   YUG  2360                                
+   311            Wexler, Bernardo                        m   ARG  2350                                
+   311=           Limbos, Paul                                BEL  2350                                
+   311=           Fichtl, Jiri                            m   CSR  2350                                
+   311=           Enevoldsen, Jens                        m   DEN  2350                                
+   311=           Golombek, Harry                         m   ENG  2350                                
+   311=           Simonovic, Borko                            FRA  2350                                
+   311=           Eising, Johannes                            GER  2350                                
+   311=           Pollak, Georg                               GER  2350                                
+   311=           Filep, Tibor                                HUN  2350                                
+   311=           Szilagyi, Gyorgy                        m   HUN  2350                                
+   311=           Domnitz, Zadok                              ISR  2350                                
+   311=           Zichichi, Alvise                            ITA  2350                                
+   311=           Kramer, Haije J.                        m   NED  2350                                
+   311=           Blau, Max                               m   SUI  2350                                
+   311=           Mikenas, Vladas                         m   URS  2350                                
+   311=           Nikolic, Stanimir                       m   YUG  2350                                
+   327            Foguelman, Alberto                      m   ARG  2340                                
+   327=           Roose, Jan                                  BEL  2340                                
+   327=           Cuartas, Carlos                             COL  2340                                
+   327=           Garcia Martinez, Silvino                m   CUB  2340                                
+   327=           Petersen, Finn                              DEN  2340                                
+   327=           Wright, Daniel                              ENG  2340                                
+   327=           Book, Eero Elinar                       m   FIN  2340                                
+   327=           Neukirch, Detlef                            GDR  2340                                
+   327=           Teufel, Juergen                             GER  2340                                
+   327=           Porat, Yosef                            m   ISR  2340                                
+   327=           Barendregt, Johan                       m   NED  2340                                
+   327=           Balcerowski, Witold                         POL  2340                                
+   327=           Kupper, Josef                           m   SUI  2340                                
+   327=           Skold, Kristian                             SWE  2340                                
+   327=           Martinovic, Slobodan                        YUG  2340                                
+   327=           Mestrovic, Zvonimir                     m   YUG  2340                                
+   343            Macskasy, Elod                              CAN  2330                                
+   343=           Cuellar Gacharna, Miguel                m   COL  2330                                
+   343=           Trapl, Jindrich                             CSR  2330                                
+   343=           Portisch, Ferenc                            HUN  2330                                
+   343=           Prelovszky, Laszlo                          HUN  2330                                
+   343=           Sandor, Bela                            m   HUN  2330                                
+   343=           Peretz, Malkiel                             ISR  2330                                
+   343=           Persitz, Raaphi                             ISR  2330                                
+   343=           Hartoch, Robert G.                          NED  2330                                
+   343=           Witkowski, Stefan                           POL  2330                                
+   343=           Troianescu, Octavio                     m   ROM  2330                                
+   343=           Estrin, Yakov B.                            URS  2330                                
+   343=           Wagman, Stuart                              USA  2330                                
+   343=           Cebalo, Miso                                YUG  2330                                
+   343=           Puc, Stojan                             m   YUG  2330                                
+   358            Stoppel, Franz                              AUT  2320                                
+   358=           Boey, Josef                                 BEL  2320                                
+   358=           Blatny, Frantisek                           CSR  2320                                
+   358=           Ortega, Rogelio                             CUB  2320                                
+   358=           Wade, Robert G.                         m   ENG  2320                                
+   358=           Calvo Minguez, Ricardo                      ESP  2320                                
+   358=           Vogt, Lothar                                GDR  2320                                
+   358=           Rellstab, Ludwig sr                     m   GER  2320                                
+   358=           Kokkoris, Hristos                           GRE  2320                                
+   358=           Kovacs, Zoltan                              HUN  2320                                
+   358=           Thorbergsson, Freysteinn                    ISL  2320                                
+   358=           Aloni, Itzhak                               ISR  2320                                
+   358=           Paoli, Enrico                           m   ITA  2320                                
+   358=           Schaufelberger, Heinz                       SUI  2320                                
+   358=           Ilijevski, Dimitar                          YUG  2320                                
+   373            Letelier, Rene                          m   CHI  2310                                
+   373=           Boudy, Julio                                CUB  2310                                
+   373=           Littlewood, John E.                         ENG  2310                                
+   373=           Whiteley, Andrew J.                         ENG  2310                                
+   373=           Gasztonyi, Endre                            HUN  2310                                
+   373=           Jongsma, Alexander                          NED  2310                                
+   373=           Stupica, Janesz                             YUG  2310                                
+   380            Ocampo, Raul                                ARG  2300                                
+   380=           Cornelis, Frans B.                          BEL  2300                                
+   380=           Pelitov, Dimitar                            BUL  2300                                
+   380=           Ujtelky, Maximilian                     m   CSR  2300                                
+   380=           Brinck-Claussen, Bjorn                      DEN  2300                                
+   380=           Saborido, Rafael                            ESP  2300                                
+   380=           Thiellement, Andre                          FRA  2300                                
+   380=           Benedictsson, Benony                        ISL  2300                                
+   380=           Kerkhoff, Leo J.                            NED  2300                                
+   380=           Pavlov, Mircea                              ROM  2300                                
+   380=           Bhend, Edwin                            m   SUI  2300                                
+   380=           Nilsson, Zandor                             SWE  2300                                
+   392            Rocha, Antonio                              BRA  2290                                
+   392=           Boutteville, Cesar                          FRA  2290                                
+   392=           Vizantiadis, Lazaros                    m   GRE  2290                                
+   392=           Pytel, Krzysztof                            POL  2290                                
+   392=           Pirc, Vasja                             g   YUG  2290                                
+   397            Ulvestad, Olaf                              AND  2280                                
+   397=           Incutto, Carlos                             ARG  2280                                
+   397=           Diaz, Joaquin C.                            CUB  2280                                
+   397=           Ducic, Bogdan                               FRA  2280                                
+   397=           Huguet, Bernard                             FRA  2280                                
+   397=           Durao, Joaquim                          m   POR  2280                                
+   397=           Davie, Alexander M.                         SCO  2280                                
+   397=           Lombard, Andre                              SUI  2280                                
+   405            Fuller, Maxwell L.                          AUS  2270                                
+   405=           Kristjansson, Bragi                         ISL  2270                                
+   405=           Caminade, Andrija                           MNC  2270                                
+   405=           Canal, Esteban                          m   PER  2270                                
+   405=           Bouaziz, Slim                               TUN  2270                                
+   410            Nowak, Ervin                                CSR  2260                                
+   410=           Havansi, Erkki E. T.                        FIN  2260                                
+   410=           Mazzoni, Guy                                FRA  2260                                
+   410=           Pietrusiak, Bogdan                          POL  2260                                
+   410=           Suer, Nevzat                                TUR  2260                                
+   415            Dunkelblum, Arthur                      m   BEL  2250                                
+   416            Letzelter, Jean-Claude                      FRA  2240                                
+   416=           Donnelly                                    IRL  2240                                
+   418            Jean, Claude                                FRA  2230                                
+   418=           Zinser, Sylvain                             FRA  2230                                
+   418=           Trincardi, Tullio                           ITA  2230                                
+   421            Rizopoulos, Georgios                        GRE  2220                                
+   421=           Littleton, Michael F.                       IRL  2220                                
+   421=           Bredewout, Henk                             NED  2220                                
+   424            Bakker, Piet                                NED  2210                                
+   425            Beni, Alfred                            m   AUT  2200                                
+   425=           Casa, Alex                                  MNC  2200                                
+   425=           Dobrzynski, Wojciech                        POL  2200                                
+   425=           Cordovil, Joao                              POR  2200                                
+   429            Saemisch, Friedrich                     g   GER  2170                                
+
+
+
+
+
+
