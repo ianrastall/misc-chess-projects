@@ -1,0 +1,7 @@
+### Historical Chess Ratings Scid File (.ssp) ###
+
+The file is complete. It pretty much matches up with what's over at the Edo site. But it's almost useless without alternate spellings, which will take quite a bit of time.
+
+Toward that end, I've isolated any entries in the regular .ssp ratings file that contain an asterisk -- often historical players. And will go through and add in more detailed info when I can.
+
+This does work with Scid. You just choose it as your ratings file in Options -- Resources, and run it by fixing names in the Maintenance menu, as well as adding in Elo.
