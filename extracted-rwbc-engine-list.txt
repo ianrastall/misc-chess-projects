@@ -1,0 +1,5615 @@
+
+4ku
+John Taylor (USA)
+Gediminas Masaitis (LTU)
+Gian-Carlo Pascutto (BEL)
+https://github.com/kz04px/4ku
+
+Abbess
+Robert Pope (USA)
+https://sites.google.com/site/abbesschess/
+
+Abrok
+Roman Korba (DEU)
+https://web.archive.org/web/20170813003623/
+http://romankorba.homepage.t-online.de/
+
+Absolute-Zero
+Zong Zheng Li (CHN)
+https://github.com/zongzhengli/Absolute-Zero
+https://zongzhengli.github.io/
+
+Ace
+Adam Adair (USA)
+http://code.google.com/p/ace-chess/
+
+Ace2
+Stuart Neivandt (USA)
+https://github.com/sneivandt/chess
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+
+Achillees
+Daniel Diaz (ESP)
+https://github.com/Tempate/Achillees
+https://drive.google.com/open?id=1da1UQT4fOAOjZ1BusMokioAnnEqjZYqx
+https://rwbc-chess.de/download.htm
+
+Acqua
+Giovanni Di Maria (ITA)
+http://www.elektrosoft.it/scacchi/acqua/acqua.asp
+
+AcquaD
+Giovanni Di Maria (ITA)
+http://www.elektrosoft.it/scacchi/acquad/acquad.asp
+
+AdaChess
+Alessandro Iavicoli (ITA)
+https://github.com/adachess/AdaChess
+https://web.archive.org/web/20230622210311/
+https://www.adachess.com/
+
+Adam
+Dominique Longbien (FRA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Adamant
+George Varentsov (RUS)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+https://web.archive.org/web/
+http://adamant1.fromru.com/
+
+Admete
+Kylie MacFarquharson (GBR)
+https://github.com/Orbita2d/admete
+
+AdroitChess
+Daniel White (GBR)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+AffinityChess
+Elias Nilsson (SWE)
+https://github.com/eligolf/Affinity-Chess
+
+Aice
+Anastasios Milikas (GRC)
+http://users.sch.gr/amilikas/aice/
+
+Ajetac
+Cesar Rodolfo Contreras Perez (MEX)
+http://www.geocities.ws/crcontrer/
+
+Akiba
+Maciej Szmit (POL)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Akiba Chess 0.0.20031118 [winboard]/
+https://web.archive.org/web/20070204085952/
+http://maciej.szmit.info/resources/Akiba.zip
+
+Akimbo
+Jamie Whiting (GBR)
+https://github.com/JacquesRW/akimbo
+
+Alaric
+Peter Fendrich (SWE)
+https://web.archive.org/web/20220407102237/
+http://alaric.fendrich.se/index.html
+
+Alarm
+Benny Antonsson (SWE)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Albatros
+Daniel Grevent (FRA)
+https://github.com/PiIsRational/Albatros
+
+AlChess
+Alex Lobanov (RUS)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+Alcibiades
+Evgeni Pandurski (BGR)
+https://github.com/epandurski/alcibiades
+https://drive.google.com/open?id=0B-PM8aD2-9I4V3dkc2NOWWNxd3M
+https://drive.google.com/open?id=0B9voFYjJVtn_c3dvd0JVMmloVHM
+https://mega.nz/F!z8lzwKRY!NNbIAN7pEX7J-jD_kPwdRA
+
+Aldebaran
+Mauro Scarpa (ITA)
+https://rwbc-chess.de/download.htm
+
+Alex
+Normand M. Blais (USA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Alexandria
+Guiseppe Pagano (ITA)
+https://github.com/PGG106/Alexandria
+
+Alf
+Casper W. Berg (DNK)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Alfil
+Enrique Sanchez Acosta (ESP)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Alfil%20Chess%20%28Compilation%29/
+
+Alibaba
+Dennis Breuker (NLD)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Alice
+Sven Reichard (USA)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+AliChess
+Anton Lindenmair (DEU)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Allie
+Adam Treat (USA)
+https://github.com/manyoso/allie/
+https://www.patreon.com/posts/leelenstein-15-0-38164065
+
+Alouette
+Roland Chastain (FRA)
+https://gitlab.com/rchastain/alouette
+https://github.com/rchastain/alouette
+
+Alpaca
+Bogdan Basarabeanu (ROU)
+https://github.com/bbogdan95/alpaca
+
+Altair
+Alexander Tian (CHN)
+https://github.com/Alex2262/AltairChessEngine
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Altar
+Kim Kahre (FIN)
+https://github.com/altarchess/Altar
+
+Amateur
+Will Singleton (USA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+amoeba
+Richard Delorme (FRA)
+https://github.com/abulmo/amoeba
+
+Amundsen
+John Bergbom (SWE)
+https://github.com/johnbergbom/Amundsen
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Amy
+Thorsten Greiner (DEU)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://github.com/thgreiner/amy
+
+Amyan
+Antonio Dieguez (CHL)
+http://www.pincha.cl/amyan/amyane.html
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+Anatoli
+Martin Giepmans (NLD)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Andoma
+Andrew Healey (GBR)
+https://github.com/healeycodes/andoma
+https://healeycodes.com/building-my-own-chess-engine/
+
+Andscacs
+Daniel José Queraltó (AND)
+https://web.archive.org/web/20190917112059/
+http://www.andscacs.com/
+https://web.archive.org/web/
+http://www.andscacs.com/downloads/
+http://www.amateurschach.de/download/_andscacs-older-versions.zip
+
+Anechka
+Sergei Nefedov (RUS)
+http://www.sdchess.ru/download_engines.htm
+
+AnimatsChess
+Stuart Allen (AUS)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Anka
+Mehmet Eren Yesilyurt (TUR)
+https://github.com/erenyesilyurt/anka
+
+Anmon
+Christian Barreteau (FRA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+https://web.archive.org/web/
+http://wbec-ridderkerk.nl/html/download/anmon/
+https://www.amateurschach.de/download/_anmon-older-versions.zip
+
+Annie
+Joey Bednar (USA)
+https://github.com/joey-bednar/annie
+https://rwbc-chess.de/download.htm
+
+Ant (& Gi-Ant)
+Tom Vijlbrief (NLD)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/ANT%20aka%20GI-ANT%20%28Compilation%29/
+
+ApepCE
+Dave King (USA)
+https://github.com/tildedave/apep-chess-engine
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+ApilChess
+Ulf Lorenz (DEU)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Apollo
+Stuart Nevens Locke (USA)
+https://github.com/stnevans/Apollo
+
+Apotheosis
+Andrew Hockman (USA)
+https://github.com/spamdrew128/Apotheosis
+
+ArabianKnight
+Marcin Gardyjan (POL)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Aramis
+Federico Saitta (ITA)
+https://github.com/FedericoSaitta/Chess-Engine-in-cpp
+
+Arasan
+Jon Dart (USA)
+http://www.arasanchess.org/
+https://github.com/jdart1/arasan-chess
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Arcanum
+Lars Aurud (NOR)
+https://github.com/LarsAur/Arcanum
+
+ArcBishop80
+Matthias Gemuh (CMR)
+https://web.archive.org/web/20210614064823/
+http://www.chess.hylogic.de/
+
+Arche
+Andrew Wright (AUS)
+https://github.com/aywrite/arche
+
+Ares
+Charles Roberson (USA)
+https://aigames.net/AresChess.html
+https://web.archive.org/web/20240321004455/
+http://www.thorstenczub.de/ares.html
+
+Aretar
+Javier Ruiz (ESP)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+http://wayback.archive.org/web/20120709161717/
+http://files.chesscomfiles.com/download_files/1156/Aretar.exe
+
+Arics
+Vladimir Fadeev (BLR)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Arics%200.95%20alpha/
+
+Arion
+Gabriel Guillory (FRA)
+http://web.archive.org/web/20160314000231/
+http://transversale.fr/Arion/Arion.htm
+
+Aristarch
+Stefan Zipproth (DEU)
+https://zipproth.de/chess/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Aristarch%20%28Compilation%29/
+
+Armageddon II
+Grzegorz Sidorowicz (POL)
+http://web.archive.org/web/20121118085505/
+http://www.armageddon.szach.pl/download.htm
+
+Arminius
+Volker Annuss (DEU)
+http://www.nnuss.de/Hermann/Arminius2015-08-06.zip
+
+Asterisk
+Peter Horvath (HUN)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Asterisk%200.6/
+
+Asymptote
+Maximilian Lupke (DEU)
+https://github.com/malu/asymptote
+
+Atak
+Mateusz Luksik (POL)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Atak%20%28Compilation%29/
+
+Athena
+Nicolas Seglenieks (CAN)
+https://github.com/NicolasSegl/Athena
+https://github.com/NicolasSegl/Athena/tree/master/bin
+
+AtlanChess
+Grant Osborne (GBR)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Atlas
+Andres Manzanares Campillo (ESP)
+https://sites.google.com/view/atlaschess/
+
+AtlasToo
+Ben Keen (GBR)
+https://web.archive.org/web/20171024234912/
+http://ben-keen.com/portfolio.html
+
+Aurora
+Winston Cai (USA)
+https://github.com/kjljixx/Aurora-Chess-Engine
+
+Austerlitz
+Szymon Belz (POL)
+https://github.com/taperihn0/Austerlitz-Engine
+
+Avalanche
+Yinuo Huang (CHN)
+https://github.com/SnowballSH/Avalanche
+
+Averno
+José Carlos Martínez Galán (ESP)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+AviChess
+Michel Gaillard (FRA)
+https://web.archive.org/web/20190918110707/
+http://agendacom.nuxit.net/index.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Awesome
+Bill Jordan (AUS)
+http://web.archive.org/web/20131114084319/
+http://home.vicnet.net.au/~chess/awesome.html
+
+Ax
+Pham Hong Nguyen (VNM)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Axolotl
+Louis James Mackenzie-Smith (GBR)
+https://github.com/louism33/Axolotl
+https://oss.sonatype.org/content/repositories/snapshots/com/github/louism33/axolotl/
+
+Axon
+Jasper Sinclair (USA)
+https://rwbc-chess.de/download.htm
+
+AXWChessBot
+Jan Niklas Richter (DEU)
+https://github.com/ArcticXWolf/AXWChessbot
+
+Ayito
+Jaime Benito-de-Valle Ruiz (ESP)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+BabyChess
+Jerome Kunegis (DEU)
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6ay04RjVtUDVTUG8
+https://lists.gnu.org/archive/html/baby-devel/
+https://web.archive.org/web/20080309180859/
+http://user.cs.tu-berlin.de/~kunegis/babychess/
+
+BACE
+Christopher Bowron (USA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://github.com/cwbowron/BCE
+
+BaChess
+Clemens Kutz (DEU)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+http://www.schlagmueller.de/studium/projekte/chess.htm
+
+BadChessEngine
+Alex Pawelko (CAN)
+https://github.com/Notoh/badchessengine
+
+Bagatur
+Krasimir Topchiyski (BGR)
+https://github.com/bagaturchess/Bagatur/releases
+https://github.com/bagaturchess/Bagatur/archive/refs/tags/ALL-OLD-VERSIONS-DOWNLOADS-BEFORE-BAGATUR-2.2E.zip
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Barbarossa
+Nicu Ionita (ROU)
+https://github.com/nionita/Barbarossa/releases/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://github.com/nionita/Abulafia
+
+Baryonyx
+Ibai Burgos Sanchez (ESP)
+https://github.com/IbaiBuR/Baryonyx
+https://rwbc-chess.de/download.htm
+
+BasicChessEngine
+Alexander Wimmer (FRA)
+https://github.com/Checkmate6659/basic-chess-engine
+https://rwbc-chess.de/download.htm
+
+BBC
+Maksym Korzh (UKR)
+https://github.com/maksimKorzh/bbc
+
+BBChess
+Borko Boscovic (SVN)
+https://web.archive.org/web/20130106193608/
+http://labraj.uni-mb.si/en/index.php/Chess_program_BBChess
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+BDIChess
+Riccardo Mazzei (ITA)
+https://sourceforge.net/projects/bdi-chess/
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+
+Beaches
+Robert Pope (USA)
+https://web.archive.org/web/20220630023513/
+https://sites.google.com/site/beacheschess/
+http://docs.google.com/leaf?id=0B1zu4QSq_0zXOTMxODZjMDktZDA5OS00N2EzLWJlMDctNTc1ZGZiZDhhYTVl&hl=en
+https://docs.google.com/leaf?id=0B1zu4QSq_0zXOWYyMTFiNmUtYWIwNC00ZTE3LWIyZmMtYTMwNjkxZjJjMWU5&hl=en&authkey=CPe0m9oD
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Bearded
+Mariusz Marszalkowski (POL)
+https://web.archive.org/web/20171013064904/
+http://brodacz100.republika.pl/index.html
+
+BeLL
+Daniel Anuliero (FRA)
+https://github.com/Dany1962/BeLL
+
+Belofte
+Yves De Billoez (BEL)
+https://sourceforge.net/projects/belofte/
+http://macchess.internetcontact.be/
+https://drive.google.com/open?id=0B9voFYjJVtn_SWtvTFNPRklwZVE
+
+Belzebub
+Radoslaw Kamowski (POL)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Beowulf
+Colin Frayn (GBR)
+http://www.frayn.net/beowulf/
+https://web.archive.org/web/20021201112300/
+http://www.ast.cam.ac.uk/~cmf/chess/beowulf.html
+https://web.archive.org/web/20021216151808/
+http://www.ast.cam.ac.uk/~cmf/chess/beo_version.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+BeRoChess
+Benjamin Rosseaux (DEU)
+https://blog.rosseaux.net/page/2e5a45589e34bb8a5aafcc871ca1202e/BeRoChess
+
+Berserk
+Jay Honnold (USA)
+https://github.com/jhonnold/berserk
+https://ipmanchess.yolasite.com/compiles.php
+https://rwbc-chess.de/download.htm
+
+Bestia
+George Lyapko (UKR)
+http://wayback.archive.org/web/20120301154604/
+http://lyapko.110mb.com/
+
+Betsabe II
+Juan Benitez (ESP)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://rwbc-chess.de/download.htm
+
+Betsy
+Landon W. Rabern (USA)
+http://web.archive.org/web/20090628104710/
+http://userfs.cec.wustl.edu/~lwr1/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Betsy%20[-xboard%2032]%20%28Compilation%29/
+
+BibiChess
+Lucas Braesch (FRA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Bienchen
+Manuel Schenke (DEU)
+https://github.com/fitzcarrald/Bienchen
+
+BigBook
+Adam Stallard (USA)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Big%20Book%20v3.1/
+
+BigLion
+Matthias Gemuh (CMR)
+https://web.archive.org/web/20210614064823/
+http://www.chess.hylogic.de/
+http://tonyschess.x10host.com/Gemuh.7z
+
+BikJump
+Aart J.C. Bik (NLD)
+http://www.aartbik.com/strategy.php
+
+Bismark
+Evgeny Shtranvasser (ISR)
+https://bitbucket.org/jackalsh/bismark/downloads/
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+Bison
+Ivan Bonkin (RUS)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+https://sourceforge.net/projects/bison/
+
+Bit-Genie
+Aryan Parekh (IND)
+https://github.com/Aryan1508/Bit-Genie
+
+bitbit
+Isak Ellmer (SWE)
+https://github.com/Spinojara/bitbit
+
+Bitfoot
+Shawn Chidester (USA)
+https://github.com/zd3nik/Bitfoot/releases
+
+Black Marlin
+Doruk Sekercioglu (TUR)
+https://github.com/dsekercioglu/blackmarlin
+
+Black-Cat
+Alexander Wimmer (FRA)
+https://github.com/Checkmate6659/black-cat-chess
+
+BlackBishop
+Andreas Herrmann (DEU)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+BlackCore
+Balazs Szilagyi (HUN)
+https://github.com/SzilBalazs/BlackCore
+
+Blaze
+Antar Azri (DZA)
+https://github.com/antaz/blaze
+https://rwbc-chess.de/download.htm
+https://drive.google.com/open?id=1XvFy_fPEI0JXoVwnbwFT7e5xh8e8Ml6J
+
+Blikskottel
+Adam Oellermann (ZAF)
+https://web.archive.org/web/20160402212830/
+http://www.oellermann.com/blikskottel_0.8_win32.zip
+https://web.archive.org/web/20040609024206/
+http://www.oellermann.com:80/blikskottel/engine.php
+
+BlitzKibitz
+Valentin Stanciu (ROU)
+https://github.com/svalentin/blitzkibitz
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Blitzkrieg
+Rian Neogi (IND)
+https://github.com/rianneogi/Blitzkrieg
+
+Blitzter
+Stephen Mann (USA)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Blitzter%20v2.0/
+https://web.archive.org/web/20080619010157/
+http://blitzter.com/default.aspx
+
+Blocky
+Kevin Nguyen (USA)
+https://github.com/knguy22
+
+Bluebetafish
+Sourashis Mondal (IND)
+https://github.com/BlueBetaFish/chess-engine
+
+Blunder
+Christian Dean (USA)
+https://github.com/algerbrex/blunder
+
+Blunders
+Paulo Lemus (USA)
+https://github.com/paulolemus/blunders
+
+Bobcat
+Gunnar Harms (NLD)
+https://github.com/Bobcat/bobcat/releases
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Bodo
+Joel Veness (AUS)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Booot
+Alex Morozov (UKR)
+https://github.com/booot76/Booot-chess-engine
+https://www.dropbox.com/s/soy5ux773vm1wwx
+https://www.dropbox.com/s/xbdxof191y2j91c
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Booot%20%28Compilation%29/
+https://www.dropbox.com/s/35r7jacuyypw5cg/booot6_5_release.rar?dl=0
+
+Boychesser
+Analog-Hors ()
+Mark Carlson (USA)
+Doruk Sekercioglu (TUR)
+https://github.com/analog-hors/Boychesser
+
+Braincrack
+Andreas Dirks (DEU)
+http://sourceforge.net/projects/braincrack
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Brainless
+Matthew Lai (CAN)
+Pawel Koziol (POL)
+https://web.archive.org/web/20170617231841/
+https://bitbucket.org/waterreaction/brainless/overview
+https://web.archive.org/web/20160502190444/
+https://bitbucket.org/waterreaction/brainless/downloads
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Brama
+Biagio Rea (ITA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+BremboCE
+Gianluca Cisana (ITA)
+https://web.archive.org/web/20180821045818/
+http://bremboce.cisana.com/download_en.php
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Bricabrac
+Michael Sherwin (USA)
+http://talkchess.com/forum3/viewtopic.php?f=2&t=77185
+
+Bright
+Allard J. Siemelink (NLD)
+https://web.archive.org/web/20120113074528/
+http://members.ziggo.nl/allard.siemelink/bright/
+https://web.archive.org/web/20210508074436/
+https://sites.google.com/site/brightchess2/
+
+Bringer (Der)
+Gerrit Reubold (DEU)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+http://chess.kearman.com/bringer/bringer-index.html
+
+Bruja
+Dan Honeycutt (USA)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Bruja%20%28Compilation%29/
+
+BrutusChess
+Stephan Vermeire (NLD)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+BSC
+Nicolas Robert (FRA)
+https://web.archive.org/web/20171002195036/
+http://b0n0.free.fr/bsc/bsc.html
+
+Bubble
+Felipe Otaviano (BRA)
+http://bubblechess.awardspace.co.uk/
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+BugChess2
+Francois Karr (FRA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+BullitChess
+Arnaud Halle (FRA)
+https://bitbucket.org/CornFLX/bullitchess/
+
+Bumblebee
+Shawn Chidester (USA)
+https://github.com/zd3nik/BumblebeeReleases/releases
+
+Butcher
+Marek Kolacz (POL)
+https://web.archive.org/web/20170824014245/
+http://markol4.republika.pl:80/
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Buzz
+Pradu Kannan (USA)
+https://web.archive.org/web/20171002051621/
+http://pradu.us:80/old/Nov27_2008/Buzz/releases/
+
+Byak
+Sylvain Philip (FRA)
+https://github.com/ilhooq/byak
+https://mega.nz/!HEdXWZKJ!yC4zBow1haL2pIxQk62cRKWoNU2lexT3ExicY2nQJXQ
+
+Cadabra
+Joachim Enggard Nebel (SWE)
+https://github.com/JENebel/Cadabra
+https://drive.google.com/file/d/1Eo2ZuwcF8Wq4otBZdIjiw1JzMi_m-EoN
+https://drive.google.com/file/d/132iyCYamzAm5qzRajFlyeaZejjuJUBwp
+https://rwbc-chess.de/download.htm
+
+Cadie
+Martin Wyngaarden (USA)
+https://github.com/mwyngaarden/Cadie
+https://rwbc-chess.de/download.htm
+
+CaffeinatedPawn
+Folkert van Heusden (NLD)
+https://github.com/folkertvanheusden/CaffeinatedPawn
+https://vanheusden.com/chess/CaffeinatedPawn/
+https://github.com/bhlangonijr/chesslib
+
+Caissa
+Michal Witanowski (POL)
+https://github.com/Witek902/Caissa
+
+CalculonX
+Barry Smith (USA)
+https://github.com/BarrySW19/CalculonX
+https://code.google.com/archive/p/calculonx/
+https://sourceforge.net/projects/sjce/
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Caligula
+Pedro Castro Elgarresta (ESP)
+http://pedrox.wix.com/caligula
+
+Calvin
+Dan Kelsey (GBR)
+https://github.com/kelseyde/calvin-chess-engine
+
+Camel
+Bruno Mendes (PRT)
+https://github.com/bdmendes/camel
+https://rwbc-chess.de/download.htm
+
+Capivara
+Lourenço Araujo de Oliveira Jr. (BRA)
+http://www.mediafire.com/file/ye9d2nnn8ouccl3
+
+Capizero
+Hugo Souza (BRA)
+https://github.com/fatorius/capizero
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Captain
+Narbeh Mouradian (USA)
+https://github.com/n4h/Captain-chess
+
+Capture
+Sylvain Renard (FRA)
+
+
+Carnivor
+Michael Sherwin (USA)
+
+
+Carp
+Andrea Sgobbi (ITA)
+https://github.com/dede1751/carp
+
+CasanChess
+Carlos Sanchez Mayordomo (ESP)
+https://github.com/casanche/casanchess
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Casper
+Shikhar Srivastava (IND)
+https://github.com/shikharsrivastava/Casper-Chess-Engine
+
+Cassandre
+Jean-François Romang (FRA)
+http://sourceforge.net/projects/cassandre
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Catto
+Phu Minh Nguyen (VNM)
+https://github.com/nguyenphuminh/Catto
+
+CaveChess
+Tim Declercq (BEL)
+https://sourceforge.net/projects/cavechess/
+https://sourceforge.net/projects/sjce/
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+CCCP
+Pawel Koziol (POL)
+Tom Kerrigan (USA)
+https://web.archive.org/web/20090322000123/
+http://www.marittima.pl/cccp
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+CDrill
+Ferdinand Mosca (PHL)
+https://sites.google.com/view/cdrill
+
+Cecir
+Guillermo Carvalho (URY)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+CederChess
+Claus Cederberg (DNK)
+https://cederberg.dk/cederchess/
+http://tonyschess.x10host.com/cederchessTM.rar
+
+CeeChess
+Thomas Reinitz (USA)
+https://github.com/bctboi23/CeeChess
+
+Cefap
+Marcus Stjärnås (SWE)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Ceibo
+Federico Rojo (ARG)
+https://sites.google.com/site/ceibochess/
+
+Celes
+Johan Hutting (NLD)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Celes%20aka%2031337%20%28Compilation%29/
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Celestial
+Fayd Speare (AUS)
+https://github.com/FaydSpeare/Celestial
+
+Cerebro
+Antonio Senatore (ARG)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Ceres
+David Elliott (USA)
+https://github.com/dje-dev/Ceres
+
+CeruleanJS
+Joey Robert (CAN)
+https://bitbucket.org/joeyrobert/ceruleanjs
+http://ceruleanjs.joeyrobert.org/
+
+ChadsChess
+Chad Koch (USA)
+http://wayback.archive.org/web/
+http://members.fortunecity.com/clairesbro/chess/
+
+Chai
+Jakob Hackstein (DEU)
+https://github.com/jakhac/chai
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Chancellor
+Matthias Gemuh (CMR)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+ChandraChess
+Aditya Chandra (IND)
+https://github.com/crupeng-1/ChandraChess
+https://rwbc-chess.de/download.htm
+
+Chareth
+John McFarland (USA)
+https://github.com/mcfarljm/chareth
+https://rwbc-chess.de/download.htm
+
+Chaturanga
+Stefano Malloggi (ITA)
+http://wayback.archive.org/web/20170215041358/
+http://www.stefanomalloggi.altervista.org/index.htm
+
+Cheers
+Sebastian Venter (AUT)
+https://github.com/Algorhythm-sxv/Cheers
+
+Cheese
+Patrice Duhamel (FRA)
+http://cheesechess.free.fr/
+https://gitlab.com/cheesechess/cheese
+
+Chenard
+Don Cross (USA)
+https://github.com/cosinekitty/chenard
+http://cosinekitty.com/chenard/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Cheng
+Martin Sedlak (CZE)
+https://github.com/kmar/cheng4
+http://www.vlasak.biz/cheng/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Cheng3
+Martin Sedlak (CZE)
+http://www.vlasak.biz/cheng/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Chengine
+Henning Sperr (DEU)
+https://github.com/hsperr/Chengine
+https://rwbc-chess.de/download.htm
+
+Chenglite
+Maksym Korzh (UKR)
+https://github.com/maksimKorzh/Chenglite
+
+Cheops
+Tristan Miller (CAN)
+http://web.mit.edu/myee/www/chess/cheops-1.1uci.zip
+https://github.com/logological/cheops
+https://logological.org/cheops
+https://rwbc-chess.de/download.htm
+
+Cheoss
+Miguel Ángel Embuena (ESP)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20090122120112/
+http://www1.freewebs.com/cheoss/
+
+Chers
+Giuseppe Gadola (ITA)
+https://github.com/giusgad/chers
+
+Chesley
+Matthew Gingell (USA)
+https://sourceforge.net/projects/chesley/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Chess
+David Cimbalista (USA)
+https://github.com/stockfishdeveloper/C---Bitboard-Chess-Engine
+
+Chess-At-Nite
+Franziskus Domig (DEU)
+Panayiotis Lipidiris (DKR)
+Radoslav Petrik (SVK)
+Thai Gia Tuong (VNM)
+https://github.com/fdomig/chess-at-nite
+http://code.google.com/p/chess-at-nite/
+https://rwbc-chess.de/download.htm
+
+Chess-Rikus
+Jeff Bishop (USA)
+https://web.archive.org/web/20180826163937/
+http://www.rikus.com/Chess/
+
+Chess.Cpp
+Gediminas Masaitis (LTU)
+https://github.com/GediminasMasaitis/chess-dot-cpp
+
+Chess0
+Claudio M. Camacho (ESP)
+https://github.com/mkd/chess0
+
+Chess176
+Andrei Fortuna (ROU)
+http://web.archive.org/web/20131101185952/
+http://www.reocities.com/SiliconValley/Lab/3716/downloads.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Chess22k
+Sander Maassen van den Brink (NLD)
+https://github.com/sandermvdb/chess22k
+
+Chess3
+Julien Rialland (FRA)
+https://github.com/jrialland/python-chess
+
+Chess4J
+James Swafford (USA)
+https://web.archive.org/web/20171006204644/
+http://www.jamesswafford.com/chess4j/
+https://github.com/jswaff/chess4j
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+ChessAlex
+Alexander Turikov (RUS)
+http://wayback.archive.org/web/
+http://www.chessalex.com/
+https://web.archive.org/web/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+Chessbot
+Johannes Haupt (DEU)
+https://github.com/johnniegf/chessbot
+https://sourceforge.net/projects/sjce/files/chess_engines_nb-src/
+
+ChessbotX
+Alexander Soto (USA)
+http://alexander.soto.io/chess-bot
+https://github.com/alexandersoto/chess-bot
+https://sourceforge.net/projects/sjce/files/chess_engines_nb-src/
+
+ChessCore
+Adam Berent (CAN)
+https://github.com/3583Bytes/ChessCore
+https://web.archive.org/web/20180827040710/
+http://www.chessbin.com/page/Download-Chess-Bin-Chess-Game
+
+ChessEngine
+Alexey Syromyatnikov (RUS)
+https://github.com/alexsyrom/chess-engine
+
+Chesser
+Fahad Syed (IND)
+https://sourceforge.net/projects/chesser/
+http://web.archive.org/web/20201021233037/
+https://sites.google.com/site/sydfhd/projects/chesser
+https://github.com/sinandredemption/chesser
+
+ChessFighter
+Alexander Lim (GBR)
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6ay04RjVtUDVTUG8
+
+Chessier
+Andrew Chien (USA)
+https://github.com/achien/chessier
+https://rwbc-chess.de/download.htm
+
+Chessika
+Laurent Chea (FRA)
+https://gitlab.com/MrPingouin/chessika
+
+ChessKISS
+Abel Belzunces (ESP)
+http://meandmybits.blogspot.de/search/label/ChessKISS
+https://onedrive.live.com/?id=3FBC9FCC4CDFACF8%21114&cid=3FBC9FCC4CDFACF8
+
+ChessMatrix
+Kristian Ekman (SWE)
+https://github.com/KristianEkman/ChessMatrix
+
+ChessMind
+Luca Hemmerich (DEU)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+ChessNovice
+David Shamgar Jeeves (IND)
+https://sourceforge.net/projects/chessnovice/
+
+chessplusplus
+Adam Jedrych (POL)
+https://github.com/adajed/chessplusplus
+https://rwbc-chess.de/download.htm
+
+ChessPuter
+Miles Bright (USA)
+https://github.com/smilesbright/ChessPuter/
+https://github.com/rchastain/chessputer
+
+ChessterfieldCL
+Matthias Lüscher (CHE)
+http://home.datacomm.ch/m.luescher/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+ChessTiger
+Christophe Theron (FRA)
+https://web.archive.org/web/20180820113823/
+http://shop.lokasoft.nl/product.php/41/1
+
+ChessV
+Gregory Strong (USA)
+http://www.chessv.org/
+http://www.samiam.org/chessv/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/ChessV%200.9.4%20wb%20HGM/
+
+Chezzz
+David Rasmussen (DNK)
+http://web.archive.org/web/20041210064556/
+http://chezzz.elektronhjerne.dk/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+Chiron
+Ubaldo Andrea Farina (ITA)
+http://web.archive.org/web/20230924171024/
+https://www.chironchess.com/chiron-5-01-released/
+
+Chispa
+Federico Andres Corigliano (ARG)
+http://web.archive.org/web/20050825050929/
+http://www.winboard.info/chispa/english/downloads.htm
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Chronos
+Guillermo Filia (ARG)
+http://sites.google.com/site/chronosce/Home
+https://web.archive.org/web/
+https://sites.google.com/site/chronosce/downloads
+
+Cicada
+Mohammad Kayali (USA)
+https://github.com/mkyl/cicada
+
+Cilian
+François Scheurer (CHE)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Cinnamon
+Giuseppe Cannella (ITA)
+https://github.com/gekomad/Cinnamon
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://code.google.com/archive/p/butterfly-chess-engine/downloads
+
+Ciorap
+Vlad Ciocoiu (ROU)
+https://github.com/vladciocoiu/ciorap-bot
+https://rwbc-chess.de/download.htm
+
+Clarabit
+Salvador Pallares Bejarano (ESP)
+https://web.archive.org/web/20201015014628/
+https://sites.google.com/site/sapabe/
+
+Clarity
+Joseph Pasfield (USA)
+https://github.com/Vast342/Clarity
+
+ClassicAra
+Johannes Czech (DEU)
+https://github.com/QueensGambit/CrazyAra
+https://github.com/QueensGambit/CrazyAra/releases
+
+Claudia
+Antonio Garro (ESP)
+https://github.com/antoniogarro/Claudia
+https://rwbc-chess.de/download.htm
+
+Clemens
+Sven Haardiek (DEU)
+https://github.com/shaardie/clemens
+
+Cleo
+William Mota (BRA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Clever Girl
+Seth Kasmann (USA)
+https://github.com/SethKasmann
+https://drive.google.com/open?id=1iXLt6TnmdTaBZX0NiI-sU1FlCOYhcWSI
+https://rwbc-chess.de/download.htm
+
+Clovis
+Jonathan McDermid (CAN)
+https://github.com/jonathanmcdermid/Clovis
+
+Clownfish
+Lucca Vallisa (ITA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Clubfoot
+Shawn Chidester (USA)
+https://github.com/zd3nik/Clubfoot/releases
+
+Clueless
+Helmut Fett (DEU)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Clunk
+Shawn Chidester (USA)
+https://github.com/zd3nik/Clunk/releases
+
+CmcChess
+Chao Ma (CHN)
+https://web.archive.org/web/20190720020837/
+http://people.oregonstate.edu/~machao/Cmcchess_site/
+
+Coding-Adventure
+Sebastian Lague (ZAF)
+https://github.com/SebLague/Chess-Coding-Adventure
+
+Coiled
+Oscar Gavira (ESP)
+https://github.com/Oscar-Gavira/Coiled
+https://web.archive.org/web/2020
+https://www.oscargavira.es/descarga.php?file=coiled_0.6.zip
+https://web.archive.org/web/2016
+http://www.oscargavira.es/descarga.php?file=coiled_0.2b.zip
+
+Colchess
+Colin Frayn (GBR)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://web.archive.org/web/20011122035627/
+http://www.ast.cam.ac.uk/~cmf/chess/
+
+Colossus
+Martin Bryant (GBR)
+https://onedrive.live.com/?authkey=%21AOJB0oh2vaQNRDA&id=9446BF4C8CAE5444%211799&cid=9446BF4C8CAE5444
+https://web.archive.org/web/20220524121340/
+http://colossusgames.co.uk/chess/colossuschessuci.htm
+https://web.archive.org/web/20160303221709/
+http://www.colossusgames.co.uk/chess/colossuschess.htm
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Colossus%20%28Compilation%29/
+
+Combusken
+Marcin Henryk Bartkowiak (POL)
+https://github.com/mhib/combusken
+
+Comet
+Ulrich Türke (DEU)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+Conqueror
+Aditya Pande (IND)
+https://github.com/pandeaditya/Conqueror
+https://sourceforge.net/projects/conqueror-chess-engine/files/
+
+CookieCat
+Steven James Edwards (USA)
+https://github.com/En-En-Code/cookiecat
+
+Cosette
+Pawel Osikowski (POL)
+https://github.com/Tearth/Cosette
+
+Counter
+Vadim Chizhov (RUS)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+https://github.com/ChizhovVadim/CounterGo
+https://drive.google.com/open?id=0B-PM8aD2-9I4RHlvQWZQaTFsS1U
+
+CPP1
+Folkert van Heusden (NLD)
+https://vanheusden.com/chess/cpp1/
+https://rwbc-chess.de/download.htm
+
+CPW
+Pawel Koziol (POL)
+Edmund Moshammer (AUT)
+https://github.com/nescitus/cpw-engine/
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+Crab
+Jasper Shovelton (GBR)
+https://github.com/Beanie496/Crab
+https://rwbc-chess.de/download.htm
+
+Crabby
+Alex Johnson (USA)
+https://github.com/Johnson-A/Crabby
+
+Crafty
+Robert Hyatt (USA)
+https://github.com/MichaelB7/Crafty
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+https://drive.proton.me/urls/7DG32GF0A8#k9cPXXQELffU
+https://www.dropbox.com/s/656h98y7k028pnp/crafty.zip?dl=0
+https://drive.google.com/open?id=1hxNqXIQfK74axfKsPynE6AwvrGSPXbbz
+https://rwbc-chess.de/download.htm
+https://web.archive.org/web/20190203055228/
+http://craftychess.com/
+https://web.archive.org/web/20081026113301/
+http://wbec-ridderkerk.nl/html/download.htm
+https://web.archive.org/web/
+http://wbec-ridderkerk.nl/html/downloada/crafty/
+https://www.dropbox.com/sh/v16dye7ww33x7oe/AAAnVK4s3EIaUay1ihcsBCu3a
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Crappy
+Ariel Andrade (BRA)
+https://github.com/arielandrade/Crappy
+
+Critter (Chess)
+Richard Vida (SVK)
+http://www.vlasak.biz/critter/
+https://sourceforge.net/projects/critterchess/files/Critter%20Chess/
+
+Crux
+László Szalai (HUN)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+CT800
+Rasmus Althoff (DEU)
+https://www.ct800.net/software.htm
+
+CuckooChess
+Peter Osterlund (SWE)
+http://wayback.archive.org/web/20160607061315/
+http://web.comhem.se/petero2home/javachess/index.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Cupcake
+Dan Honeycutt (USA)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://sourceforge.net/projects/sjce/files/chess_engines_nb-src/
+
+Cyberpagno
+Marco Pagnoncelli (ITA)
+http://cyberpagno.altervista.org/
+
+Cyrano
+Harald Johnsen (FRA)
+http://sites.estvideo.net/tipunch/cyrano/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Dabbaba
+Jens Baek Nielsen (DNK)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://web.archive.org/web/20220626214501/
+http://www.jens-musik.dk/skak.htm
+
+Damas
+William Mota (BRA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+DanaSah
+Pedro Castro (ESP)
+http://danasah.googlepages.com/
+https://github.com/pmcastro
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://www.mediafire.com/file/a4bq4vxt4t9nqsm/danasah88.zip/file
+http://danasah.pythonanywhere.com/
+
+DanChess
+Daniel Shawul (ETH)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://web.archive.org/web/20041015190519/
+http://www.geocities.com/dshawul/danchess.htm
+http://web.archive.org/web/
+http://www.geocities.com/dshawul/
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+DarkFusc
+- FUBerlin (DEU)
+https://web.archive.org/web/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+https://web.archive.org/web/20051026205214fw_/
+http://page.mi.fu-berlin.de/~fusch/index.html
+
+DarkTemplar
+Binesh Andrews (USA)
+https://web.archive.org/web/20170224033905/
+https://code.google.com/archive/p/darktemplar-chess/downloads
+https://web.archive.org/web/20211025022442/
+https://sites.google.com/site/darktemplarchess/downloads
+https://github.com/bineshandrews/darktemplar-chess
+
+Darky
+Alex Guerrero (MEX)
+http://computer-chess.org/doku.php?id=computer_chess:engines:darky:index
+http://www.mediafire.com/?b4exi6z0m7s4s5l
+
+Darmenios
+Dariusz Czechowski (POL)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+DayDreamer
+Aaron Becker (USA)
+https://github.com/AaronBecker/daydreamer
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Dchess
+Dave Wyatt (USA)
+https://web.archive.org/web/20131029175427/
+http://www.reocities.com/siliconvalley/mouse/3246/
+
+DCP
+Daniel Anulliero (ESP)
+http://codes-sources.commentcamarche.net/source/39744-jeu-d-echec-en-c
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YlRudXRwUGFfYXM
+
+DeepBlunder
+Brandon Boettcher (USA)
+https://github.com/boettcherb/DeepBlunder-Chess-Engine
+
+DeepDuke
+Roman Zulauf (DEU)
+https://www.mediafire.com/?ppzmjqmhbinnu
+http://sourceforge.net/projects/deepduke/
+
+Deepov
+Romain Goussault (FRA)
+https://github.com/RomainGoussault/Deepov
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+http://talkchess.com/forum/viewtopic.php?topic_view=threads&p=657074&t=58833
+https://mega.nz/F!z8lzwKRY!NNbIAN7pEX7J-jD_kPwdRA
+
+DeepTrouble
+Larry Griffiths (USA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+DefenChess
+Can Cetin (TUR)
+https://github.com/cetincan0/Defenchess
+https://rwbc-chess.de/download.htm
+
+Delfi
+Fabio Cavicchio (ITA)
+http://www.msbsoftware.it/delfi/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Delfi%20%28Compilation%29/
+
+Delocto
+Moritz Terink (AUT)
+https://github.com/moterink/Delocto
+https://github.com/moterink/Delocto/commit/7feb30954f5612f20b474244bd929405e3cd9dbf
+https://rwbc-chess.de/download.htm
+
+Delphil
+Philippe Fabiani (FRA)
+https://web.archive.org/web/20220517110823/
+https://delphil.nexgate.ch/English/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+DelphiMax
+Max Bauer (DEU)
+https://web.archive.org/web/20110727124544if_/
+http://www.bauer-schweitzer.de/index.html?minimax/index_minimax.html
+
+Demolito
+Lucas Braesch (FRA)
+https://github.com/lucasart/Demolito
+https://ci.appveyor.com/project/lucasart/demolito/history
+https://www.mediafire.com/file/47jr2tfeg2ejlmz/demolito_20181029-tp.zip/file
+http://open-chess.org/viewtopic.php?f=7&t=3069&p=23534p23534
+https://drive.google.com/file/d/0B-PM8aD2-9I4N3M3MGVQclp2RlE
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://drive.google.com/open?id=15KRo0xsP6FPG-wExO5lKi5Z4Q-eQoW5I
+
+Dendron
+James D. Taylor (USA)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Detroid
+Viktor Csomor (AUT)
+https://github.com/ViktorC/DETROID
+
+Deuterium
+Ferdinand Mosca (PHL)
+https://sites.google.com/view/deuterium-chess/download/engines/chess
+
+Devel
+Per Skjerpe (NOR)
+https://web.archive.org/web/20211129143632/
+http://develchessengine.no/
+
+Devre
+Omer Faruk Tutkun (TUR)
+https://github.com/OmerFarukTutkun/Devre
+
+Dexter
+Nashiket Agrawal (IND)
+https://github.com/regalmoix/dexter
+https://e4e6.com/download/
+
+Diablo
+Marcus Prewarski (USA)
+http://www.geocities.ws/prewarski/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Dika
+Sylvain Ladoux (FRA)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Dika%20v0.4209/
+
+Dimitri
+Luigino Viscione (ITA)
+https://web.archive.org/web/20191130031715/
+http://lesgames.altervista.org/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Dirty
+Pradu Kannan (USA)
+Andres Valverde (ESP)
+https://web.archive.org/web/20220529052407/
+http://dirtychess.com/links.php
+https://web.archive.org/web/
+http://www.dirtychess.com/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Dirty-Bit
+Andrew Backes (USA)
+https://github.com/andrewbackes/dirty-bit
+http://web.archive.org/web/20160111015424/
+http://dirty-bit.com/
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+DisasterArea
+Jochen Peussner (DEU)
+http://web.archive.org/web/20201031152110/
+https://sites.google.com/site/disasterareachess/
+https://drive.google.com/file/d/0B-HSS7FMonA4ZnVfWWNJNVJnRnc
+https://drive.google.com/file/d/0B-HSS7FMonA4bEFjcGtpVlI5S3c
+
+DiscoCheck
+Lucas Braesch (FRA)
+http://open-chess.org/download/file.php?id=600&sid=0ac36de1f83e2ff3c4523f5c8b643055
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+http://open-chess.org/download/file.php?id=554
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YlRudXRwUGFfYXM
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Djinn
+Tom Likens (USA)
+https://web.archive.org/web/20180112023028/
+http://webpages.charter.net/tlikens/index.html
+
+DoctorB
+Hans Blom (NLD)
+https://github.com/hiblom/DoctorB
+
+Dodecahedron
+Alexander Kernozhitsky (BLR)
+https://github.com/alex65536/dodecahedron
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Dog
+Folkert van Heusden (NLD)
+https://github.com/folkertvanheusden/Dog
+https://www.vanheusden.com/chess/Dog/
+
+DokChess
+Stefan Zörner (DEU)
+http://www.dokchess.de
+https://github.com/DokChess/dokchess
+https://sourceforge.net/projects/dokchess/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Dolphin
+Viet Huy Nguyen (VNM)
+https://sourceforge.net/projects/dolphinchess/
+https://web.archive.org/web/20121027152931/
+http://www.itc-hubt.net/dolphin/Index_en.html
+
+Donna
+Michael Dvorkin (USA)
+https://github.com/michaeldv/donna
+http://donnachess.github.io/
+
+Dorky
+Matt McKnight (USA)
+https://1drv.ms/u/s!AtrsbtPfzHhhgeE7vVquWm40iYs_ag
+http://home.insightbb.com/~mmcknight/
+https://1drv.ms/u/s!AtrsbtPfzHhhgctQNDg1jsJZbpPGLw
+http://home.insightbb.com/~mmcknight/oldvers.html
+
+Dorpsgek
+Matthew Brades (GBR)
+https://rwbc-chess.de/download.htm
+
+Dragon
+Bruno Lucas (FRA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://web.archive.org/web/20180928024821/
+http://www.playwitharena.com/?Partner_Chess_Engines
+
+Dragon-Komodo
+Don Dailey (USA)
+https://komodochess.com/
+https://komodochess.com/dragon.htm
+https://komodochess.com/dragon-2.htm
+
+Dragonrose
+Siphron Kents Tamplite (HKG)
+https://github.com/TampliteSK/dragonrose
+
+Dragontooth
+Dylan Hunn (USA)
+https://github.com/dylhunn/dragontooth
+
+Dreamer
+Walter van Niftrik (NLD)
+Kris McAulay (AUS)
+https://github.com/dreamchess/dreamchess/tree/master/dreamer
+http://dreamchess.org/
+
+Drofa
+Alexander Litov (RUS)
+https://github.com/justNo4b/Drofa
+
+Drosophila
+Gustav Ullberg (SWE)
+https://github.com/gustafullberg/drosophila
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+DrunkenMaster
+Marcus Prewarski (USA)
+http://www.geocities.ws/prewarski/
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+DuchChess
+Sebastian Pravda (CZE)
+https://github.com/starvy/duchchess
+
+Duke
+Carlo Pivotto (ITA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Dumb
+Richard Delorme (FRA)
+https://github.com/abulmo/Dumb/
+
+Eagle
+Frank Scharn (DEU)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+EasyPeasy
+- Mayura Co. (USA)
+http://www.mayura.com/chess/
+
+Ecce
+Denis Gruzdev (RUS)
+https://github.com/codingjerk/ecce
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+ECE
+Luigino Viscione (ITA)
+https://web.archive.org/web/20200229092120/
+http://lesgames.altervista.org/
+https://web.archive.org/web/
+http://lesgames.altervista.org/downloads/
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6ay04RjVtUDVTUG8?resourcekey=0-YBxXqVwWP_vvbukS3wrgGg
+https://rwbc-chess.de/download.htm
+
+Echelon
+Scott Gasch (USA)
+http://talkchess.com/forum3/viewtopic.php?f=2&t=32587&p=330562&hilit=echelon#p330556
+
+Eden
+Nicolai Czempin (DEU)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20050521054141/
+http://www.czempin.de/chess/
+
+Eeyore
+Anton Maydell (RUS)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Eeyore%20%28Compilation%29/
+
+Eggnog
+Levi Gibson (USA)
+https://github.com/LeviGibson/eggnog-chess-engine
+
+Eia
+Nikita Kurgin (RUS)
+https://sourceforge.net/u/neurocore/profile/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Electronic GM
+Benny Abramovici (USA)
+https://github.com/eventhorizon02/Chess-engine
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+
+Elephant
+Harald Luessen (DEU)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+ElephantGambit
+Alexander Loodin Ek (SWE)
+https://github.com/looak/elephant
+https://rwbc-chess.de/download.htm
+
+Elf
+Erdi Ata Bleda (TUR)
+https://web.archive.org/web/20141224060843/
+http://ebleda.com/compsci/chess/index.php
+
+Elixir
+Arjun Basandrai (IND)
+https://github.com/ArjunBasandrai/elixir-chess-engine
+
+Embla
+Folkert van Heusden (NLD)
+https://vanheusden.com/chess/Embla/
+https://web.archive.org/web/20201106235925/
+https://www.vanheusden.com/cchess/
+https://rwbc-chess.de/download.htm
+
+Embracer
+Benny Antonsson (SWE)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Endamat
+Elias Nilsson (SWE)
+https://github.com/eligolf/Endamat-Chess
+https://github.com/eligolfer91/endamat_chess
+
+EnginMax
+Engin Üstün (DEU)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Enigma
+Kamil Przybyla (POL)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Enigma%201.1.4%20[-xboard]/
+
+EnkoChess
+Evgeniy Silchenko (RUS)
+https://sites.google.com/site/esilchenko/programs/enkochess
+
+Enxadrista
+Alcides Schulz (BRA)
+https://github.com/alcides-schulz/Xadrez
+
+Equinox
+Claudio del la Corte (ITA)
+
+
+Equisetum
+Alexander Litov (RUS)
+https://github.com/justNo4b/Equisetum
+
+Esc
+Claudio del la Corte (ITA)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+ETChess
+Eric Triki (FRA)
+https://web.archive.org/web/20231001234416/
+https://eric.triki.pagesperso-orange.fr/frames_en.html
+
+Ethereal
+Andrew Grant (USA)
+http://chess.grantnet.us/Ethereal/
+https://github.com/AndyGrant/Ethereal
+http://chess.grantnet.us/
+
+Etude
+Jacob Hales (USA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Eubos
+Chris Bolt (GBR)
+https://github.com/cjbolt/EubosChess
+
+EveAnn
+Andres Valverde (ESP)
+https://web.archive.org/web/20151009165009/
+http://webs.ono.com/a.valverde/eveann.htm
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/EveAnn%20%28Compilation%29/
+https://web.archive.org/web/20220529052407/
+http://dirtychess.com/links.php
+https://web.archive.org/web/
+http://www.dirtychess.com/
+
+EvilKnightIII
+Ulf Bierkaemper (DEU)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/EvilKnight%20III/
+
+EvolutionChess
+Bhupendra Aole (IND)
+https://web.archive.org/web/20170223072638/
+https://code.google.com/archive/p/evolchess/
+
+Exacto
+Daniel Sparks (USA)
+https://github.com/d-sparks/exacto
+
+ExCE
+Denis Gruzdev (RUS)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+Excelsior
+Marek Klonowski (POL)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+EXchess
+Dan Homan (USA)
+http://web.archive.org/web/20220518164635/
+https://sites.google.com/site/experimentalchessprogram/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20030207152419/
+http://home.earthlink.net/~econerd/EXchess.html
+https://web.archive.org/web/20000818050406/
+http://pc.astro.brandeis.edu/BRAG/people/dch/chess.html
+https://web.archive.org/web/
+http://pc.astro.brandeis.edu/BRAG/people/dch/
+
+Expositor
+Kade - (USA)
+https://github.com/expo-dev/expositor
+
+FabChess
+Fabian von der Warth (DEU)
+https://github.com/fabianvdW/FabChess
+
+Faile
+Adrien Regimbald (CAN)
+http://faile.sourceforge.net/index.php
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Fairy-Max
+Harm Geert Muller (NLD)
+http://home.hccnet.nl/h.g.muller/CVfairy.html
+http://hgm.nubati.net/cgi-bin/gitweb.cgi?p=fairymax.git;a=summary
+
+Fatalii
+Patrick Heck (DEU)
+https://github.com/FitzOReilly/fatalii
+
+Fauce
+Ubaldo Andrea Farina (ITA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Feeks
+Folkert van Heusden (NLD)
+https://github.com/folkertvanheusden/Feeks/
+https://rwbc-chess.de/download.htm
+
+Felpo
+Felice Pollano (ITA)
+https://web.archive.org/web/20210629135827/
+https://archive.codeplex.com/?p=chengine
+https://web.archive.org/web/20120722233758/
+http://chengine.codeplex.com/releases/view/16194
+https://web.archive.org/web/20200621123912/
+https://bitbucket.org/Felice_Pollano/felpo-ii/downloads/
+
+Feuerstein
+Fritz Grau (DEU)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Feuerstein%200.4.6.1/
+https://web.archive.org/web/
+http://freenet-homepage.de/FritzSchach/
+https://web.archive.org/web/20090904160011/
+http://freenet-homepage.de/FritzSchach/
+
+Fianchetto
+Bryn Humberstone (AUS)
+http://www.computer-chess.org/doku.php?id=computer_chess:engines:fianchetto:index
+http://web.archive.org/web/20121009153111/
+http://bryn.humberstone.id.au/programs/fianchetto/
+
+Fimbulwinter
+John Shedletsky (USA)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+FireFly
+Andrew Fan (HKG)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://web.archive.org/web/20050311074834/
+http://n.1asphost.com/ffchess/
+http://fireflychess.dyndns.pro/JQuery/FF_JQ_UI.html
+
+Fischer-Chess
+Atul S. Vasu (IND)
+http://code.google.com/p/fischer-chess/
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+
+Fischerle
+Roland Stuckardt (DEU)
+https://web.archive.org/web/20220518104846/
+http://www.stuckardt.de/index.php/schachengine-fischerle.html
+https://web.archive.org/web/
+http://stuckardt.de/rsdokumente/
+
+Fizbo
+Youri Matiounine (USA)
+https://web.archive.org/web/20230514120514/
+https://sites.google.com/site/fizbochessengine/
+https://drive.google.com/drive/folders/0B-wpTpvBZkm_flNmV0JGSld6WHJQdnE0bUhsVGprX2NkV3dMZi0zTGpRRTdrRHduaG1HVWc
+https://drive.google.com/file/d/1HTk6VbcY266D63BgsaFQL4UcNSzwFlTN/view
+https://drive.google.com/file/d/1PQcIlfQirHy58Qmg3fPpsty0uyaB-DWV/view
+https://drive.google.com/file/d/1M4Cys_OhZwO-4uQfFrLTJQ8jprTQv_W9/view
+https://github.com/ymatiounnyl/Fizbo-Chess
+
+Flip4IT
+Stefan-Dobrin Cosmin (ROU)
+https://github.com/cosminstefanxp/XBoard-Chess-Engine
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YlRudXRwUGFfYXM
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Floyd
+Marcel van Kervinck (NLD)
+https://web.archive.org/web/20201106235524/
+https://marcelk.net/floyd/
+https://web.archive.org/web/
+https://marcelk.net/floyd/
+https://github.com/kervinck/floyd
+https://rwbc-chess.de/download.htm
+
+FluxII
+Phokham Nonava (CHE)
+http://www.fluxchess.com/
+https://github.com/fluxroot/flux
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Fly By Knight
+Edward Sandor (USA)
+https://github.com/ewsandor/fly-by-knight
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Fornax
+Anders Fuglseth (NOR)
+https://desert-flashgun.com/fornax
+https://desert-flashgun.com/fornax/versions
+https://biokirr.com/Chess/CCRL-Forum/viewtopic.php?f=7&t=12558#p118042
+
+Fortress
+Alessandro Damiani (CHE)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+FoxSEE
+Han Zixiao (CHN)
+https://github.com/redsalmon91/FoxSEE
+
+FracTal
+Alexandru Visan (ROU)
+https://github.com/visanalexandru/FracTal-ChessEngine
+
+Francesca
+Tom King (GBR)
+https://silentshark-uk.github.io/francesca.htm
+http://web.archive.org/web/20210509131952/
+http://www.zen55564.zen.co.uk:80/francesca.htm
+http://web.archive.org/web/
+http://www.zen55564.zen.co.uk/
+
+Frank
+Mauro Mazzieri (ITA)
+https://web.archive.org/web/2019
+http://www.g-sei.org/frank/
+
+FrankWalter
+Laurens Winkelhagen (NLD)
+https://github.com/ljgw/frankwalter/releases
+http://computer-chess.org/doku.php?id=computer_chess:engines:frank-walter:index
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20090328213906/
+http://chess.winkelhagen.com/
+
+Franky
+Frank Kopp (DEU)
+https://github.com/frankkopp/FrankyUCIChessEngine
+
+FrankyGo
+Frank Kopp (DEU)
+https://github.com/frankkopp/FrankyGo
+
+Freda
+Shaun Howe (GBR)
+https://github.com/shaunihowe/freda
+https://rwbc-chess.de/download.htm
+
+FreeChess
+Ivan Maklyakov (RUS)
+https://rwbc-chess.de/download.htm
+
+Frenzee (Deep)
+Sune Fischer (DNK)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Frenzee%20%28Compilation%29/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/ChessCraft%200.96/
+http://web.archive.org/web/20061218032224/
+http://www.geocities.com/ruleren/frenzee.html
+
+Freyr
+Andrei Fortuna (ROU)
+https://web.archive.org/web/20131031153147/
+http://www.reocities.com/SiliconValley/Lab/3716/downloads.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Fridolin
+Christian Sommerfeld (DEU)
+https://sites.google.com/site/fridolinchess/
+
+Frittle
+Rohan Padhye (IND)
+http://sourceforge.net/projects/frittle/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Frozenight
+Mark Carlson (AUS)
+https://github.com/MinusKelvin/frozenight
+
+Fruit
+Fabien Letouzey (FRA)
+http://www.fruitchess.com/
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/
+http://wbec-ridderkerk.nl/html/download/fruit
+
+Gaïa
+Jean-Francois Romang (FRA)
+http://gaiachess.free.fr/
+
+Galjoen
+Werner Taelemans (BEL)
+http://www.goudengaljoen.be/
+
+Gandalf
+Steen Suurballe (DNK)
+http://www.amateurschach.de/download/_gandalf-older-versions.zip
+
+GarboChess
+Gary Linscott (CAN)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://github.com/glinscott/Garbochess-3/
+
+Gargamella
+Nicola Rizzuti (ITA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Gaviota
+Miguel A. Ballicora (ARG)
+http://web.archive.org/web/20221106225050/
+https://sites.google.com/site/gaviotachessengine/
+
+GChessIV
+Andrea Griffini (ITA)
+https://web.archive.org/web/2019
+http://www.g-sei.org/gchess-iv/
+
+GearHeart
+Josh Odom (USA)
+https://bitbucket.org/odomobo/gearheart
+https://www.mediafire.com/file/zavm61nbdu3q0rh/GearHeart-016-tp.zip/file
+
+Gedeone
+Luca Naddei (ITA)
+http://www.naddei.it/gedeone/gedeone.php
+https://web.archive.org/web/2019
+http://www.g-sei.org/gedeone/
+
+Geko
+Giuseppe Cannella (ITA)
+https://web.archive.org/web/20091027035404/
+https://sites.google.com/site/gekochess/
+https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/butterfly-chess-engine/geko_0.4.3.zip
+
+Genesis
+Omid David (ISR)
+https://web.archive.org/web/20070317100759/
+http://www.omiddavid.com/genesis/index.html
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Gerbil
+Bruce Moreland (USA)
+http://web.archive.org/web/20070826142516/
+http://www.seanet.com/~brucemo/gerbil/gerbil.htm
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+GES
+DavidB. Weller (USA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+GFCv2
+Guillermo Filia (ARG)
+http://sites.google.com/site/chronosce/downloads
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Ghost
+Philipp Claßen (DEU)
+http://www.ghostchess.de/
+http://www.ghostchess.de/ghost3-beta/index.html
+
+Gibbon
+Eric Marathee (FRA)
+http://perso.numericable.com/monique.marathee/gibbon_home_page.html
+
+Ginkgo
+Frank Schneider (DEU)
+https://en.chessbase.com/products/fritz-18
+
+Giraffe
+Matthew Lai (CAN)
+https://web.archive.org/web/20170713091347/
+https://bitbucket.org/waterreaction/giraffe
+https://web.archive.org/web/
+https://bitbucket.org/waterreaction/giraffe/downloads/
+
+GiuChess
+Giuliano Ippoliti (ITA)
+https://github.com/giuliano-ippoliti/GiuChess
+https://github.com/rchastain/GiuChess
+http://www.mediafire.com/file/g9tow3i4i55yrt9/GiuChess-10-tp.zip/file
+http://sourceforge.net/projects/giuchess/
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+
+GK
+Tijs van Dam (NLD)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Gladiator
+David Garcinuño Enríquez (ESP)
+https://github.com/dagaren/gladiator-chess
+https://sourceforge.net/projects/sjce/
+
+Glass
+Edmund Moshamer (AUT)
+Pawel Koziol (POL)
+http://www.pkoziol.cal24.pl/glass/
+
+Glaurung
+Tord Romstad (NOR)
+http://web.archive.org/web/20100217040537/
+http://www.glaurungchess.com/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Glaurung%20%28Compilation%29/
+
+Gnuchess
+John Stanback (USA)
+http://www.tim-mann.org/gnuchess.html
+https://web.archive.org/web/20201106232848/
+http://john.stanback.net/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Gnuchess5
+Chua Kong Sian (USA)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Gödel
+Juan Manuel Vazquez (ESP)
+https://web.archive.org/web/20220926075250/
+https://sites.google.com/site/godelchessengine/
+https://web.archive.org/web/20201010113446/
+https://sites.google.com/site/godelchessengine/downloads
+
+Gogobello
+Salvatore Gianotti (ITA)
+http://sasachess.altervista.org/gogobello/
+
+Goldfish
+Bendik Samseth (NOR)
+https://github.com/bsamseth/Goldfish
+
+Golem
+Gianluigi Masciulli (ITA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Googleplex Starthinker
+Jost Triller (DEU)
+https://gitlab.com/tsoj/Googleplex_Starthinker/
+
+GopherCheck
+Stephen J. Lovell (USA)
+https://github.com/stephenjlovell/gopher_check
+https://drive.google.com/open?id=0B-PM8aD2-9I4Q0M3Mnl6cUpRY0k
+
+Gosu
+Arkadiusz Paterek (POL)
+https://web.archive.org/web/20061109214122/
+http://rainbow.mimuw.edu.pl/~ap/gosu/gosu.html
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Gosu%20%28Compilation%29/
+
+Gothmog
+Tord Romstad (NOR)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Goyaz
+Wander A. Ferreira Jr. (BRA)
+http://web.archive.org/web/20201022232525/
+https://sites.google.com/site/wferreirajr/GOYAZ7.zip?attredirects=0
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Goyaz%207/
+
+GrayMatter
+Rajiv Bakulesh Shah (USA)
+https://code.google.com/archive/p/gray-matter/downloads
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+GreenLightChess
+Tim Foden (GBR)
+http://www.7sun.com/chess/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Green%20Light%20Chess%20%28Compilation%29/
+
+GreKo
+Vladimir Medvedev (RUS)
+http://greko.su/index_en.html
+https://sourceforge.net/projects/greko/files/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/GreKo%20%28Compilation%29/
+
+Gringo
+Markus Binder (AUT)
+https://web.archive.org/web/20071216002142/
+http://home.schule.at/cometo/gringo/
+
+Grizzly
+Michael Lawatsch (DEU)
+http://slengo.de/?page_id=26
+
+Gromit2
+Frank Schneider (DEU)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/GromitChess%20%28Compilation%29/
+http://web.archive.org/web/
+http://hobblefrank.homepage.t-online.de/AnacondaChess/gromit22.zip
+https://rwbc-chess.de/download.htm
+
+Gromit3
+Frank Schneider (DEU)
+http://sdchess.narod.ru/toplist-2n.htm
+
+GullChess
+Vadim Demichev (RUS)
+https://sourceforge.net/projects/gullchess/
+https://github.com/Velmarin/Chess-Gull-Syzygy/tree/3.1
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://github.com/basil00/Gull
+
+Gullydeckel
+Martin Borriss (DEU)
+https://github.com/borriss/gully
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://borriss.com/
+
+Gunborg
+Nilsson Torbjörn (SWE)
+https://github.com/torgnil/gunborg
+https://rwbc-chess.de/download.htm
+
+Gupta
+Jelle Geerts (NLD)
+https://sourceforge.net/projects/gambitchess/
+
+Hactar
+Jost Triller (DEU)
+https://github.com/tsoj/hactar
+
+Haddock
+Hans Blom (NLD)
+https://github.com/hiblom/haddock
+https://github.com/hiblom/haddock/commits/dev
+https://drive.google.com/drive/folders/1AuVJ15IzldglF6kvxzdhwxIreoNOB2xX
+https://rwbc-chess.de/download.htm
+
+Hagrid
+Klaus Friedel (DEU)
+http://www.friedelprivat.de/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Hagrid%20%28Compilation%29/
+
+Hakkapeliitta
+Aaarnos Miko (FIN)
+https://github.com/mAarnos/Hakkapeliitta
+https://github.com/mAarnos/Hakkapeliitta/tree/dev/
+https://github.com/mAarnos/Hakkapeliitta/tree/e0ac581654e5080549904e54ac8c19e7ff0fda3f/bin/windows
+https://github.com/mAarnos/Hakkapeliitta/blob/8b67b469feffc9f4b1c861fc76417fb5f2084e2a/bin/windows/Hakkapeliitta%202.0%20x64.exe
+https://github.com/mAarnos/Hakkapeliitta/tree/347cdda13b13e5cd2d047e38c01d60b7cba779f3/bin/windows
+
+Halcyon
+Nicholas Hamilton (USA)
+https://nrhamilton.com/#projects
+https://rwbc-chess.de/download.htm
+
+Halogen
+Kieren Pearson (AUS)
+https://github.com/KierenP/Halogen2
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Hamsters
+Alessandro Scotti (ITA)
+https://web.archive.org/web/20100613073901/
+http://ascotti.org/programming/chess/hamsters.htm
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Hannibal
+Sam Hamilton (USA)
+Edsel Apostol (PHL)
+https://web.archive.org/web/20230314031041/
+https://sites.google.com/site/edapostol/hannibal
+
+Hanzo The Razor
+Vigi Varkey (GBR)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://sourceforge.net/projects/hanzo/
+
+Haskak
+Karol M. Stasiak (POL)
+https://github.com/KarolS/HaskellChess
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Hayabusa
+Gunther Piez (DEU)
+https://github.com/gpiez/hayabusa
+https://rwbc-chess.de/download.htm
+
+HeavyChess
+Federico Andres Corigliano (ARG)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/HeavyChess%200.13%20beta/
+https://web.archive.org/web/20080921164216/
+http://ar.geocities.com/fedecorigliano/ajedrez/heavychess/
+
+Hedgehog
+Eugene Kotlov (RUS)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+Hedwig
+Michael Glatzmaier (USA)
+https://github.com/DoubleEspresso/chess
+https://github.com/DoubleEspresso/chess/commit/7f71caa2cfd74b39401455cb69d2362b0dbf92d7
+https://drive.google.com/open?id=0B-PM8aD2-9I4c0dIQmZBY0lJT1k
+
+Heimdall
+Mattia Giambirtone (ITA)
+https://git.nocturn9x.space/nocturn9x/heimdall
+https://github.com/nocturn9x/heimdall
+
+Heracles
+Franck Tempet (FRA)
+http://chessengine.free.fr/
+
+Heretic
+Martin Sedlak (CZE)
+http://www.mediafire.com/download/ohxab35ckj84dsy/heretic0.3.zip
+
+Hermann
+Volker Annuss (DEU)
+http://www.nnuss.de/Hermann/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Hermann%20%28Compilation%29/
+
+Hiarcs (Deep)
+Mark Uniacke (GBR)
+http://www.hiarcs.com/
+
+Hippocampe
+Jeremy Pages (FRA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+https://github.com/rchastain/hippocampe
+
+HoiChess
+Holger Ruckdeschel (DEU)
+http://web.archive.org/web/20230602174637/
+http://www.hoicher.de/hoichess/download/build/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+HokusPokus
+Pawel Czerminski (POL)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+Holmes
+Andreas Herrmann (DEU)
+https://web.archive.org/web/20120131122734/
+http://sanher.de/index.htm?lang=eng&url=blackbishop
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Homer
+Daniel Mehrmann (DEU)
+https://web.archive.org/web/20170630002520/
+http://www.homerchess.com:80/index-Dateien/Page360.htm
+
+Homura
+Ellie Moore (USA)
+https://github.com/RedBedHed/Homura
+https://rwbc-chess.de/download.htm
+
+HonzovySachy
+Jan Nemec (CZE)
+https://sx.rosada.cz/projects/honzovy-sachy
+https://github.com/Safrad/honzovy-sachy
+
+Hopeless
+Pawel Koziol (POL)
+http://www.pkoziol.cal24.pl/clericus/download.htm
+https://web.archive.org/web/20121030024047/
+http://hopelesschess.prv.pl/
+https://gitlab.com/rchastain/hopeless
+
+Hoplite
+Frans Ekman (FIN)
+http://www.fransekman.com/hoplite-chess-engine/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Hopper
+Jonathan McDermid (CAN)
+https://github.com/jonathanmcdermid/Hopper-Chess-Engine
+https://e4e6.com/download/
+
+Horizon
+Ron Murawski (USA)
+http://www.horizonchess.com/
+https://web.archive.org/web/
+http://www.horizonchess.com/
+
+Horowitz
+Lucas Oliveri (GBR)
+https://github.com/OliveriQ/horowitz
+
+Horus
+Pranav Deshpande (IND)
+https://github.com/pranav-deshpande/horus-chess/
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6ay04RjVtUDVTUG8
+https://github.com/universecoder/Horus-Chess-Engine/files/673756/Horus-Chess-Engine-master.zip
+
+Houdini
+Robert Houdart (BEL)
+http://web.archive.org/web/20230514120443/
+https://www.cruxis.com/chess/houdini.htm
+https://www.dropbox.com/s/h9w3pankltjqvy7/houdini-6-src-leaked.zip?dl=0&file_subpath=%2Fhoudini-master
+https://github.com/crossopterygian/Houdini_6
+https://groups.google.com/g/fishcooking/c/DygaIdBvJm0
+
+Hussar
+Peter Horvath (HUN)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+IACH
+Manuel Diaz (ESP)
+https://web.archive.org/web/20071011224143/
+http://telefonica.net/web2/alza2/
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Iathena
+Timothee Schmoderer (FRA)
+https://github.com/tschmoderer/iathena
+https://rwbc-chess.de/download.htm
+
+iCE
+Thomas Petzke (DEU)
+http://www.fam-petzke.de/cp_ice_en.shtml
+http://www.fam-petzke.de/cp_download_en.shtml
+
+ice4
+Mark Carlson (AUS)
+https://github.com/MinusKelvin/ice4
+
+ichess
+Lin Liao (USA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Ifrit
+Andrey Brenkman (RUS)
+https://github.com/LongWayA/Ifrit_chess_engine
+http://alphagameset.xyz/ifrit/ifrit_chess_engine.html
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20180821092106/
+https://bitbucket.org/abrenkman/ifrit_chess_engine/src
+https://web.archive.org/web/
+https://bitbucket.org/abrenkman/ifrit_chess_engine/
+
+Igel
+Volodymyr Shcherbyna (UKR)
+https://github.com/vshcherbyna/igel
+https://ci.appveyor.com/project/vshcherbyna/igel
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+iiChess
+Obrycka Chrusciel (POL)
+https://code.google.com/archive/p/iichess/source/default/source
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Ildtiadar
+Jonas Thiem (DEU)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Illumina
+Thomas Mergener (BRA)
+https://github.com/Mergener/illumina
+https://rwbc-chess.de/download.htm
+
+Inanis
+Pawel Osikowski (POL)
+https://github.com/Tearth/Inanis
+https://tearth.dev/
+
+Infrared
+Shaun Beautement (ZAF)
+https://github.com/SFBdragon/Infrared
+
+Infraredv2
+Shaun Beautement (ZAF)
+https://github.com/SFBdragon/Infrared2
+
+InmiChess
+Werner Inmann (AUT)
+https://web.archive.org/web/20091020124811/
+http://www.inmann.net/inmann/inmichess/
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Integral
+Aron Petkovski (MKD)
+https://github.com/aronpetko/integral
+
+Invictus
+Edsel Apostol (PHL)
+https://github.com/ed-apostol/InvictusChess
+https://rwbc-chess.de/download.htm
+
+iota
+Daniel White (GBR)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://github.com/DanielWhite94/iota/releases
+
+IQ23
+Mathias Müller (DEU)
+https://web.archive.org/web/20071016194144/
+http://www2.informatik.hu-berlin.de/~mmueller/chess.html
+
+Isa
+Daniel Anuliero (FRA)
+https://github.com/Dany1962/Isa-
+https://rwbc-chess.de/download.htm
+
+IZII
+Elliot Vilhelm Pourmand (USA)
+https://github.com/ElliotVilhelm/IZII
+
+Izumi-chan
+Tomasz Jaworski (POL)
+https://github.com/TomaszJaworski777/Izumi-chan
+https://biokirr.com/Chess/CCRL-Forum/download/file.php?id=55764
+https://github.com/eduherminio/Izumi-chan/actions/runs/8523434323
+
+Jabba
+Richard Allbert (GBR)
+https://web.archive.org/web/20160330134242/
+http://rja-software.com/Jabba.php
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Jacksprat
+Joshua Scholar (USA)
+https://github.com/differentprogramming/jacksprat
+
+JackyChess
+Matthias Lang (DEU)
+https://github.com/matthiaslang/jackychess
+
+JaksaH
+Aleksandar Jaksic (SRB)
+http://web.archive.org/web/20220517215408/
+https://www.biojaksic.info/jaksah
+https://docs.google.com/spreadsheets/d/1CKK0vdCe2OlDj2anxzY1LPgLR9ZQffOM3dn41THZN2s
+
+Jangine
+Jan-Frederik Konopka (DEU)
+https://github.com/xjcl/jangine
+
+JanWillem
+Laurens Winkelhagen (NLD)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://web.archive.org/web/20050910205856/
+http://www.students.cs.uu.nl/~lwinkelh/janwillem/
+
+JARS
+Daniel Anulliero (FRA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Javalin
+Andrew M. Brooks (USA)
+https://github.com/ambrooks1/andychess3
+https://code.google.com/archive/p/javalin-chess/
+https://sourceforge.net/projects/sjce/files/chess_engines_nb-src/
+
+Javelin
+Tomasz Jaworski (POL)
+https://github.com/TomaszJaworski777/Javelin
+
+Jazz (Orchestra)
+Evert Glebbeek (NLD)
+http://www.eglebbk.dds.nl/program/chess-index.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Jchecs
+David Cotton (FRA)
+http://jchecs.free.fr/en/index.php
+https://sourceforge.net/projects/jchecs/files/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Jchess
+Tomasz Michniewski (POL)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Jellyfish
+Mike Dokken (USA)
+https://sites.google.com/site/jellyfishchess/
+https://drive.google.com/drive/folders/1GFatujDlOwfUM4YZV8hMTiy1CLNsMu3i
+
+JENCE
+Joachim Enggard Nebel (DNK)
+https://github.com/JENebel/JENChessEngine
+
+Jester
+Marty Franz (USA)
+http://web.archive.org/web/20050210004415/www.eiganic.com/jester.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Jet
+Rafid Ahsan (BGD)
+https://github.com/rafid-dev/jet
+
+jFresh
+Christian Daley (USA)
+https://github.com/christiandaley/JFresh
+http://www.open-chess.org/download/file.php?id=591
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+
+JikChess
+Janne I. Kokkola (FIN)
+http://jik.kapsi.fi/jikchess/
+https://rwbc-chess.de/download.htm
+
+Joana
+Juan Pablo Mendoza (MEX)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://web.archive.org/web/20080219014412/
+http://linuxuanl.org/~jpablo/stuff/
+
+Joanna
+Adam Kujawski (POL)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20050307195525/
+http://www.apsys.waw.pl/joanna2002/
+
+Joker
+Harm-Geert Muller (NLD)
+https://home.hccnet.nl/h.g.muller/joker.html
+http://home.hccnet.nl/h.g.muller/dwnldpage.html
+
+Joker2
+Manlio Morini (ITA)
+https://www.eosdev.it/joker/
+https://github.com/morinim/joker
+https://drive.google.com/open?id=0B-PM8aD2-9I4Tkh2ZTFkbnRmVnM
+
+Jonesy
+Miguel Izquierdo (ESP)
+https://web.archive.org/web/20201025015426/
+https://sites.google.com/site/popochinchessengine/
+
+Jonny
+Johannes Zwanzger (DEU)
+http://www.mathe2.uni-bayreuth.de/20er/jonny/
+
+JSBam
+Bert van den Bosch (NLD)
+https://web.archive.org/web/20061110234201/
+http://members.chello.nl/b.bosch8/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/J.S.%20Bam%200.52/
+
+Jumbo
+Sven Schüle (DEU)
+http://www.schuelebln.de/chess/jumbo/
+
+Junior (Deep)
+Amir Ban (ISR)
+http://www.hiarcs.com/dj13/pc-chess-junior-download.htm
+
+Jupiter
+Michael Andersen (DNK)
+http://www.geocities.ws/miklan1406/
+
+K2
+Sergey Meus (RUS)
+https://github.com/serg-meus/k2/
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+Kace
+Aaron Baird (USA)
+https://web.archive.org/web/20040616015622/
+http://aaronbaird.net/kace/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Kanguruh
+Thomas McBurney (AUS)
+https://web.archive.org/web/20180821024127/
+http://home.pacific.net.au/~tommyinoz/kanguruh.html
+
+Karballo
+Alberto Alonso Ruibal (ESP)
+https://github.com/albertoruibal/karballo
+https://drive.google.com/open?id=14kIzkbbIA2CBgbVoaBcFS6crmxe13hjN
+https://sourceforge.net/projects/carballo/
+https://github.com/albertoruibal/carballo
+
+Karl's Sun
+Ayman Islam (EGY)
+https://github.com/Izy266/Karls-Sun
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+KasparovChess
+Eric Liu (CAN)
+https://drive.google.com/open?id=1SgjMCfuft4PMIJee_BFAF8jKoy1yiIvb
+
+KCChess
+Konstantin Serebryany (RUS)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Keele
+Martin Wyngaarden (USA)
+https://rwbc-chess.de/download.htm
+
+Kelp
+Gautam Dinghra (IND)
+https://github.com/gautam8404/kelp
+
+Kengine
+Ben-Hur Carlos Langoni Junior (BRA)
+https://github.com/bhlangonijr/kengine
+https://rwbc-chess.de/download.htm
+
+Kenny ClassIQ
+Sudarsan Balaji (IND)
+https://github.com/artfuldev/KennyClassIQ
+
+Kenny
+Sudarsan Balaji (IND)
+https://github.com/artfuldev/Kenny
+https://sourceforge.net/projects/kenny/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+KhepriChess
+Kurt Peters (USA)
+https://github.com/kurt1288/KhepriChess
+
+KillerQueen
+Lorenzo Stella (ITA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Kimbo
+Jamie Whiting (GBR)
+https://github.com/JacquesRW/Kimbo
+
+King's Out
+Bernd Nuernberger (DEU)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Kingfisher
+Eric Yip (HKG)
+https://github.com/eric-ycw/kingfisher
+https://rwbc-chess.de/download.htm
+
+KingOfKings
+Koundinya Veluri (CAN)
+https://web.archive.org/web/20050407094355/
+http://www.kingofkingschess.com/kingofkings/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+KingSlayer
+Harm Geert Muller (NLD)
+http://hgm.nubati.net/cgi-bin/gitweb.cgi?p=simple.git;a=summary
+https://rwbc-chess.de/download.htm
+
+Kishi
+Alex Shinn (JPN)
+http://synthcode.com/scheme/kishi.scm
+http://www.mediafire.com/download/tfd5yqyzjx1/kishi_ja.zip
+
+Kitteneitor
+Emilio Diaz (ESP)
+https://github.com/emdio/kitteneitor/
+
+Kiwi
+Alessandro Scotti (ITA)
+https://web.archive.org/web/20060114151205/
+http://www.ascotti.org/programming/chess/chess.htm
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+KKFChess
+Andrew Fan (HKG)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+KMTChess
+Paul Villanueva (ESP)
+http://sourceforge.net/projects/kmtchess/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+KnightCap
+Andrew Tridgel (AUS)
+https://www.samba.org/KnightCap/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://www.open-aurec.com/wbforum/engines/KnightCap_36_af.rar
+
+KnightDreamer
+Johan Melin (SWE)
+http://tinyurl.com/ofdnyrz/
+
+Knightmare
+Mike Leany (USA)
+http://www.mikeleany.com/knightmare
+
+KnightX
+Christophe Jolly (FRA)
+http://technochess.free.fr/
+
+KnockOut
+Sven Schüle (DEU)
+http://www.schuelebln.de/chess/knockout/
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Kobra
+Jasper Sinclair (USA)
+https://github.com/jasper-sinclair/kobra
+
+Koedem
+Kolja Kühn (DEU)
+https://github.com/koedem/Koedem
+https://www.dropbox.com/s/23svm6cp7u503jb/Koedem-1.0.jar?dl=0
+
+Koivisto
+Finn Eggers (DEU)
+Kim Kahre (FIN)
+https://github.com/Luecx/Koivisto
+https://koivisto-chess.com/
+http://ipmanchess.yolasite.com/compiles.php
+https://rwbc-chess.de/download.htm
+
+Komodo
+Don Dailey (USA)
+https://komodochess.com/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Doch%201.3.4%20JA/
+
+Krudo
+Francesco Bianco (ITA)
+https://github.com/francescobianco/Krudo
+https://sourceforge.net/p/krudo/code/HEAD/tree/
+https://sourceforge.net/projects/sjce/
+
+Ktulu
+Rahman Paidar (IRN)
+http://web.archive.org/web/20080131142610/
+http://rahman85.tripod.com/rahman.html
+http://www.lokasoft.nl/
+
+Kurt
+Oliver Uwira (DEU)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+La Dame Blanche
+Marc-Philippe Huget (FRA)
+http://www.quarkchess.de/ladameblanche/
+
+LadyGambit
+Carlo Pivotto (ITA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Lambchop
+Peter McKenzie (NZL)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Lambergar
+Janez Podobnik (SVN)
+https://github.com/jabolcni/Lambergar
+
+LaMoSca
+Pietro Valocchi (ITA)
+http://www.valocchi.it/lamosca/
+
+LarsenVB
+Luca Dormio (ITA)
+https://web.archive.org/web/20230205114611/
+http://xoomer.virgilio.it:80/ludormio/download.htm
+
+Laser
+Jeffrey & Michael An (USA)
+https://github.com/jeffreyan11/uci-chess-engine/releases
+
+Laurifer
+Robert Lubczynski (POL)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+LC0
+Gary Linscott (CAN)
+Folkert Huizinga (NLD)
+Andy Olsen (DNK)
+Alexander Lyashuk (RUS)
+Johannes Kiliani (DEU)
+Francois Pays (FRA)
+Ankan Banerjee (IND)
+https://lczero.org/
+https://lczero.org/blog/
+https://github.com/LeelaChessZero/lc0
+https://ci.appveyor.com/project/LeelaChessZero/lc0/history
+http://training.lczero.org/networks/?show_all=0
+https://github.com/LeelaChessZero/lczero
+https://discord.gg/pKujYxD
+https://groups.google.com/g/lczero
+
+Leandor
+Oliver Leenders (DEU)
+https://github.com/FeudMe/ChessEngineVS
+
+LeDjo
+Georges Cosson (FRA)
+https://github.com/stressGC/Java-Chess-Engine/tree/master/build
+
+Leila
+Carmelo Calzerano (ITA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Leokom
+Leonid Rozenbluym (RUS)
+https://github.com/lrozenblyum/chess
+
+Leonidas
+Evert Glebbeek (NLD)
+http://www.eglebbk.dds.nl/program/chess-index.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Leorik
+Thomas Jahn (DEU)
+https://github.com/lithander/Leorik
+
+Lightning (The)
+Marius Kowalczyk (DEU)
+http://web.archive.org/web/20030404200859/
+http://520014803594.bei.t-online.de/
+
+Lime
+Richard Allbert (GBR)
+https://web.archive.org/web/20150416221454/
+http://rja-software.com/Lime.php
+https://web.archive.org/web/20121120221516/
+http://www.geocities.com/taciturn_lemon/downloads.htm
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Lishex
+Michael Kurek (USA)
+https://github.com/MKJM2/lishex
+
+List
+Fritz Reul (DEU)
+https://zipproth.de/chess/downloads/
+
+LittleGoliath
+Michael Borgstädt (DEU)
+http://www.goliathchess.de/home.html
+
+LittleLelouch
+Abdelrhman Ibrahim (EGY)
+https://github.com/AbdelrhmanIbrahim/Little_Lelouch_01
+https://github.com/AbdelrhmanIbrahim/Little_Lelouch_01/tree/ae26d7f0c5b1000b8de37c8155081ffa06e521b1/Debug
+
+LittleThought
+Nathan Thom (AUS)
+http://www.kimiensoftware.com/littlethought/littlethought.php
+
+LittleWing
+Vincent Ollivier (FRA)
+https://vinc.cc/bin/
+https://github.com/vinc/littlewing
+
+Lizard
+Liam McGuire (USA)
+https://github.com/liamt19/Lizard
+
+LizardBrain
+Pawel Koziol (POL)
+https://github.com/nescitus/LizardBrain
+
+Lodocase
+Jean & Xavier Bouchet (BEL)
+https://web.archive.org/web/
+http://users.skynet.be/lodocase/
+
+Loki
+Niels Abildskov (DNK)
+https://github.com/BimmerBass/Loki
+
+Loop
+Fritz Reul (DEU)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+LordKing
+Carlo Pivotto (ITA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Lovelace
+Jean Marc Alliot (FRA)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Lozza
+Colin Jenkins (GBR)
+https://github.com/op12no2/lozza
+https://web.archive.org/web/20180821055450/
+http://op12no2.me/toys/lozza/lozza.js
+https://github.com/op12no2/lozza-ui
+http://tonyschess.x10host.com/OldLozzaZiggurat.7z
+
+Lumac0
+Davide Bencini (ITA)
+https://github.com/dbenson42/Lumac0
+
+Luna
+Thomas Mergener (BRA)
+https://github.com/Mergener/lunachess
+https://rwbc-chess.de/download.htm
+
+Lux
+Roy Moulik Sidhant (USA)
+https://github.com/Sidhant-Roymoulik/Lux
+
+Luzhin
+Anton Emelyanov (RUS)
+http://code.google.com/p/luzhin/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Lxna
+Ludovic Debever (FRA)
+https://github.com/Lxdovic/Lxna
+https://rwbc-chess.de/download.htm
+
+Lynx
+Eduardo Caceres (ESP)
+https://github.com/lynx-chess/Lynx
+
+M24gc
+Matt Stevens (GBR)
+https://github.com/m24gstevens/Chess/tree/main/engines/m24gc
+https://github.com/m24gstevens/Chess/tree/main/engines/m24gc/1.1
+
+mACE II
+Thomas Petzke (DEU)
+http://macechess.blogspot.de/
+http://www.fam-petzke.de/cp_download_en.shtml
+
+Macromix
+Valeriy Pererodov (UKR)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+MadChess
+Erik Madsen (USA)
+http://www.madchess.net/
+http://www.madchess.net/rumbleminze-downloads/
+https://github.com/ekmadsen/MadChess
+
+Madeleine
+Luigi Ripamonti (ITA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Madlenka
+Peter Garscha (AUT)
+https://web.archive.org/web/20160319130648/
+http://www.chess4linux.net/
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6ay04RjVtUDVTUG8
+
+Maelstrom
+Saigautam Bonam (USA)
+https://github.com/saisree27/Maelstrom
+
+Magnum Chess
+Eric Stock (CAN)
+http://code.google.com/p/magnumchess/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Magnum%20Chess%20%28Compilation%29/
+
+Magog
+Maciej Smolczewski (POL)
+https://github.com/macsmol/magog
+
+Mainsworthy
+Mark Ainsworth (GBR)
+https://github.com/gameleaper/mainsworthy-old-new
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+MangoPaola4
+José Andrés Morales Linares (ESP)
+http://mangocomputerca.blogspot.de/
+
+Mantissa
+Jeremy Wright (USA)
+https://github.com/jtheardw/mantissa
+
+Marginal
+Alexander Turikov (RUS)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+Markovian
+Naftali Harris (USA)
+https://sourceforge.net/projects/markovian/
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+http://www.naftaliharris.com/blog/chess/
+https://github.com/naftaliharris/markovian
+
+Marquis
+Roland Marquis (CHE)
+http://www.marquisnet.ch/marquisce/ch.htm
+
+Marvin
+Martin Danielsson (SWE)
+https://github.com/bmdanielsson/marvin-chess
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://drive.google.com/file/d/11wpgQg-VRFrklPp2fLxcsM14P3cbxnao/view?usp=drive_open
+
+Matacz
+Maciej Pestka (POL)
+http://www.computer-chess.org/doku.php?id=computer_chess:engines:matacz:index
+https://web.archive.org/web/20081218194842/
+http://matacz.110mb.com/Matacz.html
+
+Matant
+Antoni Sczcepanski (POL)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Matant%20%28Compilation%29/
+
+Matheus
+Josue Forte (BRA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Matilde
+Andrea Lanza (ITA)
+https://web.archive.org/web/20120822202224/
+http://www.cds.pc.it/Matilde/CorpoDownload.htm
+
+MatMoi
+Mathieu Page (CAN)
+https://web.archive.org/web/20170131201817/
+http://mathieupage.com/
+
+Maverick
+Steve Maughan (GBR)
+http://www.chessprogramming.net/
+https://cozmixdownloads.s3.amazonaws.com/maverick/Maverick%20Source%20%282015-10-28%29.zip
+
+Maxima2
+Hermen Reitsma (NLD)
+https://github.com/hof/qm2
+https://www.dropbox.com/s/4jzbi8te42319wf/qm2-master.7z?dl=0
+
+Maxwell
+E. Boatwright (USA)
+https://github.com/eboatwright/Maxwell
+
+mchess2
+Michael Jørgensen (DNK)
+https://github.com/MJoergen/mchess2
+
+Mediocre
+Jonatan Petersson (SWE)
+http://mediocrechess.blogspot.com/
+https://sourceforge.net/projects/mediocrechess/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Mediocre%20Chess%20%28Compilation%29/
+
+Megalodon
+Patrick Huang (USA)
+https://github.com/megalodon-chess/megalodon
+https://rwbc-chess.de/download.htm
+
+Mephisto
+Richard Lang (GBR)
+Ed Schröder (NLD)
+https://web.archive.org/web/20160321143204/
+http://www.top-5000.nl/dl/mephisto-138d-uci-setup.zip
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Merlin
+Balacs Jako (HUN)
+https://web.archive.org/web/20111018041406/
+http://www.hun-digital.hu/merlin/index_en.html
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Merlin%20%28Compilation%29/
+
+Mess
+Rak Laptudirm (IND)
+https://github.com/raklaptudirm/mess
+
+MFChess
+Mats Forsén (SWE)
+http://wayback.archive.org/web/20070201000000
+http://home.texoma.net/~garnax/files/mfchcode.zip
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Micah
+Folkert van Heusden (NLD)
+https://github.com/folkertvanheusden/Micah/
+https://web.archive.org/web/20201106235925/
+https://www.vanheusden.com/cchess/
+https://rwbc-chess.de/download.htm
+
+micro-Max
+Harm-Geert Muller (NLD)
+http://home.hccnet.nl/h.g.muller/dwnldpage.html
+http://home.hccnet.nl/h.g.muller/max-src2.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+MicroChess 1976
+Peter Jennings (GBR)
+http://www.andreadrian.de/schach/index.html
+http://www.benlo.com/microchess/index.html
+
+Midnight
+Archishmaan Peyyety (USA)
+https://github.com/archishou/MidnightChessEngine
+
+Milady
+Yves Lejeail (FRA)
+http://milady-chess.blogspot.fr/
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Minace
+Timo Aaltonen (FIN)
+https://github.com/zekyll/Minace
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+
+Minic
+Vivien Clauzon (FRA)
+https://github.com/tryingsomestuff/Minic
+https://github.com/tryingsomestuff/Minic-Dist
+https://github.com/tryingsomestuff/NNUE-Nets
+https://www.mediafire.com/file/3e8p4ik82pegb98/minic-04-TP.zip/file
+
+MiniChessAI
+Marcin Gardyjan (POL)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+MinimalChess
+Thomas Jahn (DEU)
+https://github.com/lithander/MinimalChessEngine
+https://github.com/lithander/MinimalChessEngine/releases/tag/MakingOfPart4
+
+MiniMardi
+Juan Pablo Fernandez Alvarez (SWE)
+http://web.archive.org/web/20100209002508/
+http://user.it.uu.se/~jufe1771/minimardi/minimardi.html
+https://sourceforge.net/projects/minimardi/
+
+MiniMax
+Dieter Steinwender (DEU)
+Christian Donninger (AUT)
+https://web.archive.org/web/20180820103947/
+http://home.pacific.net.au/%7Etommyinoz/minimax.html
+
+MinkoChess
+Borko Boškovic (SVN)
+https://web.archive.org/web/20170808201217/
+http://labraj.feri.um.si/en/Chess_program_MinkoChess
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://sourceforge.net/projects/umko/
+
+Minnow
+Kyle Davis (USA)
+https://github.com/tm512/minnow
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6ay04RjVtUDVTUG8
+
+Mint
+Christian Söderström (SWE)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://talkchess.com/viewtopic.php?t=83557
+
+MisterQueen
+Michael Fogleman (USA)
+https://github.com/fogleman/MisterQueen
+https://rwbc-chess.de/download.htm
+
+Mizar
+Nicola Rizzuti (ITA)
+https://github.com/qut-inb304/Mizar-Chess
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Mobmat
+Vince Sempronio (USA)
+https://sourceforge.net/projects/mobmat/
+
+Molybdenum
+Hannes Lerchl (DEU)
+https://github.com/rn5f107s2/Molybdenum
+
+Monarch
+Steve Maughan (GBR)
+http://www.monarchchess.com/
+
+Monchester
+Taimo Peelo (EST)
+https://github.com/unserializable/monchester
+https://github.com/unserializable/monchester/tree/master/binaries
+https://rwbc-chess.de/download.htm
+
+Monik
+Sylvain Lacombe (CAN)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://github.com/slacombe/monik
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Monochrome
+Matthew Brades (USA)
+Manik Charan (IND)
+George Koskeridis (GRC)
+Robert Taylor ()
+Folkert van Heusden (NLD)
+https://github.com/CPirc/Monochrome/
+https://drive.google.com/file/d/0B9voFYjJVtn_RlpsSWtrd2RrbFE
+
+Monolith
+Jonas Mayr (DEU)
+https://github.com/cimarronOST/Monolith
+
+Monty
+Jamie Whiting (GBR)
+https://github.com/jw1912/monty
+https://github.com/official-monty/Monty
+
+Mooboo
+Steffen Basting (DEU)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Mora
+Gonzalo Arro (ARG)
+https://github.com/gonzaloarro/MORA-CHESS-ENGINE
+
+Morphy
+Eric Walstra (NLD)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+MorphyChess
+Marcello Dominic (USA)
+https://github.com/dmarce1/MorphyChess
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+
+Motor
+Martin Novak (CZE)
+https://github.com/martinnovaak/motor
+
+Moustique
+Roland Chastain (FRA)
+Jürgen Schlottke (DEU)
+https://gitlab.com/rchastain/moustique
+https://github.com/rchastain/moustique
+
+Movei
+Uri Blass (ISR)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+MrBob
+Yu Vincent (CAN)
+https://github.com/bobsquared/Mr_Bob_Chess
+
+MrChess
+Aloysius Han (SGP)
+https://web.archive.org/web/20030201195118/
+http://www.geocities.com/superchesscraze/drchess.htm
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+MSCP
+Marcel van Kervinck (NLD)
+https://web.archive.org/web/20201106235513/
+https://marcelk.net/mscp/
+https://web.archive.org/web/20130525161756/
+http://marcelk.net/mscp/download/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Mufasa
+Alikhan Sirgaliyev (KAZ)
+https://github.com/kanin9/mufasa
+
+Murderhole
+Eric Oldre (USA)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+Muriel
+Manuel Jesus Petit de Gabriel (ESP)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://web.archive.org/web/20050827210745/
+http://www.freston.org/muriel.html
+
+Murka
+Igor Korshunov (BLR)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+Muse
+Martin Fierz (CHE)
+http://www.fierz.ch/muse.htm
+
+Mustang
+Alexey Korneychuk (BLR)
+http://www.chessmustang.narod.ru/index_en.htm
+
+Myrddin
+John Merlino (USA)
+http://computer-chess.org/doku.php?id=computer_chess:engines:myrddin:index
+https://github.com/JVMerlino/Myrddin
+
+Mystery
+Fabian Müller (DEU)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Mystery%20v2.1/
+
+MyTeacheR
+Mickael Faivre-Macon (FRA)
+https://github.com/micktaiwan/MyTeacheR/archive/master.zip
+https://github.com/micktaiwan/MyTeacheR
+http://talkchess.com/forum3/viewtopic.php?f=2&t=71365&p=806412&hilit=myteacher#p806389
+
+N.E.G.
+Harm-Geert Muller (NLD)
+http://home.hccnet.nl/h.g.muller/dwnldpage.html
+http://talkchess.com/forum3/viewtopic.php?f=7&t=54757&start=30#p872866
+https://rwbc-chess.de/download.htm
+
+N2
+Ralf Schaefer (DEU)
+http://web.archive.org/web/20220304104904/
+http://www.lehmimkeller.de/chess/n2_index.html
+
+NagaSkaki
+Neels Groenewald (ZAF)
+https://web.archive.org/web/20161017225720/
+http://www.mayothi.com/nagaskaki.html
+
+Nakshatra
+Gautham Bhat (USA)
+https://github.com/goutham/nakshatra
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Nalwald
+Jost Triller (DEU)
+https://gitlab.com/tsoj/Nalwald/-/releases
+https://github.com/tsoj/Nalwald
+
+Nanook
+Julien Gonçalves (FRA)
+http://nanook-chess.blogspot.de/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Nanook%20%28Compilation%29/
+
+nanoSzachy
+Piotr Cichy (POL)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/NanoSzachy%20%28Compilation%29/
+https://web.archive.org/web/
+http://www.kalisz.mm.pl/%7Epic/nanochess/
+
+Napoleon
+Marco Pampaloni (ITA)
+https://github.com/crybot/Napoleon
+http://www.pierotofy.it/pages/projects/files.php?id=639
+
+Natwarlal
+Pallav Nawani (IND)
+https://web.archive.org/web/20170922090820/
+http://www.ironcode.com/data/chess/natwarlal014-bin.zip
+https://web.archive.org/web/
+http://www.ironcode.com/data/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Naum
+Aleksandar Naumov (CAN)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://web.archive.org/web/20131030052154/
+http://www.superchessengine.com/naum2_0.zip
+https://web.archive.org/web/20071030074637/
+http://www.superchessengine.com/naum.htm
+https://web.archive.org/web/
+http://www.geocities.com/naum_chess/
+https://web.archive.org/web/20120607021159/
+http://naumchess.brinkster.net/faq.html
+https://rwbc-chess.de/download.htm
+
+Nebiyu
+Daniel Shawul (ETH)
+https://sites.google.com/site/dshawul/home
+
+Nebula
+Dragan Zdravkovic (CAN)
+https://web.archive.org/web/20210314163424/
+http://sites.google.com/site/nebulachess/
+
+Needle
+Mikko Nummelin (FIN)
+https://web.archive.org/web/20150104230753/
+http://math.aalto.fi/~mnummeli/tite/needle.en.html
+
+Nejmet
+Jean-Christophe Gabillard (FRA)
+https://web.archive.org/web/20070814195510/
+http://membres.lycos.fr/nejmet/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Nejmet%20%28Compilation%29/
+
+Nemeton
+Stan Arts (NLD)
+https://1drv.ms/u/s%21AoJ9t41CkccXhzIcEDnuLk5ugtjS
+https://rwbc-chess.de/download.htm
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Nemo
+Michael Hoffmann (DEU)
+http://www.computer-chess.org/doku.php?id=computer_chess:engines:nemo:index
+
+Nemorino
+Christian Günther (DEU)
+https://bitbucket.org/christian_g_nther/nemorino
+https://bitbucket.org/christian_g_nther/nemorino/downloads/?tab=tags
+https://bitbucket.org/christian_g_nther/nemorino/commits/
+https://rwbc-chess.de/download.htm
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Neocortex
+Justin Stanley (USA)
+https://github.com/codeandkey/neocortex
+https://rwbc-chess.de/download.htm
+
+Neophyte
+William Hogarth (GBR)
+http://neophyte.sourceforge.net/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Nero
+Jari Huikari (FIN)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://web.archive.org/web/
+http://www.mit.jyu.fi/~huikari/
+
+Nesik
+Marek Strejczek (POL)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Nesik%200.7.0%20alpha/
+https://web.archive.org/web/20080801171814/
+http://nesik.republika.pl/index.html
+
+Neuromancer
+Mateo Gjika (ALB)
+https://github.com/mateog03/neuromancer
+
+Neurone
+Luca Lissandrello (ITA)
+https://web.archive.org/web/2019
+http://www.g-sei.org/neurone/
+https://web.archive.org/web/20170921110425/
+http://www.lissandrello.it/?p=524
+https://web.archive.org/web/
+http://www.g-sei.org/
+
+Neurosis
+Stan Arts (NLD)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+NewRival
+Chris Moreton (GBR)
+http://www.redhotpawn.com/rival/download/download.php
+https://github.com/chris-moreton/rivalchess-windows
+
+NG-Play
+George Georgopoulos (GRC)
+https://web.archive.org/web/20201106232655/
+http://users.otenet.gr/~yggeorgo/
+https://github.com/ggeorgochess/pages
+https://www.ct800.net/download/NGplay_9.87b.zip
+
+Nibble
+Ibai Burgos Sanchez (ESP)
+https://github.com/IbaiBuR/Nibble
+https://rwbc-chess.de/download.htm
+
+Nicarao_Chess
+Deybis Melendez (NIC)
+https://github.com/DeybisMelendez/NicaraoChess
+
+Nimzo
+Christian Donninger (AUT)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Nino
+Alfredo Jose Luzon (DOM)
+https://github.com/allfre2/nino
+
+NirvanaChess
+Thomas Kolarik (USA)
+http://nirvanachess.blogspot.com/
+
+NoC
+Jorge Fernandes (ESP)
+https://github.com/usr25/NoC
+https://mega.nz/folder/uW5V2CBJ#USwv3qPaFCtcB3kLk3xriA
+
+Noonian
+Charles Roberson (USA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+NoraGrace
+Eric Oldre (USA)
+https://github.com/ericoldre/NoraGrace-Chess
+
+NSVChess
+Nicolas Velin (FRA)
+https://web.archive.org/web/20100823192254/
+http://nsv13.free.fr/nsvchess/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/NSVChess%20%28Compilation%29/
+
+NuclearChess
+Michael Abayneh (USA)
+https://github.com/michabay05/NuclearChess
+
+Numbit
+Nuvit Bayurgil (TUR)
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6eXNzdDVGVE1aNGM
+
+Numpty
+Chris Tatham (GBR)
+http://web.archive.org/web/20201020102648/
+https://sites.google.com/site/numptychess/
+
+O'Chess
+Oleg Trott (USA)
+https://web.archive.org/web/20190812105247/
+http://www.olegtrott.com/chess
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Obender
+Evgeniy Korniloff (RUS)
+http://serg-nifont.narod.ru/obender.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20171021141016/
+http://mypage.sbor.net/e_k/
+https://web.archive.org/web/
+http://www.sbor.net/~e_k/
+
+Oberon
+Pawel Koziol (POL)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Obsidian
+Gabriele Lombardo (ITA)
+https://github.com/gab8192/Obsidian
+https://drive.google.com/file/d/1_xB3S9L_7UaMdwRU6f7l7JSQfpW1esd9
+
+OctoChess
+Tim Kosse (DEU)
+https://svn.filezilla-project.org/filezilla/chess/
+http://octochess.org/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Odonata
+Andy Watkins (GBR)
+https://github.com/akanalytics/odonata
+
+Olithink
+Oliver Brausch (DEU)
+http://brausch.org/home/chess/
+https://github.com/olithink/OliThink
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/OliThink%20%28Compilation%29/
+
+OliveChess
+Olivier Herau (FRA)
+http://sourceforge.net/projects/olivechess/
+https://sourceforge.net/projects/olivechess/files/latest/download
+https://code.google.com/archive/p/olivechess/downloads
+http://code.google.com/p/olivechesscpp/
+
+Omar
+Victor Rodriguez Doncel (ESP)
+https://web.archive.org/web/20210511153924/
+http://vroddon.sdf-eu.org/ajedrez/ajedrez.html
+
+Onno
+Onno Garms (DEU)
+
+
+Orion
+David Carteau (FRA)
+https://www.orionchess.com/
+https://github.com/david-carteau/cerebrum
+
+Overhead
+Blake Johnson (USA)
+https://github.com/bjohnsonfl/Overhead-Chess-Engine-
+https://drive.google.com/file/d/13Fvv1Oj2vO6PbpzXKsclSZ_svNNGpny-/view?usp=sharing
+
+Ozwald
+Jori Ostrovskij (FIN)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+P4wn
+Douglas Bagnall (NZL)
+Oliver Merkel (DEU)
+http://p4wn.sourceforge.net/
+https://sourceforge.net/projects/jsuci/
+
+Paladin
+Ankan Banerjee (IND)
+https://github.com/ankan-ban/chess_cpu
+
+Parrot
+Johanes Suhardjo (USA)
+http://www.nd.edu/~johanes/parrot.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Patricia
+Adam Kulju (CAN)
+https://github.com/Adam-Kulju/Patricia
+
+Patzer (Deep)
+Roland Pfister (DEU)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+http://tonyschess.x10host.com/Patzer.rar
+
+paulchen332
+Philipp Lenk (DEU)
+https://github.com/philipplenk/paulchen332
+https://codemetas.de/2020/11/22/The-Royal-Game.html
+
+Pawny
+Mincho Georgiev (BGR)
+https://web.archive.org/web/20190805192504/
+http://pawny.netii.net/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+pChess
+John Roland Penner (CAN)
+http://wayback.archive.org/web/20141104084110/
+http://www.chess.com:80/download/view/pchess-20
+http://wayback.archive.org/web/20150919065614/
+http://files.chesscomfiles.com/download_files/2302/pChess-20.zip
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6eXNzdDVGVE1aNGM
+
+Peacekeeper
+Kyle Zhang (USA)
+https://github.com/Sazgr/peacekeeper
+
+Pedantic
+JoAnn Peeler (USA)
+https://github.com/JoAnnP38/Pedantic
+
+Pedone
+Fabio Gobbato (ITA)
+https://sites.google.com/site/pedonechess/
+
+Pentagon
+Andrea Gatti (ITA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Pepito
+Carlos del Cacho (ESP)
+http://www.quarkchess.de/pepito/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Pepito%20%28Compilation%29/
+
+Peripheral
+Loek Vissers (NLD)
+https://github.com/Loev06/Peripheral
+
+PeSTO
+Ronald Friederich (NLD)
+http://rofchade.nl/
+
+Petir
+Peter Alloysius (IDN)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Petir%20%28Compilation%29/
+
+Phalanx
+Dušan Dobeš (CZE)
+https://sourceforge.net/projects/phalanx/files/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Pharaon
+Franck Zibi (FRA)
+https://web.archive.org/web/20160319095602/
+http://www.fzibi.com/pharaon.htm
+https://web.archive.org/web/20021119005412/
+http://www.fzibi.com/pharaon/pharaon.zip
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Pharaon%20aka%20ZChess%20%28Compilation%29/
+
+Philemon
+Dominik Käser (CHE)
+https://web.archive.org/web/20130115101752/
+http://philemon.cycovery.com/bin.zip
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Philou
+Philippe Gailhac (FRA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Pierre
+Alex Boby (CAN)
+https://web.archive.org/web/20180715154331/
+http://alexboby.com/pierre/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Pigeon
+Stuart Riffle (CAN)
+https://web.archive.org/web/20211221021006/
+http://pigeonengine.com/
+https://github.com/StuartRiffle/pigeon
+https://rwbc-chess.de/download.htm
+
+Piglet
+Paul Webster (GBR)
+https://github.com/paulrwebster/Piglet
+
+pikoSzachy
+Piotr Cichy (POL)
+https://web.archive.org/web/
+http://www.kalisz.mm.pl/%7Epic/nanochess/
+
+Pingu
+William Ching (GBR)
+https://github.com/WillChing01/Chess_3
+
+Piranha
+Martin Villwock (DEU)
+http://www.villwock.com/piranha/
+
+Pirarucu
+Raoni Campos (BRA)
+https://github.com/ratosh/pirarucu/
+
+PlentyChess
+Patrick Leonhardt (DEU)
+https://github.com/Yoshie2000/PlentyChess
+
+Plisk
+Vlad Stamate (USA)
+http://web.archive.org/web/20221104154002/
+http://sites.google.com/site/pliskchess/
+
+Plywood
+Jim Bumgardner (USA)
+http://www.jbum.com/software.html
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+PolarChess
+Odd Gunnar Malin (NOR)
+https://github.com/OGMalin/Polarchess/releases
+https://github.com/OGMalin/Polarchess
+
+PolarEngine
+Odd Gunnar Malin (NOR)
+http://web.archive.org/web/20100922051419/
+http://home.online.no/~malin/sjakk/
+https://github.com/OGMalin/PolarEngine
+
+Polaris
+Conor Anstey (GBR)
+https://github.com/Ciekce/Polaris
+
+Pooky
+Dave Dahlem (USA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+PoorLittlePinkus
+Helge Milde (NOR)
+http://github.com/helgefmi/Poor-little-pinkus
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Popochin
+Miguel Izquierdo (ESP)
+https://sites.google.com/site/popochinchessengine/
+https://web.archive.org/web/20201025015426/
+https://sites.google.com/site/popochinchessengine/
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Porucnik
+Mariusz Rostek (POL)
+http://strony.toya.net.pl/~sierzant29/
+
+POS
+Folkert van Heusden (NLD)
+https://vanheusden.com/chess/pos/
+https://vanheusden.com/chess/DeepBrutePos/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+postbot
+Martin Schreiber (DEU)
+https://github.com/postnerd/postbot
+
+Postmodernist
+Andrew Williams (GBR)
+https://web.archive.org/web/20160313080433/
+http://homepage.ntlworld.com/postmodernist/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/PostModernist%20[xboard]%20%28Compilation%29/
+
+Powder
+Denis Gruzdev (RUS)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+Prechess
+José Lauro Strapasson (BRA)
+http://joselauro.tripod.com/prechess-en.html
+
+Predateur
+Julien Marcel (FRA)
+http://predateur-chess.blogspot.com/
+
+Presbyter
+Jefferson Wilson (USA)
+https://sourceforge.net/projects/sjce/files/chess_engines_nb-src/
+
+Princhess
+Lana Samson (USA)
+Jacob Jackson (CAN)
+https://github.com/princesslana/princhess
+https://github.com/zxqfl/sashimi
+
+ProChess
+Edoardo Manino (ITA)
+https://rwbc-chess.de/download.htm
+
+ProDeo
+Ed Schröder (NLD)
+http://web.archive.org/web/20230622210022/
+http://rebel13.nl/index.html
+
+Project Invincible
+Jyrki Vesterinen (FIN)
+http://project-invincible.sourceforge.net/
+
+Prometheus
+Alex Gisi (USA)
+https://github.com/AlexGisi/prometheus-chess
+https://rwbc-chess.de/download.htm
+
+Prophet
+James Swafford (USA)
+https://web.archive.org/web/20080210214339/
+http://chessprogramming.org/prophet/
+https://web.archive.org/web/20080521024811/
+http://chessprogramming.org/prophet/changelog.php
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Prophet3
+James Swafford (USA)
+https://github.com/jswaff/prophet3
+https://web.archive.org/web/20230321235454/
+http://www.jamesswafford.com/
+
+Prophet4
+James Swafford (USA)
+https://github.com/jswaff/prophet
+
+Protector
+Raimund Heid (DEU)
+https://sourceforge.net/projects/protector/
+https://sourceforge.net/p/protector/code/HEAD/tree/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+Protej
+Alex Brunetti (ITA)
+https://protej.info/
+
+Pseudo
+Jan Klima (CZE)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Puca
+Shaun Howe (GBR)
+https://github.com/shaunihowe/pucachess
+
+Puffin
+Kurt Peters (USA)
+https://github.com/kurt1288/Puffin
+
+PulChess
+Moreno Carullo (ITA)
+https://web.archive.org/web/20100202041128/
+http://tweety.pulc.it/pages/pulchess.html
+https://github.com/morenocarullo/pulchess/commits/master
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Pulsar
+Mike Adams (USA)
+http://www.lanternchess.com/pulsar/
+http://wayback.archive.org/web/20070618150443/
+http://www.adam16mr.org/pulsar.html
+
+Pulse
+Phokham Nonava (CHE)
+https://web.archive.org/web/20161126000215/
+http://www.fluxchess.com:80/pulse/
+https://github.com/fluxroot/pulse
+
+Pupsi2
+Jesper Nielsen (DNK)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Pupsi%20%28Compilation%29/
+
+Purple Haze
+Vincent Ollivier (FRA)
+https://github.com/vinc/purplehaze
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YlRudXRwUGFfYXM
+
+PurplePanda
+Jakob Steininger (AUT)
+https://github.com/Jakob256/PurplePanda
+
+Pwned
+Steve Mulligan (USA)
+https://web.archive.org/web/20201126004553/
+https://pwnedthegameofchess.com/download/
+
+PyChess
+Tamas Bajusz (HUN)
+Thomas Ahle Dybdahl (DNK)
+Justin Blanchard (FRA)
+https://github.com/pychess/pychess/releases
+
+Pyotr
+John Marountas (GRC)
+https://bitbucket.org/marjohn/pyotrce/downloads
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+PyTuroChamp
+Martin C. Doege (DEU)
+https://github.com/mdoege/PyTuroChamp/
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6ay04RjVtUDVTUG8
+
+Qapla
+Volker Böhm (DEU)
+https://github.com/Mangar2/Quabla
+
+Quanticade
+Martin Botka (CZE)
+https://github.com/Quanticade/Quanticade
+
+Quark
+Thomas Mayer (DEU)
+http://www.quarkchess.de/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/QuarkChess%20%28Compilation%29/
+
+Quazar
+Dmitry Morozov (RUS)
+http://web.archive.org/web/20201024030932/
+https://sites.google.com/site/chessquazar/
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+Queen
+Leen Ammeraal (NLD)
+http://web.archive.org/web/20210617232734/
+http://home.planet.nl/~ammeraal/chess.html
+http://web.archive.org/web/
+http://home.planet.nl/~ammeraal/software/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Queen%20%28Compilation%29/
+
+QueeNy
+Harm Geert Muller (NLD)
+http://hgm.nubati.net/QN.exe
+
+Quokka
+Matt Palmer (USA)
+https://github.com/mattbruv/Quokka
+https://rwbc-chess.de/download.htm
+
+QuTeChess
+Ales Zamuda (SVN)
+http://sourceforge.net/projects/qutechess/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Radiance
+Paul-Elie Pipelin (FRA)
+https://github.com/ppipelin/radiance
+
+Raffaela
+Stefano Gemma (ITA)
+http://www.linformatica.com/index-scacchi.php
+
+Rainman
+Johnny Bigert (SWE)
+http://www.johnnybigert.se/chess_computer.html
+
+RamJet
+Edoardo Manino (ITA)
+https://web.archive.org/web/20181222132545/
+http://www.g-sei.org/ramjet/
+https://rwbc-chess.de/download.htm
+
+Ranita
+Jean-Yves Lallemand (FRA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Rapahel
+Rei Meguro (JPN)
+https://github.com/Orbital-Web/Raphael
+
+RapChess
+Thibor Raven (POL)
+https://github.com/Thibor/RapChessCs
+https://github.com/Thibor/RapChessCs/tree/master/Release
+https://github.com/Thibor/Rapspeed
+
+Rasch
+Ingo Wechsung (DEU)
+https://github.com/Ingo60/rasch
+https://rwbc-chess.de/download.htm
+
+Rasher
+Morten Lohne (NOR)
+https://github.com/MortenLohne/rasher/releases
+https://rwbc-chess.de/download.htm
+
+RataAeroespacial
+Daniel Uranga (ARG)
+http://web.archive.org/web/20201017151446/
+https://sites.google.com/site/rataaeroespacial/Home
+
+RattateChess
+Maurizio Monge (ITA)
+http://web.archive.org/web/20220630023526/
+https://sites.google.com/site/rattatajedrez/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Raven
+Steve Griffin (GBR)
+https://github.com/sgriffin53/raven
+https://ravenchessengine.itch.io/raven-chess-engine
+
+RBrChess
+Roger Broertjes (NLD)
+http://web.archive.org/web/20210511232252/
+https://home.kpn.nl/rogerbroertjes/
+http://web.archive.org/web/
+http://home.kpn.nl/rogerbroertjes/
+
+RDchess
+Rudolf Posch (AUT)
+http://rdchess.blogspot.de/
+https://web.archive.org/web/20050309185315/
+http://www.rdchess.com/
+
+Reckless
+Arseniy Surkov (RUS)
+https://github.com/codedeliveryservice/Reckless
+
+RedQueen
+Ben-Hur Carlos Langoni Junior (BRA)
+http://sourceforge.net/projects/redqueenchess/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Redtail
+George Munyoro (ZAF)
+https://github.com/georgemunyoro/rusty-redtail
+https://rwbc-chess.de/download.htm
+
+Reger
+Bert van den Bosch (NLD)
+https://web.archive.org/web/20200704193739/
+http://members.chello.nl/b.bosch8/
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Renegade
+Krisztian Peocz (HUN)
+https://github.com/pkrisz99/Renegade
+
+Rengar
+Thomas Swayze (USA)
+https://github.com/teswayze/rengar
+https://rwbc-chess.de/download.htm
+
+Requiem
+Severi Salminen (FIN)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Requiem%20%28Compilation%29/
+
+Resp
+Peter Rosendahl (DEU)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Revati
+Clemens Pruell (AUT)
+https://web.archive.org/web/20171028055151/
+http://www.free-space.at:80/cpruell/index.html
+
+Revenge
+Fabio Gobbato (ITA)
+https://www.revengechess.com/
+
+Rhetoric
+Alberto Sanjuan (ESP)
+https://web.archive.org/web/20170928152256/
+http://chessrhetoric.com/
+
+Rival
+Chris Moreton (GBR)
+https://web.archive.org/web/20161003024204/
+http://www.rivalchess.com/downloads/
+https://github.com/chris-moreton/rival-chess-uci
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Rival Java
+Chris Moreton (GBR)
+https://github.com/chris-moreton/rivalchess-uci/releases
+https://web.archive.org/web/20161003024204/
+http://www.rivalchess.com/downloads/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://sourceforge.net/projects/sjce/files/chess_engines_nb-src/
+
+Robin
+Piotr Dachtera (POL)
+https://web.archive.org/web/20040523180613/
+http://www.robinchess.of.pl/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Robin%20v0.983-a/
+
+Robocide
+Daniel White (GBR)
+https://github.com/DanielWhite94/robocide
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+https://web.archive.org/web/
+http://tmokonen.net84.net/RobocideFeb13-CygwinTMBugfix.rar
+https://rwbc-chess.de/download.htm
+
+RoboKewlper
+Kevin Markman (USA)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+Roce
+Roman Hartmann (CHE)
+http://www.rocechess.ch/rocee.html
+http://www.rocechess.ch/roce395.zip
+
+Rocinante
+Antonio Torrecillas (ESP)
+https://web.archive.org/web/20221112085014/
+https://sites.google.com/site/barajandotrebejos/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Rodent
+Pawel Koziol (POL)
+Pablo Vazquez (ESP)
+http://www.pkoziol.cal24.pl/rodent/history.htm
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://sourceforge.net/projects/rodentchess/files/rodent/
+
+Rodent II-IV
+Pawel Koziol (POL)
+Pablo Vazquez (ESP)
+https://github.com/nescitus/rodent-iv
+https://github.com/nescitus/Rodent_III
+https://ci.appveyor.com/project/nescitus/rodent-iii/branch/master/artifacts
+https://github.com/nescitus/Rodent_II
+http://www.pkoziol.cal24.pl/opental/
+https://web.archive.org/web/20160313044248/
+http://pkoziol.cal24.pl/rodent/rodent_download.htm
+https://drive.google.com/file/d/0B-PM8aD2-9I4dXVySm9CZVgtRWc
+https://rwbc-chess.de/download.htm
+
+Rodin
+Fermin Serrano (ESP)
+https://sites.google.com/site/clonfsp/rodin-chess-engine
+http://web.archive.org/web/20090907193958/
+http://rodin.chess.googlepages.com/
+
+Rofchade
+Ronald Friederich (NLD)
+http://rofchade.nl/
+
+RomiChess
+Michael Sherwin (USA)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Ronja
+Johan Dykström (SWE)
+https://github.com/dykstrom/ronja
+
+Roque
+Francisco Javier Salido Gomez (ESP)
+https://sites.google.com/site/roquechess/roque-chess-engine
+
+Rotor
+Jan Brouwer (NLD)
+https://web.archive.org/web/20220928210712/
+https://sites.google.com/site/chessrotor/
+
+RubiChess
+Andreas Matthies (DEU)
+https://github.com/Matthies/RubiChess/
+https://rwbc-chess.de/download.htm
+
+RubyKnight
+Chris Moyer (USA)
+http://github.com/cdmoyer/RubyKnight
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Ruffian
+Per Ola Valfridson (SWE)
+http://web.archive.org/web/20150813225947/
+http://ruffian.hkust.se/
+http://web.archive.org/web/20101125095832/
+http://lokasoft.nl/ruffian.htm
+http://www.amateurschach.de/download/_ruffian-older-versions.zip
+
+RukChess
+Ilya Rukavishnikov (RUS)
+https://github.com/Ilya-Ruk/RukChess
+
+Rustic
+Marcel Vanthoor (NLD)
+https://github.com/mvanthoor/rustic
+
+Rusty Rival
+Chris Moreton (GBR)
+https://github.com/chris-moreton/rusty-rival
+
+RustyPigeon
+Daniele Scarinci (ITA)
+https://github.com/TrinTragula/rusty-pigeon
+https://scarinci.dev/
+
+RuyDos
+Alvaro Begue (ESP)
+https://web.archive.org/web/
+https://bitbucket.org/alonamaloh/ruydos/
+https://web.archive.org/web/20200622045240/
+https://bitbucket.org/alonamaloh/ruydos/downloads/
+
+Rybka
+Vasik Rajlich (CZE)
+https://web.archive.org/web/20160510131533/
+http://rybkaforum.net/mwf/rybkaattach/61/144261/FreeRybkas.7z
+http://www.rybkachess.com/
+http://shop.chessbase.com/en/categories/39
+
+Sabertooth
+Dylan Hunn (USA)
+https://drive.google.com/file/d/1NqUTizZOYCmJYcxnb_cgknu5sNQYCix8/view?usp=sharing
+https://dylhunn.github.io/sabertooth/
+https://github.com/dylhunn/sabertooth-source
+
+Sabrina
+Stefano Gemma (ITA)
+http://www.linformatica.com/index-scacchi.php
+
+Sachy
+Martin Macok (CZE)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+http://web.archive.org/web/20021208030047/
+http://xtrmntr.org/ORBman/download/sachy-0.2.00.tar.bz2
+https://github.com/rchastain/sachy
+https://gitlab.com/rchastain/sachy
+https://rwbc-chess.de/download.htm
+
+Safrad
+David Safranek (CZE)
+http://sx.rosada.cz/projects/safrad
+
+Sage
+David Dahlem (USA)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Sage%20%28Compilation%29/
+
+SamChess
+Jonathan Kreuzer (USA)
+https://www.3dkingdoms.com/chess/sam/samchess.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YlRudXRwUGFfYXM
+https://rwbc-chess.de/download.htm
+
+Sapeli
+Toni Helminen (FIN)
+https://github.com/SamuraiDangyo/sapeli-final
+https://github.com/SamuraiDangyo/mayhem/releases/tag/v0.45
+
+Sargon 1978
+Kathe + Dan Spracklen (USA)
+https://github.com/billforsternz/retro-sargon
+http://web.archive.org/web/20070614114334/
+http://madscientistroom.org/chm/Sargon.html
+https://www.chessprogramming.org/Sargon
+https://triplehappy.com/downloads/Sargon-1978-V1.01Beta.exe
+
+Saruman
+Conor Griffin (GBR)
+https://github.com/ConorGriffin37/chess/
+https://mega.nz/F!z8lzwKRY!NNbIAN7pEX7J-jD_kPwdRA
+
+Saturn
+Egor Moroz (BLR)
+https://github.com/egormoroz/saturn
+
+Sayuri
+Ishibashi Hironori (JPN)
+https://github.com/MetalPhaeton/sayuri
+
+Schola
+Andy Platt (USA)
+https://web.archive.org/web/20120105013010/
+http://mysite.verizon.net/the_platts/schola.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Schooner
+Dennis Sceviour (CAN)
+https://sites.google.com/site/schoonerchess/
+https://drive.google.com/file/d/1Q2RHzfjZbbQhH8MgSIED-Yr31-Wmu-Y9/view
+https://github.com/schooner64-chess/Schooner-Chess.git
+
+Scidlet
+Shane Hudson (NZL)
+https://web.archive.org/web/20201106232406/
+https://sourceforge.net/p/scid/wiki/Scidlet/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Scorpio
+Daniel Shawul (ETH)
+https://web.archive.org/web/20221002171235/
+https://sites.google.com/site/dshawul/
+https://github.com/dshawul/Scorpio
+https://www.dropbox.com/s/csq6a2s8kepnw34/Scorpio-master.7z?dl=0
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+SCP
+John Stanback (USA)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20201106232848/
+http://john.stanback.net/
+https://web.archive.org/web/20200806141329/
+http://john.stanback.net/gnuchess.zip
+https://web.archive.org/web/20200806141328/
+http://john.stanback.net/Gnuchess_201_ja.zip
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+SdBC
+Stefan de Buhr (DEU)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://web.archive.org/web/20021002201153/
+http://www.sdbsoft.com/sdbchess/
+https://web.archive.org/web/20140222124006/
+http://www.sdbcs.de/de-de/Freie-Software/SdBC
+
+Seahorse
+Sam Cordes (USA)
+https://github.com/swcordes/chess-engine
+
+Seawall
+Petur Runolfsson (ISL)
+https://github.com/petur/seawall
+
+SebLagueCE
+Sebastian Lague (ZAF)
+https://github.com/SebLague/Chess-AI
+https://github.com/lithander/SebLagueChessEngine
+
+SecondChess
+Emilio Diaz (ESP)
+https://github.com/emdio/secondchess
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YlRudXRwUGFfYXM
+
+SEE
+Tor Lattimore (AUS)
+https://web.archive.org/web/20120315060442/
+http://home.netspeed.com.au/lattimore/download.htm
+
+Seer
+Connor McMonigle (USA)
+https://github.com/connormcmonigle/seer-nnue
+
+Seggz
+Tomi Salmonen (FIN)
+https://github.com/tailow/chess-engine
+
+Senpai
+Fabien Letouzey (FRA)
+http://www.chessprogramming.net/senpai/
+https://www.amateurschach.de/download/_senpai-older-versions.zip
+https://rwbc-chess.de/download.htm
+
+Serendipity
+Shawn Xu (USA)
+https://github.com/xu-shawn/Serendipity
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Shallow2
+Dmitry Sultanov (RUS)
+http://dimock.anabar.ru/
+https://github.com/dimock/shallow
+https://github.com/dimock/chess
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://rwbc-chess.de/download.htm
+
+ShallowBlue
+Rhys Rustad-Elliott (CAN)
+https://github.com/GunshipPenguin/shallow-blue
+
+SharpChess
+Albert Bertilsson (SWE)
+https://web.archive.org/web/20070607093301/
+http://www.albert.nu/default.asp?sub=programs/default.asp?sub=sharpchess/main.htm
+
+SharpChess2
+Peter Hughes (USA)
+https://web.archive.org/web/20190715031326/
+http://sharpchess.com/
+https://github.com/PeterHughes/SharpChess
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Sharper
+Albert Bertilsson (SWE)
+https://web.archive.org/web/20061014115710/
+http://www.albert.nu/default.asp?sub=programs/default.asp%3Fsub=sharper/main.htm
+
+Shatranj
+Sam Tannous (USA)
+http://wayback.archive.org/web/20120521001935/
+http://code.google.com:80/p/shatranjpy/
+https://github.com/stannous/shatranj
+
+Shen Yu
+Aaron Li (USA)
+https://github.com/AAce3/ShenYu
+
+Shield
+Luigi Ripamonti (ITA)
+https://sites.google.com/site/shieldchessengine/
+
+Shippo
+Marco Meloni (ITA)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+Shredder (Deep)
+Stefan Meyer-Kahlen (DEU)
+http://www.shredderchess.com/
+
+Shuffle
+Arjun Basandrai (IND)
+https://github.com/ArjunBasandrai/shuffle-chess-engine
+
+Shutranj
+Okash Khawaja (PAK)
+https://github.com/bytefire/Shutranj/
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Sierzant
+Mariusz Rostek (POL)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+http://strony.toya.net.pl/~sierzant29/download.html
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+SilChess
+Oliver Hamann (DEU)
+https://github.com/ackalker/eaglemode/tree/master/src/SilChess
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+SilkeChess
+Thomas Steinfeld (DEU)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+SillyChess
+Eugene Zemtsov (RUS)
+https://github.com/Djuffin/SillyChess/
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+
+Simbelmyne
+Sam Roelants (FRA)
+https://github.com/sroelants/simbelmyne
+
+Simon
+Dan Honeycutt (USA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Simontacchi
+Mike Maxim (USA)
+http://simontacchi.sourceforge.net/index.html
+https://sourceforge.net/projects/simontacchi/files/simontacchi/Simontacchi--Release2-win32/
+https://sourceforge.net/projects/simontacchi/files/simontacchi/Simontacchi--Release1-Win32/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Simple
+Rémi Coulom (FRA)
+https://web.archive.org/web/20050324021048/
+http://remi.coulom.free.fr/
+
+Simplex
+Antonio Torrecillas (ESP)
+https://web.archive.org/web/20221112085014/
+https://sites.google.com/site/barajandotrebejos/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Sinapse
+Samuel Shoji Fukujima Goto (BRA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Sinobyl
+Eric Oldre (USA)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Sinobyl%201.5%20release%2029.11.2008/
+https://web.archive.org/web/20130513000108/
+http://www.oldre.com/chess/sinobyl/download/Latista120.zip
+
+Sissa
+Christophe J. Mandin (FRA)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20120810164529/
+http://evvoen.free.fr/SISSA/
+
+Sjaak II
+Evert Glebbeek (NLD)
+http://www.eglebbk.dds.nl/program/chess-index.html
+http://www.eglebbk.dds.nl/program/download/sjaakii-1.5.0RC-win.zip
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Sjakk
+Jacob Boers Lind (NOR)
+https://web.archive.org/web/20201106232906/
+http://www.pvv.ntnu.no/~jacobbl/jacob/Sjakk/Sjakk.htm
+
+Sjeng (Deep)
+Gian-Carlo Pascutto (BEL)
+http://sjeng.org/index.html
+http://sjeng.org/indexold.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20021005032533/
+http://sjeng.sourceforge.net/ftp/
+
+Skaki
+Greg Lazarou (GRC)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Skiull
+Tony Soares (VEN)
+http://skiull.blogspot.de
+
+Skotz
+Scott Clayton (USA)
+https://github.com/skotz/skotz-chess-engine/releases
+
+Slibo
+Gunther Piez (DEU)
+http://slibo.sourceforge.net/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Sloppy
+Ilari Pihlajisto (FIN)
+https://github.com/cutechess/sloppy
+https://web.archive.org/web/20220816002955/
+http://ilaripih.mbnet.fi/sloppy/index.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Sloth
+William Sjölund (SWE)
+https://github.com/Williamguttn/Sloth
+
+SlowChessBlitz
+Jonathan Kreuzer (USA)
+https://3dkingdoms.com/chess/slow.htm
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+SM-FIDE
+Stefano Marago (ITA)
+https://sourceforge.net/projects/smmax/files/
+
+Smallbrain
+Max Allendorf (DEU)
+https://github.com/Disservin/Smallbrain
+
+SmallC
+Eric Marathee (FRA)
+http://perso.numericable.com/monique.marathee/gibbon_downloads_page.html
+
+SmallPotato
+Alejandro Dubovsky (AUS)
+https://github.com/alito/smallpotato
+https://rwbc-chess.de/download.htm
+
+SmarThink
+Sergey Markov (RUS)
+http://smarthink.ru/
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+http://www.aigroup.narod.ru/SmarThinke.htm
+
+Smash (Deep)
+Maurizio Sambati (ITA)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+http://web.archive.org/web/20201015165318/
+https://sites.google.com/site/chessphenomenon/smash
+
+Smirf
+Reinhard Scharnagl (DEU)
+https://web.archive.org/web/20160319105546/
+http://www.10x8.net/chess/SMIRF.html
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Smirf%20BC%20173g%20X%20-%20Smirfoglot%20Adapter%20wb/
+
+SnailChess
+Chan Rashjid (SGP)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Snitch
+Klaus Friedel (DEU)
+http://www.friedelprivat.de/
+http://web.archive.org/web/
+http://www.friedelprivat.de/
+
+Snowy
+Jason Creighton (USA)
+https://github.com/JasonCreighton/snowy
+https://rwbc-chess.de/download.htm
+
+Soberango
+Luis Babboni (ARG)
+https://web.archive.org/web/20191124132333/
+http://www.luisb.com.ar/Soberango/Soberango.html
+
+SoFCheck
+Alexander Kernozhitsky (BLR)
+https://github.com/alex65536/sofcheck
+
+Soldat
+Marco Giusfredi (ITA)
+https://web.archive.org/web/2019
+http://www.g-sei.org/soldat/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Sophy
+Ryo Teguramori (JPN)
+https://github.com/syanidar/Sophy
+https://drive.google.com/open?id=0B-PM8aD2-9I4eFVQcFlqZjlIS00
+https://drive.google.com/open?id=0B-PM8aD2-9I4SFE0WDMyU25zQ28
+
+Sorgenkind
+Steffen Basting (DEU)
+http://www.computer-chess.org/doku.php?id=computer_chess:engines:sorgenkind:index
+
+SOS
+Rudolf Huber (DEU)
+https://web.archive.org/web/20180928024821/
+http://www.playwitharena.com/?Partner_Chess_Engines
+
+SpaceDog
+Eric Silverman (GBR)
+https://github.com/thorsilver/SpaceDog
+
+Spaghet
+Li Ying (USA)
+https://github.com/yl25946/spaghet
+
+Spark
+Allard Siemelink (NLD)
+https://web.archive.org/web/20120302103748/
+http://members.ziggo.nl/allard.siemelink/spark/
+
+Spartan
+Christian Daley (USA)
+https://github.com/christiandaley/Spartan
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+https://rwbc-chess.de/download.htm
+
+SpiderChess
+Martin Giepmans (NLD)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Spike
+Volker Böhm (DEU)
+http://spike.lazypics.de/index.html
+
+Squared-Chess
+Jost Triller (DEU)
+https://gitlab.com/tsoj/squared-chess/
+
+SSEChessII
+Samuel Slutzky (USA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+https://rwbc-chess.de/download.htm
+
+Stan's Chess
+Stan Arts (NLD)
+https://rwbc-chess.de/download.htm
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+StAndersen
+Erik Robertsson (SWE)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Starzix
+Ricardo Pinto (PRT)
+https://github.com/zzzzz151/z5
+
+Stash
+Morgan Houppin (FRA)
+https://gitlab.com/mhouppin/stash-bot
+https://github.com/mhouppin/stash-bot
+https://rwbc-chess.de/download.htm
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Stellar
+Dimitrije Dobrota (SRB)
+https://github.com/DimitrijeDobrota/stellar
+https://rwbc-chess.de/download.htm
+
+StockDory
+Shaheryar Sohail (USA)
+https://github.com/TheBlackPlague/StockDory
+
+Stockfish
+Tord Romstad (NOR)
+Marco Costalba (ITA)
+Joona Kiiski (FIN)
+Lucas Braesch (FRA)
+Stephane Nicolet (FRA)
+Joost VandeVondele (NLD)
+Michael Chaly (RUS)
+Gary Linscott (CAN)
+Stefan Geschwentner (DEU)
+Nasu Yu (JPN)
+Isozaki Motohiro (JPN)
+Noda Hisayori (JPN)
+https://stockfishchess.org/
+https://github.com/official-stockfish/Stockfish
+http://abrok.eu/stockfish/
+https://tests.stockfishchess.org/nns
+https://robotmoon.com/nnue-training-data/
+https://github.com/glinscott/fishtest/wiki/Regression-Tests
+https://groups.google.com/g/fishcooking
+https://github.com/syzygy1/Cfish
+https://github.com/Counterply/asmFish/tree/asmFish-CounterPly
+https://github.com/lantonov/asmFish
+http://chess.ultimaiq.net/stockfish.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://nextchessmove.com/dev-builds
+https://discord.com/channels/435943710472011776/718853716266188890
+
+StockNemo
+Shaheryar Sohail (USA)
+https://github.com/TheBlackPlague/StockNemo
+
+StoneChess
+Thibor Raven (POL)
+https://github.com/Thibor/StoneChess
+https://github.com/Thibor/StoneChess/tree/master/x64/Release
+
+Storm
+Sean Empey (USA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Stormphrax
+Conor Anstey (GBR)
+https://github.com/Ciekce/Stormphrax
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+StrategicDeep
+Marcin Gardyjan (POL)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Stupid
+Steinar H. Gunderson (NOR)
+https://git.sesse.net/?p=stupid
+https://drive.google.com/drive/folders/0B9voFYjJVtn_YTBqZHlLYzU4X3M
+
+Suff
+Clemens Pruell (AUT)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Sunfish
+Thomas Ahle Dybdahl (DNK)
+https://github.com/thomasahle/sunfish
+
+Sungorus
+Pablo Vazquez (ESP)
+http://web.archive.org/web/20201106232450/
+https://sites.google.com/site/sungorus/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Sunsetter
+Georg von Zimmermann (DEU)
+http://sunsetter.sourceforge.net/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Supernova
+Minkai Yang (USA)
+https://github.com/MichaeltheCoder7/Supernova
+
+Superpawn
+John Byrd (USA)
+https://github.com/johnwbyrd/superpawn
+
+Supra
+Pedro Mourao Soares Correia (PRT)
+http://www.supra-chess-engine.com/
+https://web.archive.org/web/20190829055816/
+http://www.supra-chess-engine.info/
+https://web.archive.org/web/
+http://www.supra-chess-engine.info/
+
+Surprise
+Sven Schüle (DEU)
+http://www.schuelebln.de/chess/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Svart
+Christopher Torgrip (SWE)
+https://github.com/crippa1337/svart
+
+Swordfight
+Lukasz Kozuchowski (POL)
+https://github.com/evalapply/Swordfight/
+
+Swordfish
+Patrick Huang (USA)
+https://github.com/phuang1024/swordfish
+
+Taktix
+Matthias Gemuh (CMR)
+https://web.archive.org/web/20210614064823/
+http://www.chess.hylogic.de/
+http://tonyschess.x10host.com/Gemuh.7z
+
+Taltos
+Gabor Buella (HUN)
+https://github.com/GBuella/Taltos
+https://drive.google.com/open?id=0B-PM8aD2-9I4aTJIYkhZZ2dfaDA
+https://drive.google.com/open?id=0B-PM8aD2-9I4bWhXRzROWXNzWFE
+
+Talvmenni
+Eydun Nielsen (FRO)
+http://talvmenni.sourceforge.net/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://sourceforge.net/projects/sjce/files/chess_engines_nb-src/
+
+Tamerlane
+Luigi Ripamonti (ITA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Tao
+Bas Hamstra (NLD)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+https://mega.nz/file/GawyiBzI#2IFznVYGPkbl7q1-7xH9ry50-W28kk08fqG295WkNwU
+
+TarraschToyEngine
+Bill Forster (USA)
+http://www.triplehappy.com/downloads.html
+https://github.com/billforsternz/tarrasch-toy-engine/tree/main/src
+
+Tcheran
+Jonathan Gilchrist (GBR)
+https://github.com/jgilchrist/chess-engine
+
+TDFA
+Malik Tremain (GBR)
+https://github.com/TiltedDFA/TDFA
+
+Teki
+Manik Charan (IND)
+https://github.com/Mk-Chan/Teki
+
+Terra
+Peter Fendrich (SWE)
+https://web.archive.org/web/20200129123222/
+http://terra.fendrich.se/
+https://web.archive.org/web/
+http://wbec-ridderkerk.nl/html/download/terra
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6ay04RjVtUDVTUG8
+
+Testina
+Sandro Corsini (ITA)
+https://web.archive.org/web/2019
+http://www.g-sei.org/testina/
+
+Texel
+Peter Österlund (SWE)
+https://github.com/peterosterlund2/texel/releases
+https://www.dropbox.com/sh/v16dye7ww33x7oe/AAAnVK4s3EIaUay1ihcsBCu3a
+https://www.dropbox.com/sh/v16dye7ww33x7oe/AACwXW-W2q0_a9LzIstvAqvsa/old?
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://wayback.archive.org/web/20161019021317/
+http://web.comhem.se:80/petero2home/javachess/index.html
+
+The Baron
+Richard Pijl (NLD)
+https://thebaronchess.wordpress.com/
+https://thebaronchess.wordpress.com/downloads/
+
+The Turk
+Yakup Ipek (TUR)
+https://web.archive.org/web/20210701004137/
+https://archive.codeplex.com/?p=theturk
+
+TheCrazyBishop
+Remi Coulom (FRA)
+http://remi.coulom.free.fr/
+
+TheKing
+Johan de Koning (NLD)
+https://en.wikipedia.org/wiki/Chessmaster
+https://www.myabandonware.com/search/q/chessmaster+11
+
+Thinker
+Lance Perkins (CAN)
+https://web.archive.org/web/20201023031923/
+http://www.oocities.org/thechessthinker/download.html
+https://www.mediafire.com/folder/dp9fd6xum50l3/engines
+https://rwbc-chess.de/download.htm
+
+Thor's Hammer
+Toma Roncevic (HRV)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Thrawn
+Feiyu Lin (CAN)
+https://github.com/feftywacky/Thrawn
+
+Tiffanys
+Bernhard von Gunten (CHE)
+https://web.archive.org/web/20181105005748/
+http://tiffanys.sourceforge.net/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Tigran
+Gabor Mihaly (HUN)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Tikov
+Martin Holder (GBR)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20010611104933/
+http://www.tikov.org/
+
+Timea
+Laszlo Gaspar (HUN)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Tinman
+Mike Leany (USA)
+https://github.com/mikeleany/tinman
+https://mega.nz/#!jh0DiQgY!ZAecSOWLJN7_3BiSn3TaaJcipBCnrmyvhlelpOF2MWI
+https://mega.nz/#!jw0h0a4Q!ky4iLySIooLHnn0DKKOMMF0Do8tsae80u6JbLcTmlEk
+https://mega.nz/#!j0kkTaQK!TQZTWjMPc7p3uNXx-3fLg7DgeSSNl7aGWqVJZD3EJrc
+
+Tiny Chess
+Kelvyn Yang (USA)
+https://drive.google.com/open?id=0B-PM8aD2-9I4S2dXWE4xaHRmaTQ
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Titan
+Jeffrey Powell (USA)
+https://github.com/jeff-pow/Titan
+https://rwbc-chess.de/download.htm
+
+TJChess
+Tony Hecker (USA)
+http://tonyjh.com/chess/tjchess/
+
+Tofiks
+Arturs Priede (GBR)
+https://github.com/likeawizard/tofiks
+
+Toledo NanoChess
+Oscar Toledo Gutierrez (MEX)
+http://nanochess.org/chess3.html
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Tom-Thumb
+Tom Kalmijn (NLD)
+http://tomthumbchess.com/
+https://web.archive.org/web/20190610112540/
+http://tomthumbchess.com/
+
+tomitankChess
+Tamas Kuzmics (HUN)
+https://github.com/tomitank/tomitankChess
+
+Tony's Chess
+Tony Mokonen (CAN)
+http://tonyschess.x10host.com/
+
+Topas
+Sam Nelson (USA)
+https://github.com/samcn8/topas
+
+Topple
+Vincent Tang (GBR)
+https://github.com/konsolas/ToppleChess/
+
+Tornado
+Engin Üstün (DEU)
+https://rwbc-chess.de/download.htm
+
+Trace
+Ross Boyd (AUS)
+https://web.archive.org/web/
+http://www.members.optusnet.com.au/~john.boyd/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/TRACE%20%28Compilation%29%20-%20WinBoard%20X/
+
+TRex
+Christophe Drieu (FRA)
+https://web.archive.org/web/20050105232208/
+http://membres.lycos.fr/refigny63/nf3.htm
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Tri-OS
+Derek Holmes (USA)
+http://chess.dubmun.com/download.html
+
+Trinket
+Daniel Ke (USA)
+https://github.com/DkeRee/Trinket
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Tristram
+James Swafford (USA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Trynyty
+László Szalai (HUN)
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/
+
+Tscp
+Thomas Kerrigan (USA)
+http://www.tckerrigan.com/Chess/TSCP/
+https://sites.google.com/site/tscpchess/home
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+https://web.archive.org/web/20070227041906/
+http://home.comcast.net:80/~tckerrigan/tscp173.zip
+http://web.archive.org/web/
+http://ucsu.colorado.edu/~kerrigat/
+
+Tucano
+Alcides Schulz (BRA)
+http://web.archive.org/web/20220819033505/
+https://sites.google.com/site/tucanochess/
+https://github.com/alcides-schulz/Tucano
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Tunguska
+Fernando Tenorio (BRA)
+https://github.com/fernandotenorio/Tunguska
+https://drive.google.com/file/d/0B-PM8aD2-9I4TVZ5c0Jma1YxY1U
+http://www.mediafire.com/file/4c03fd384kwr2n3/Tunguska.zip
+
+Turgenev
+Chad Williamson (USA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Tursas
+Timo Myyrä (FIN)
+https://github.com/zmyrgel/tursas
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+TuxedoCat
+Nathan McCrina (USA)
+https://github.com/nfmccrina/tuxedocat
+
+TwistedLogic
+Edsel Apostol (PHL)
+https://web.archive.org/web/20220816082359/
+https://sites.google.com/site/edapostol/twistedlogic
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Twisted%20Logic%20(Compilation)/
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Typhoon
+Scott Gasch (USA)
+https://web.archive.org/web/20170825002604/
+http://wannabe.guru.org/svn/typhoon/trunk/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Tyrell
+Normand Blais (FRA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Tytan
+Tomasz Michniewski (POL)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Ufim
+Niyaz Khasanov (RUS)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Ufim%20%28Compilation%29/
+
+Unidexter
+Michael Aherne (GBR)
+https://github.com/micaherne/unidexter
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://sourceforge.net/projects/sjce/files/chess_engines_nb-src/
+
+Uragano
+Luca Naddei (ITA)
+http://www.naddei.it/uragano_3d/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Uragano%20(Compilation)/
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Uralochka
+Ivan Maklyakov (RUS)
+https://gitlab.com/freemanzlat/uralochka3
+https://gitlab.com/freemanzlat/uralochka3/-/releases
+https://gitlab.com/freemanzlat/uralochka3/-/artifacts
+https://web.archive.org/web/20181231123854/
+http://marisoft.ru/load/3-1-0-35
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+https://drive.google.com/drive/folders/1p0ND2AGCs8CR0r-s7AnMHaKGvh3Yj_YQ?usp=sharing
+https://drive.google.com/file/d/1QdfLio-ax8kRmktonFmUi_539hQ5w-PU/view?usp=share_link
+
+UsurpatorII
+Harm-Geert Muller (NLD)
+http://home.hccnet.nl/h.g.muller/usurpatorIIemu.exe
+
+Usurper
+Horace Christopher (USA)
+https://web.archive.org/web/20050411013248/
+http://wave.prohosting.com/chris992/usurper.htm
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Usurper%200.5/
+
+Vajolet2
+Marco Belli (ITA)
+https://github.com/elcabesa/vajolet
+https://code.google.com/archive/p/vajolet2/downloads
+https://code.google.com/archive/p/vajolet2/source/default/source
+
+VanillaChess
+Shaun Press (USA)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://chessexpress.blogspot.de/
+
+Vapor
+Mike Leany (USA)
+https://github.com/mikeleany/vapor
+http://web.archive.org/web/
+http://b5c8203c-a-6e207ed6-s-sites.googlegroups.com/a/mikeleany.com/vapor/download/
+
+Vault
+Morgan Houppin (FRA)
+https://github.com/mhouppin/vault
+
+Velvet
+Martin Honert (DEU)
+https://github.com/mhonert/velvet-chess
+
+Vice
+Richard Allbert (GBR)
+http://www.bluefeversoft.com/
+https://github.com/bluefeversoft/vice
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6ay04RjVtUDVTUG8
+
+Vicki
+Jaco Van Niekerk (ZAF)
+http://www.vicki.co.za/
+
+Victoire
+Matteo Delucchi (CHE)
+https://github.com/MattEstHaut/Victoire
+
+Violet (Deep)
+Jay Lindgren (USA)
+https://web.archive.org/web/20180924181104/
+http://www.violetchess.com/home
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6ay04RjVtUDVTUG8
+
+Viper
+Tord Romstad (NOR)
+https://web.archive.org/web/20071027054148/
+http://www.glaurungchess.com/viper/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Viridithas
+Cosmo Bobak (GBR)
+https://github.com/cosmobobak/virtue
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Virutor Chess
+Vaclav Vavra (CZE)
+http://web.archive.org/web/20220129082359/
+https://sites.google.com/site/virutor/Home/windows
+
+Vividmind
+Mauritz Sjödin (SWE)
+https://github.com/Mauritz8/Vividmind
+https://rwbc-chess.de/download.htm
+https://drive.proton.me/urls/9TRAQG8SXC#3J2pemAZ0DpV
+
+Wahoo
+Andrew Hockman (USA)
+https://github.com/spamdrew128/Wahoo
+
+Waldi
+Finn Eggers (DEU)
+Noah Caplinger (USA)
+https://github.com/Luecx/Chess/tree/master/engines
+https://github.com/Luecx/Chess
+
+Walleye
+Mitchel Paulin (CAN)
+https://github.com/MitchelPaulin/Walleye
+
+Warrior
+Aleksandrs Saveljevs (LVA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Wasabi
+Martin Honert (DEU)
+https://github.com/mhonert/chess
+
+Wasp
+John Stanback (USA)
+https://waspchess.stanback.net/
+
+Waxman
+Ivan Bacigal (USA)
+http://www.waxman2008.com/whatsnew.html
+
+WChess
+David Kittinger (USA)
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6ay04RjVtUDVTUG8
+http://talkchess.com/forum3/viewtopic.php?f=2&t=67385&p=761559
+
+Weasel
+Trey Moller (USA)
+https://github.com/WeaselFOSS/Chess
+
+Weiawaga
+Kyle Krowpman (USA)
+https://github.com/Heiaha/Weiawaga
+
+WeiawagaJ
+Kyle Krowpman (USA)
+https://github.com/Heiaha/WeiawagaJ
+
+Weini
+Vivien Clauzon (FRA)
+https://github.com/tryingsomestuff/Weini
+https://drive.google.com/open?id=1DDptYQYVGFb7mavUD8ZE5jGReHmHurBO
+
+Weiss
+Terje Kirstihagen (NOR)
+https://github.com/TerjeKir/weiss
+https://drive.google.com/open?id=1nddiwUxn8W0IcYVker78pMOjJtjJ9veb
+https://rwbc-chess.de/download.htm
+
+WhiteCore
+Balazs Szilagyi (HUN)
+https://github.com/SzilBalazs/WhiteCore
+
+WildCat
+Igor Korshunov (BLR)
+http://www.igorkorshunov.narod.ru/WildCat/index.html
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/WildCat%20(Compilation)/
+
+Willow
+Adam Kulju (CAN)
+https://github.com/Adam-Kulju/Willow
+
+Wing
+Stef Luijten (NLD)
+https://web.archive.org/web/20080516214345/
+http://www.sluijten.com/wing/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Winglet
+Stef Luijten (NLD)
+http://web.archive.org/web/20120621100214/
+http://www.sluijten.com/winglet/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Winter
+Jonathan Rosenthal (CHE)
+https://github.com/rosenthj/Winter
+
+Witz
+Pradu Kannan (USA)
+http://witz.sourceforge.net/index.php
+https://sourceforge.net/projects/witz/
+
+WJChess
+Jean-Francois Gazet (FRA)
+https://web.archive.org/web/20170606180946/
+https://en.jeffprod.com/wjchess/wjchess-engine.html
+
+Woodpecker
+Evgeniy Korniloff (RUS)
+https://web.archive.org/web/
+http://www.sbor.net/~e_k/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Woodpecker%20v2.11.5%20-%20EchoBoard%201.05/
+
+Wowl
+Eric Yip (HKG)
+https://github.com/Plan-B6/wowl/
+https://drive.google.com/open?id=1zQuoFeGrcOpUrk4mLVOcljC8oq-9bCOA
+
+WSpeirs Chess
+William Speirs (USA)
+https://github.com/wspeirs/chess
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+WukongJS
+Maksym Korzh (UKR)
+https://github.com/maksimKorzh/wukongJS
+https://github.com/maksimKorzh/wukong
+
+Wuttang
+Lokesh Patel (IND)
+https://github.com/lokesh58/Wuttang
+https://drive.google.com/open?id=0B-PM8aD2-9I4ZnlaNGlUdlRPcjQ
+
+WyldChess
+Manik Charan (IND)
+https://github.com/Mk-Chan/WyldChess
+
+Xadreco
+Ruben Carlo Benante (BRA)
+https://github.com/drbeco/xadreco
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://web.archive.org/web/20131010204404/
+http://xadreco.wikispaces.com/
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://drive.google.com/drive/folders/0B5Ao6h_yMCl6ay04RjVtUDVTUG8
+
+Xiphos
+Milos Tatarevic (USA)
+https://github.com/milostatarevic/xiphos
+
+Xpdnt
+David B. Weller (USA)
+https://web.archive.org/web/20191230070041/
+http://www.opraus.com/ai/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://web.archive.org/web/
+http://www.opraus.com/ai/
+
+Yace
+Dieter Bürssner (DEU)
+http://web.archive.org/web/
+http://home1.stofanet.dk/moq/download/
+https://rwbc-chess.de/download.htm
+
+Yakka
+Christopher Crone (USA)
+https://github.com/CJDalrymple/Yakka
+
+Yawce
+Jakob Sandholm (DNK)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Yoda
+Daniel Anulliero (FRA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Youk
+Loïc Cuenot (FRA)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Zagreus
+Danny Jelsma (NLD)
+https://github.com/Dannyj1/ZagreusEngine
+
+Zahak
+Amanj Sherwany (KUR)
+https://github.com/amanjpro/zahak
+
+Zappa
+Anthony Cozzie (USA)
+http://www.acoz.net/zappa/
+
+Zarkov
+John Stanback (USA)
+http://john.stanback.net/zarkov/zarkov_history.html
+https://waspchess.stanback.net/zarkov_downloads/zarkov-collection.zip
+https://web.archive.org/web/20200819041139/
+http://john.stanback.net/zarkov/zarkov_methods.html
+
+Zchess2
+Eamonn Ramsay (GBR)
+https://web.archive.org/web/20061012104711/
+http://www.eamonnramsay.plus.com/ChessProjWeb/chessNotes.html
+https://web.archive.org/web/20061128082533/
+http://www.eamonnramsay.plus.com/
+https://web.archive.org/web/20060814022351/
+http://www.eamonnramsay.plus.com/QChessSource.zip
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+ZCT
+Zach Wegner (USA)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+http://sourceforge.net/projects/zct/
+https://github.com/zwegner/zct
+
+Zephyr
+Thomas Schlapp (DEU)
+https://web.archive.org/web/20240327023443/
+http://www.computer-chess.org/doku.php?id=computer_chess:wiki:download:engine_download_list
+
+Zeta
+Srdja Matovic (MNE)
+https://gitlab.com/smatovic/Zeta
+https://zeta-chess.app26.de/tag/Zeta/
+https://zeta-chess.app26.de/downloads/
+
+Zeta Dva
+Srdja Matovic (MNE)
+https://gitlab.com/smatovic/ZetaDva
+https://zeta-chess.app26.de/downloads/
+
+Zeus
+Vadim Bykov (RUS)
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+http://kirr.dyndns.org/chess/engines/Norbert's%20collection/Zeus%20%28Compilation%29/
+
+Zevra
+Oleg Smirnov (RUS)
+https://github.com/sovaz1997/Zevra2
+https://gitlab.com/sovaz1997/zevra2/
+https://github.com/sovaz1997/Zevra
+https://web.archive.org/web/
+http://www.sdchess.ru/engines/
+
+Ziggurat
+David Norris (USA)
+http://web.archive.org/web/20140911084546/
+http://mysite.verizon.net/vze16nq0r/id8.html
+http://web.archive.org/web/
+http://mysite.verizon.net/vze16nq0r//
+http://davidcnorris.wixsite.com/ziggurat
+http://tonyschess.x10host.com/OldLozzaZiggurat.7z
+
+Ziggy
+Hrafn Eiriksson (ISL)
+http://github.com/krummi/ChessEngine
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Zochova
+Gabor Buella (HUN)
+https://sourceforge.net/projects/zochova/
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Zoe
+James Stanley (GBR)
+http://github.com/jes/zoe
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
+
+Zoidberg
+Manuel Diaz (ESP)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+https://web.archive.org/web/20201022063847/
+https://sites.google.com/site/manuelalza2/
+
+Zotron
+Patrick M. King (USA)
+http://computer-chess.org/doku.php?id=computer_chess:wiki:download:index
+
+Zurichess
+Alexandru Mosoi (ROU)
+https://bitbucket.org/zurichess/zurichess
+https://web.archive.org/web/20191022024327/
+http://www.zurichess.xyz/
+
+ZZZZZZ
+Gijsbert Wiesenekker (NLD)
+https://mega.nz/folder/P10URKzI#5hiV02lv1VgBTg3LxUBiew/folder/qs8BxCqT
