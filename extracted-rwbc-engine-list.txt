@@ -817,10 +817,8 @@ https://github.com/n4h/Captain-chess
 Capture
 Sylvain Renard (FRA)
 
-
 Carnivor
 Michael Sherwin (USA)
-
 
 Carp
 Andrea Sgobbi (ITA)
@@ -1768,7 +1766,6 @@ https://github.com/alcides-schulz/Xadrez
 
 Equinox
 Claudio del la Corte (ITA)
-
 
 Equisetum
 Alexander Litov (RUS)
@@ -3712,7 +3709,6 @@ http://vroddon.sdf-eu.org/ajedrez/ajedrez.html
 
 Onno
 Onno Garms (DEU)
-
 
 Orion
 David Carteau (FRA)
