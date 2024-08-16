@@ -1,4 +1,3 @@
-
 4ku
 John Taylor (USA)
 Gediminas Masaitis (LTU)
@@ -14,7 +13,7 @@ Roman Korba (DEU)
 https://web.archive.org/web/20170813003623/
 http://romankorba.homepage.t-online.de/
 
-Absolute-Zero
+Absolute Zero
 Zong Zheng Li (CHN)
 https://github.com/zongzhengli/Absolute-Zero
 https://zongzhengli.github.io/
