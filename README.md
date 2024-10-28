@@ -1,7 +1,7 @@
 # misc-chess-projects
  A place to put ongoing projects of varying usefulness
 
-The full Fide Info Repository can be found at: https://1drv.ms/f/c/91ee28d00abf9121/Ejvz6YCC83xOsEeaYqc6TDoBx0YiRhPWQrwEtKcx8QStTA?e=e4x70Y
+The full Fide Info Repository can be found at: https://www.mediafire.com/folder/4zpehmcwv9y2t/fide
 
 The file edo.ssp is an Scid ratings file.
 
